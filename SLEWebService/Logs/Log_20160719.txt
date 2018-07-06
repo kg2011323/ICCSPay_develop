@@ -1,0 +1,119 @@
+2016-07-19 08:51:30,682 INFO  67 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130528307926224085,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 08:51:30,715 ERROR 67 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 08:51:33,819 INFO  67 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719085130000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:2,account:oPB8XtyTeeJexiw-UIVLKBmRN18g,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 08:51:33,820 DEBUG 67 SLEWebService:S1_001:3140.7512
+2016-07-19 08:51:35,237 INFO  67 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130528307926224085,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 08:51:35,237 ERROR 67 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 08:51:35,838 INFO  67 SLEWebService:S1_001:Resp:{respCode:0003,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719085135000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 08:51:35,838 DEBUG 67 SLEWebService:S1_001:601.9394
+2016-07-19 08:51:37,542 INFO  67 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130528307926224085,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 08:51:37,542 ERROR 67 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 08:51:38,118 INFO  67 SLEWebService:S1_001:Resp:{respCode:0003,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719085137000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 08:51:38,119 DEBUG 67 SLEWebService:S1_001:577.1951
+2016-07-19 08:51:48,049 INFO  16 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130528307926224085,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 08:51:48,049 ERROR 16 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 08:51:48,575 INFO  16 SLEWebService:S1_001:Resp:{respCode:0003,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719085148000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 08:51:48,575 DEBUG 16 SLEWebService:S1_001:526.5166
+2016-07-19 08:51:49,104 INFO  16 SLEWebService:S1_002:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:,deviceId:6804048016,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719085148000000000000001}
+2016-07-19 08:51:49,198 INFO  16 SLEWebService:S1_002:Resp:{respCode:0009,respCodeMemo:,expandAttribute:,paymentDate:00010101000000,amount:0,paymentAccount:,paymentResult:FAILED,paymentDesc:}
+2016-07-19 08:51:49,198 DEBUG 16 SLEWebService:S1_002:94.3222
+2016-07-19 08:51:52,039 INFO  16 SLEWebService:S1_004:Req:IP:[127.0.0.1]:{reqSysDate:20160513111825,operationCode:S1_004,cityCode:020,deviceId:6804048016,channelType:00,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719085148000000000000001,takeSingleTicketNum:1,takeSingleTicketDate:20160513111825}
+2016-07-19 08:51:52,062 INFO  16 SLEWebService:S1_004:Resp:{respCode:0009,respCodeMemo:,expandAttribute:}
+2016-07-19 08:51:52,062 DEBUG 16 SLEWebService:S1_004:24.5115
+2016-07-19 08:52:55,302 INFO  16 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130139324167777462,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 08:52:55,302 ERROR 16 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 08:52:56,840 INFO  16 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719085255000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:2,account:oPB8XtyTeeJexiw-UIVLKBmRN18g,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 08:52:56,841 DEBUG 16 SLEWebService:S1_001:1539.4583
+2016-07-19 08:53:37,530 INFO  16 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130139324167777462,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 08:53:54,181 ERROR 16 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 08:55:22,450 INFO  16 SLEWebService:S1_001:Resp:{respCode:0003,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719085352000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 08:55:22,450 DEBUG 16 SLEWebService:S1_001:104912.6491
+2016-07-19 08:55:58,268 INFO  16 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130139324167777462,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 08:55:58,268 ERROR 16 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 08:55:59,034 INFO  16 SLEWebService:S1_001:Resp:{respCode:0003,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719085558000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 08:55:59,035 DEBUG 16 SLEWebService:S1_001:767.6583
+2016-07-19 09:17:45,474 INFO  59 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130218143892972289,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 09:17:45,474 ERROR 59 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 09:17:46,961 INFO  59 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719091745000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:2,account:oPB8XtyTeeJexiw-UIVLKBmRN18g,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 09:17:46,962 DEBUG 59 SLEWebService:S1_001:1488.7009
+2016-07-19 09:17:48,058 INFO  27 SLEWebService:S1_002:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:,deviceId:6804048016,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719091745000000000000001}
+2016-07-19 09:17:48,114 INFO  27 SLEWebService:S1_002:Resp:{respCode:0009,respCodeMemo:,expandAttribute:,paymentDate:00010101000000,amount:0,paymentAccount:,paymentResult:FAILED,paymentDesc:}
+2016-07-19 09:17:48,115 DEBUG 27 SLEWebService:S1_002:57.645
+2016-07-19 09:18:28,481 INFO  27 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130169452058810758,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 09:18:28,481 ERROR 27 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 09:18:28,976 INFO  27 SLEWebService:S1_001:Resp:{respCode:0003,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719091828000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 09:18:28,977 DEBUG 27 SLEWebService:S1_001:496.8252
+2016-07-19 09:18:43,263 INFO  59 SLEWebService:S1_002:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:,deviceId:6804048016,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719091828000000000000001}
+2016-07-19 09:19:12,431 INFO  59 SLEWebService:S1_002:Resp:{respCode:0009,respCodeMemo:,expandAttribute:,paymentDate:00010101000000,amount:0,paymentAccount:,paymentResult:FAILED,paymentDesc:}
+2016-07-19 09:19:12,432 DEBUG 59 SLEWebService:S1_002:29166.8285
+2016-07-19 09:20:50,503 INFO  16 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130123106877437613,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 09:20:50,503 ERROR 16 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 09:20:51,596 INFO  16 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719092050000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:2,account:oPB8XtyTeeJexiw-UIVLKBmRN18g,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 09:20:51,597 DEBUG 16 SLEWebService:S1_001:1094.6114
+2016-07-19 09:21:00,888 INFO  59 SLEWebService:S1_002:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:,deviceId:020,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719092050000000000000001}
+2016-07-19 09:21:20,769 INFO  59 SLEWebService:S1_002:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,paymentDate:20160719092051,amount:2,paymentAccount:oPB8XtyTeeJexiw-UIVLKBmRN18g,paymentResult:SUCCESS,paymentDesc:}
+2016-07-19 09:21:20,770 DEBUG 59 SLEWebService:S1_002:19880.4982
+2016-07-19 09:21:25,810 INFO  13 SLEWebService:S1_002:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:,deviceId:020,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719092050000000000000001}
+2016-07-19 09:21:28,484 INFO  13 SLEWebService:S1_002:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,paymentDate:20160719092051,amount:2,paymentAccount:oPB8XtyTeeJexiw-UIVLKBmRN18g,paymentResult:SUCCESS,paymentDesc:}
+2016-07-19 09:21:28,484 DEBUG 13 SLEWebService:S1_002:2674.5246
+2016-07-19 09:21:30,540 INFO  13 SLEWebService:S1_002:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:,deviceId:020,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719092050000000000000001}
+2016-07-19 09:21:30,582 INFO  13 SLEWebService:S1_002:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,paymentDate:20160719092051,amount:2,paymentAccount:oPB8XtyTeeJexiw-UIVLKBmRN18g,paymentResult:SUCCESS,paymentDesc:}
+2016-07-19 09:21:30,582 DEBUG 13 SLEWebService:S1_002:42.864
+2016-07-19 09:21:31,175 INFO  16 SLEWebService:S1_002:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:,deviceId:020,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719092050000000000000001}
+2016-07-19 09:21:31,201 INFO  16 SLEWebService:S1_002:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,paymentDate:20160719092051,amount:2,paymentAccount:oPB8XtyTeeJexiw-UIVLKBmRN18g,paymentResult:SUCCESS,paymentDesc:}
+2016-07-19 09:21:31,202 DEBUG 16 SLEWebService:S1_002:27.2401
+2016-07-19 09:21:31,736 INFO  13 SLEWebService:S1_002:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:,deviceId:020,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719092050000000000000001}
+2016-07-19 09:21:31,760 INFO  13 SLEWebService:S1_002:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,paymentDate:20160719092051,amount:2,paymentAccount:oPB8XtyTeeJexiw-UIVLKBmRN18g,paymentResult:SUCCESS,paymentDesc:}
+2016-07-19 09:21:31,760 DEBUG 13 SLEWebService:S1_002:24.4476
+2016-07-19 09:21:32,667 INFO  13 SLEWebService:S1_004:Req:IP:[127.0.0.1]:{reqSysDate:20160513111825,operationCode:S1_004,cityCode:020,deviceId:020,channelType:00,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719092050000000000000001,takeSingleTicketNum:1,takeSingleTicketDate:20160513111825}
+2016-07-19 09:21:32,697 INFO  13 SLEWebService:S1_004:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-07-19 09:21:32,698 DEBUG 13 SLEWebService:S1_004:31.2913
+2016-07-19 09:21:33,610 INFO  59 SLEWebService:S1_004:Req:IP:[127.0.0.1]:{reqSysDate:20160513111825,operationCode:S1_004,cityCode:020,deviceId:020,channelType:00,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719092050000000000000001,takeSingleTicketNum:1,takeSingleTicketDate:20160513111825}
+2016-07-19 09:21:33,632 INFO  59 SLEWebService:S1_004:Resp:{respCode:0008,respCodeMemo:,expandAttribute:}
+2016-07-19 09:21:33,632 DEBUG 59 SLEWebService:S1_004:22.8668
+2016-07-19 09:21:35,409 INFO  16 SLEWebService:S1_004:Req:IP:[127.0.0.1]:{reqSysDate:20160513111825,operationCode:S1_004,cityCode:020,deviceId:020,channelType:00,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719092050000000000000001,takeSingleTicketNum:1,takeSingleTicketDate:20160513111825}
+2016-07-19 09:21:35,431 INFO  16 SLEWebService:S1_004:Resp:{respCode:0008,respCodeMemo:,expandAttribute:}
+2016-07-19 09:21:35,432 DEBUG 16 SLEWebService:S1_004:22.7588
+2016-07-19 09:21:35,936 INFO  59 SLEWebService:S1_004:Req:IP:[127.0.0.1]:{reqSysDate:20160513111825,operationCode:S1_004,cityCode:020,deviceId:020,channelType:00,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:S20160719092050000000000000001,takeSingleTicketNum:1,takeSingleTicketDate:20160513111825}
+2016-07-19 09:21:35,957 INFO  59 SLEWebService:S1_004:Resp:{respCode:0008,respCodeMemo:,expandAttribute:}
+2016-07-19 09:21:35,957 DEBUG 59 SLEWebService:S1_004:21.5153
+2016-07-19 10:26:53,240 INFO  4 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130123106877437613,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 10:26:53,241 ERROR 4 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 10:26:54,097 INFO  4 SLEWebService:S1_001:Resp:{respCode:0003,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719102653000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 10:26:54,098 DEBUG 4 SLEWebService:S1_001:858.9344
+2016-07-19 10:27:19,795 INFO  16 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130123106877437613,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 10:27:41,077 ERROR 16 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 10:27:42,663 INFO  16 SLEWebService:S1_001:Resp:{respCode:0003,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719102736000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 10:27:42,664 DEBUG 16 SLEWebService:S1_001:22868.2335
+2016-07-19 10:27:47,165 INFO  4 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130123106877437613,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 10:27:55,940 ERROR 4 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 10:27:57,596 INFO  4 SLEWebService:S1_001:Resp:{respCode:0003,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719102751000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 10:27:57,597 DEBUG 4 SLEWebService:S1_001:10431.8005
+2016-07-19 10:28:01,524 INFO  16 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130123106877437613,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 10:28:14,222 ERROR 16 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 10:28:14,939 INFO  16 SLEWebService:S1_001:Resp:{respCode:0003,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719102806000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 10:28:14,939 DEBUG 16 SLEWebService:S1_001:13415.1612
+2016-07-19 14:12:18,200 INFO  16 :Application_Start:ASP.global_asax2016-07-19 14:12:18:Application Start!
+2016-07-19 14:12:29,771 INFO  16 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130123106877437613,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 14:12:54,885 ERROR 16 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-07-19 14:13:26,467 INFO  16 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719141241000000000000001,subject:TVM购票支付,body:坑口到坑口的2元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 14:13:26,467 DEBUG 16 SLEWebService:S1_001:56755.8551
+2016-07-19 14:13:38,854 INFO  38 SLEWebService:S1_001:Req:IP:[127.0.0.1]:{reqSysDate:,operationCode:,cityCode:020,deviceId:020,channelType:TVM,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:130123106877437613,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0102,getOffStationCode:0102,singleTicketPrice:200,singleTicketNum:1,singleTicketType:}
+2016-07-19 14:14:31,436 INFO  38 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20160719141241000000000000001,subject:,body:,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-07-19 14:14:31,436 DEBUG 38 SLEWebService:S1_001:54233.3265
+2016-07-19 15:19:42,911 INFO  16 :Application_End:ASP.global_asax2016-07-19 15:19:42:Application End!

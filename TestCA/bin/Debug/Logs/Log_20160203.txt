@@ -1,0 +1,2 @@
+2016-02-03 19:18:19,103 ERROR 10 StationInfoHelper:FillLatestAFCStationCodeList:An error occurred while executing the command definition. See the inner exception for details.
+2016-02-03 19:18:19,125 ERROR 10 StationInfoHelper:FillLatestAFCStationCodeList:对象名 'dbo.AFCStationCode' 无效。

@@ -1,0 +1,350 @@
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\log4net.config
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\SLEWebService.dll
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\SLEWebService.pdb
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\log4net.dll
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\PlatformLib.dll
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\ResultNofity.dll
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\ICCSPayAPI.dll
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\LitJson.dll
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\AopSdk.dll
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\PlatformLib.pdb
+E:\项目\移动支付\ICCSPay\SLEWebService\obj\Release\ResolveAssemblyReference.cache
+E:\项目\移动支付\ICCSPay\SLEWebService\obj\Release\SLEWebService.dll
+E:\项目\移动支付\ICCSPay\SLEWebService\obj\Release\SLEWebService.pdb
+E:\项目\移动支付\ICCSPay\SLEWebService\bin\ThoughtWorks.QRCode.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\log4net.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\SLEWebService.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\SLEWebService.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\log4net.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\PlatformLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\ResultNofity.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\ICCSPayAPI.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\LitJson.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\WxPayInterfaceLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\AlipayInterfaceLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\ThoughtWorks.QRCode.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\AopSdk.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\bin\PlatformLib.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\obj\Release\SLEWebService.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\Newtonsoft.Json.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\Newtonsoft.Json.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\Newtonsoft.Json.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\Newtonsoft.Json.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\Newtonsoft.Json.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\Newtonsoft.Json.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.XmlSerializers.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\Newtonsoft.Json.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.XmlSerializers.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.XmlSerializers.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\Newtonsoft.Json.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.XmlSerializers.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.XmlSerializers.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\Newtonsoft.Json.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.XmlSerializers.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.XmlSerializers.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ResultNofity.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\Newtonsoft.Json.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\obj\Release\SLEWebService.XmlSerializers.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\ThoughtWorks.QRCode.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebService\bin\AopSdk.dll

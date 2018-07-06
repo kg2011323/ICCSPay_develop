@@ -1,0 +1,156 @@
+2018-01-17 12:18:03,009 INFO  5 :Application_Start:ASP.global_asax2018-01-17 12:18:03:Application Start!
+2018-01-17 12:26:58,398 DEBUG 6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 12:26:55 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0501020002 Request RandomFact: 20161125140245680501020002002
+2018-01-17 12:26:59,345 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:开始拼接用户名（手机号）！
+2018-01-17 12:26:59,345 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:用户名为： Use****ount
+2018-01-17 12:26:59,346 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:26:59,346 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 3 订单步骤为：11
+2018-01-17 12:26:59,397 ERROR 6 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:26:59,397 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:通知IT订单：W20161010093540000000000000001 验票！
+2018-01-17 12:26:59,399 INFO  6 SLEWebService:S1_020:Resp:{respCode:0000,orderNo:W20161010093540000000000000001,pickupStationCode:6804,getOffStationCode:6804,singleTicketPrice:200,singleTicketNum:1}
+2018-01-17 12:28:52,267 INFO  6 WebPreOrderBo:WebOrderTaken:订单： W20161010093540000000000000001的订单执行步骤合法！
+2018-01-17 12:29:27,831 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:29:27,831 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 6 订单步骤为：15
+2018-01-17 12:29:27,831 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中取票数量： 0取票通知中取票时间： 2018/1/17 12:27:23取票通知中的通知类型为： 
+2018-01-17 12:29:27,883 ERROR 6 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:29:27,883 INFO  6 WebPreOrderBo:WebOrderTaken:通知IT订单：W20161010093540000000000000001 已经取票！
+2018-01-17 12:29:28,744 INFO  6 SLEWebService:S1_004:Resp:{respCode:0000}
+2018-01-17 12:31:10,003 DEBUG 14 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 12:31:00 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0501020002 Request RandomFact: 20161125140245680501020002002
+2018-01-17 12:31:10,004 INFO  14 SLEWebService:S1_020:Req:IP:[::1]:reqSysDate:20180117123100,deviceId:0501020002,channelType:04,orderNo:20161125140245680501020002002
+2018-01-17 12:31:10,005 INFO  14 SLEWebService:S1_020:Resp:{respCode:0004,orderNo:,pickupStationCode:,getOffStationCode:,singleTicketPrice:,singleTicketNum:}
+2018-01-17 12:31:10,005 DEBUG 14 SLEWebService:S1_020:2.1987
+2018-01-17 12:31:38,878 DEBUG 14 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 12:31:37 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0501020002 Request RandomFact: 20161125140245680501020002002
+2018-01-17 12:31:38,880 INFO  14 SLEWebService:S1_020:Req:IP:[::1]:reqSysDate:20180117123137,deviceId:0501020002,channelType:04,orderNo:20161125140245680501020002002
+2018-01-17 12:31:38,880 INFO  14 SLEWebService:S1_020:Resp:{respCode:0004,orderNo:,pickupStationCode:,getOffStationCode:,singleTicketPrice:,singleTicketNum:}
+2018-01-17 12:31:38,880 DEBUG 14 SLEWebService:S1_020:1.8873
+2018-01-17 12:32:59,329 DEBUG 14 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 12:32:56 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0501020002 Request RandomFact: 20161125140245680501020002002
+2018-01-17 12:32:59,330 INFO  14 SLEWebService:S1_020:Req:IP:[::1]:reqSysDate:20180117123256,deviceId:0501020002,channelType:04,orderNo:20161125140245680501020002002
+2018-01-17 12:32:59,331 INFO  14 SLEWebService:S1_020:Resp:{respCode:0004,orderNo:,pickupStationCode:,getOffStationCode:,singleTicketPrice:,singleTicketNum:}
+2018-01-17 12:32:59,331 DEBUG 14 SLEWebService:S1_020:2.3062
+2018-01-17 12:37:18,052 INFO  16 :Application_End:ASP.global_asax2018-01-17 12:37:18:Application End!
+2018-01-17 12:37:42,128 INFO  6 :Application_Start:ASP.global_asax2018-01-17 12:37:42:Application Start!
+2018-01-17 12:38:55,878 DEBUG 10 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 12:38:54 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0901020001 Request RandomFact: 20180117095658420901020001001
+2018-01-17 12:38:56,179 INFO  10 WebPreOrderBo:SnapQRCodeTakeOrderQuery:开始拼接用户名（为空）！
+2018-01-17 12:38:56,180 INFO  10 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:38:56,181 INFO  10 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 3 订单步骤为：11
+2018-01-17 12:38:56,181 ERROR 10 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:38:56,182 INFO  10 WebPreOrderBo:SnapQRCodeTakeOrderQuery:通知IT订单：W20180117095637000000000000001 验票！
+2018-01-17 12:38:56,182 INFO  10 SLEWebService:S1_020:Resp:{respCode:0000,orderNo:W20180117095637000000000000001,pickupStationCode:0901,getOffStationCode:0902,singleTicketPrice:200,singleTicketNum:1}
+2018-01-17 12:40:27,117 INFO  12 WebPreOrderBo:WebOrderTaken:订单： W20180117095637000000000000001的订单执行步骤合法！
+2018-01-17 12:42:06,509 INFO  12 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:42:06,510 INFO  12 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 6 订单步骤为：15
+2018-01-17 12:42:06,510 INFO  12 WebPreOrderBo:TicketTakeNotify:取票通知中取票数量： 0取票通知中取票时间： 2018/1/17 12:39:00取票通知中的通知类型为： 
+2018-01-17 12:42:06,636 ERROR 12 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:42:06,637 INFO  12 WebPreOrderBo:WebOrderTaken:通知IT订单：W20180117095637000000000000001 已经取票！
+2018-01-17 12:42:11,081 INFO  12 SLEWebService:S1_004:Resp:{respCode:0000}
+2018-01-17 12:42:24,582 DEBUG 12 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 12:42:19 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0901020001 Request RandomFact: 20180117095658420901020001001
+2018-01-17 12:42:24,586 INFO  12 SLEWebService:S1_020:Req:IP:[::1]:reqSysDate:20180117124219,deviceId:0901020001,channelType:04,orderNo:20180117095658420901020001001
+2018-01-17 12:42:24,586 INFO  12 SLEWebService:S1_020:Resp:{respCode:0004,orderNo:,pickupStationCode:,getOffStationCode:,singleTicketPrice:,singleTicketNum:}
+2018-01-17 12:42:24,587 DEBUG 12 SLEWebService:S1_020:4.3652
+2018-01-17 12:44:54,000 DEBUG 13 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 12:43:51 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0901020001 Request RandomFact: 20180117095658420901020001001
+2018-01-17 12:45:20,981 INFO  13 WebPreOrderBo:SnapQRCodeTakeOrderQuery:开始拼接用户名（为空）！
+2018-01-17 12:45:21,645 INFO  13 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:45:21,645 INFO  13 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 3 订单步骤为：11
+2018-01-17 12:45:21,783 ERROR 13 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:45:26,447 INFO  13 WebPreOrderBo:SnapQRCodeTakeOrderQuery:通知IT订单：W20180117095637000000000000001 验票！
+2018-01-17 12:45:34,435 INFO  13 SLEWebService:S1_020:Resp:{respCode:0000,orderNo:W20180117095637000000000000001,pickupStationCode:0901,getOffStationCode:0902,singleTicketPrice:200,singleTicketNum:1}
+2018-01-17 12:45:53,094 INFO  17 WebPreOrderBo:WebOrderTaken:订单： W20180117095637000000000000001的订单执行步骤合法！
+2018-01-17 12:46:50,274 INFO  17 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:46:56,762 INFO  17 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 6 订单步骤为：15
+2018-01-17 12:46:59,012 INFO  17 WebPreOrderBo:TicketTakeNotify:取票通知中取票数量： 0取票通知中取票时间： 2018/1/17 12:45:34取票通知中的通知类型为： 
+2018-01-17 12:48:23,901 ERROR 17 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:48:23,901 INFO  17 WebPreOrderBo:WebOrderTaken:通知IT订单：W20180117095637000000000000001 已经取票！
+2018-01-17 12:48:23,907 INFO  17 SLEWebService:S1_004:Resp:{respCode:0000}
+2018-01-17 12:49:48,283 INFO  17 :Application_End:ASP.global_asax2018-01-17 12:49:48:Application End!
+2018-01-17 12:50:39,322 INFO  5 :Application_Start:ASP.global_asax2018-01-17 12:50:39:Application Start!
+2018-01-17 12:51:31,683 DEBUG 6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 12:51:26 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0901020001 Request RandomFact: 20180117095658420901020001001
+2018-01-17 12:51:34,375 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:开始拼接用户名（为空）！
+2018-01-17 12:51:34,376 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:51:34,376 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 3 订单步骤为：11
+2018-01-17 12:51:34,377 ERROR 6 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:51:34,377 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:通知IT订单：W20180117095637000000000000001 验票！
+2018-01-17 12:51:34,378 INFO  6 SLEWebService:S1_020:Resp:{respCode:0000,orderNo:W20180117095637000000000000001,pickupStationCode:0901,getOffStationCode:0902,singleTicketPrice:200,singleTicketNum:1}
+2018-01-17 12:51:56,556 INFO  6 WebPreOrderBo:WebOrderTaken:订单： W20180117095637000000000000001的订单执行步骤合法！
+2018-01-17 12:52:01,789 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:52:04,477 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 6 订单步骤为：15
+2018-01-17 12:52:06,550 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中取票数量： 0取票通知中取票时间： 2018/1/17 12:51:39取票通知中的通知类型为： 
+2018-01-17 12:52:22,785 ERROR 6 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:52:22,786 INFO  6 WebPreOrderBo:WebOrderTaken:通知IT订单：W20180117095637000000000000001 已经取票！
+2018-01-17 12:52:23,333 INFO  6 SLEWebService:S1_004:Resp:{respCode:0000}
+2018-01-17 12:53:29,498 DEBUG 9 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 12:53:23 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0901020001 Request RandomFact: 20180117095658420901020001001
+2018-01-17 12:53:29,502 INFO  9 WebPreOrderBo:SnapQRCodeTakeOrderQuery:开始拼接用户名（为空）！
+2018-01-17 12:53:29,503 INFO  9 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:53:29,503 INFO  9 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 3 订单步骤为：11
+2018-01-17 12:53:29,503 ERROR 9 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:53:29,503 INFO  9 WebPreOrderBo:SnapQRCodeTakeOrderQuery:通知IT订单：W20180117095637000000000000001 验票！
+2018-01-17 12:53:29,503 INFO  9 SLEWebService:S1_020:Resp:{respCode:0000,orderNo:W20180117095637000000000000001,pickupStationCode:0901,getOffStationCode:0902,singleTicketPrice:200,singleTicketNum:1}
+2018-01-17 12:53:44,305 INFO  11 WebPreOrderBo:WebOrderTaken:订单： W20180117095637000000000000001的订单执行步骤合法！
+2018-01-17 12:53:51,482 INFO  11 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:53:51,504 INFO  11 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 6 订单步骤为：15
+2018-01-17 12:53:51,504 INFO  11 WebPreOrderBo:TicketTakeNotify:取票通知中取票数量： 0取票通知中取票时间： 2018/1/17 12:53:33取票通知中的通知类型为： 
+2018-01-17 12:56:59,059 ERROR 11 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:56:59,059 INFO  11 WebPreOrderBo:WebOrderTaken:通知IT订单：W20180117095637000000000000001 已经取票！
+2018-01-17 12:56:59,065 INFO  11 SLEWebService:S1_004:Resp:{respCode:0000}
+2018-01-17 12:57:17,078 INFO  11 :Application_End:ASP.global_asax2018-01-17 12:57:17:Application End!
+2018-01-17 12:57:52,065 INFO  5 :Application_Start:ASP.global_asax2018-01-17 12:57:52:Application Start!
+2018-01-17 12:58:26,164 DEBUG 6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 12:58:22 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0901020001 Request RandomFact: 20180117095658420901020001001
+2018-01-17 12:58:26,424 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:开始拼接用户名（为空）！
+2018-01-17 12:58:26,425 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:58:26,425 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 3 订单步骤为：11
+2018-01-17 12:58:26,426 ERROR 6 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:58:26,426 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:通知IT订单：W20180117095637000000000000001 验票！
+2018-01-17 12:58:26,427 INFO  6 SLEWebService:S1_020:Resp:{respCode:0000,orderNo:W20180117095637000000000000001,pickupStationCode:0901,getOffStationCode:0902,singleTicketPrice:200,singleTicketNum:1}
+2018-01-17 12:58:41,650 INFO  11 WebPreOrderBo:WebOrderTaken:订单： W20180117095637000000000000001的订单执行步骤合法！
+2018-01-17 12:58:44,314 INFO  11 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 12:58:44,315 INFO  11 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 6 订单步骤为：15
+2018-01-17 12:58:44,315 INFO  11 WebPreOrderBo:TicketTakeNotify:取票通知中取票数量： 0取票通知中取票时间： 2018/1/17 12:58:31取票通知中的通知类型为： 
+2018-01-17 12:59:00,817 ERROR 11 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 12:59:00,818 INFO  11 WebPreOrderBo:WebOrderTaken:通知IT订单：W20180117095637000000000000001 已经取票！
+2018-01-17 12:59:00,877 INFO  11 SLEWebService:S1_004:Resp:{respCode:0000}
+2018-01-17 12:59:56,056 INFO  11 :Application_End:ASP.global_asax2018-01-17 12:59:56:Application End!
+2018-01-17 13:00:12,152 INFO  5 :Application_Start:ASP.global_asax2018-01-17 13:00:12:Application Start!
+2018-01-17 13:01:07,223 DEBUG 6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 13:01:02 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0901020001 Request RandomFact: 20180117095658420901020001001
+2018-01-17 13:01:07,452 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:开始拼接用户名（为空）！
+2018-01-17 13:01:07,454 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 13:01:07,454 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 3 订单步骤为：11
+2018-01-17 13:01:07,454 ERROR 6 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 13:01:07,455 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:通知IT订单：W20180117095637000000000000001 验票！
+2018-01-17 13:01:07,455 INFO  6 SLEWebService:S1_020:Resp:{respCode:0000,orderNo:W20180117095637000000000000001,pickupStationCode:0901,getOffStationCode:0902,singleTicketPrice:200,singleTicketNum:1}
+2018-01-17 13:01:22,242 INFO  5 WebPreOrderBo:WebOrderTaken:订单： W20180117095637000000000000001的订单执行步骤合法！
+2018-01-17 13:01:24,642 INFO  5 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 13:01:24,642 INFO  5 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 6 订单步骤为：15
+2018-01-17 13:01:24,643 INFO  5 WebPreOrderBo:TicketTakeNotify:取票通知中取票数量： 0取票通知中取票时间： 2018/1/17 13:01:11取票通知中的通知类型为： 
+2018-01-17 13:01:47,321 ERROR 5 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 13:01:47,321 INFO  5 WebPreOrderBo:WebOrderTaken:通知IT订单：W20180117095637000000000000001 已经取票！
+2018-01-17 13:01:47,376 INFO  5 SLEWebService:S1_004:Resp:{respCode:0000}
+2018-01-17 13:02:31,233 INFO  5 :Application_End:ASP.global_asax2018-01-17 13:02:31:Application End!
+2018-01-17 13:02:44,113 INFO  5 :Application_Start:ASP.global_asax2018-01-17 13:02:44:Application Start!
+2018-01-17 13:03:08,579 DEBUG 6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 13:03:05 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0901020001 Request RandomFact: 20180117095658420901020001001
+2018-01-17 13:03:08,806 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:开始拼接用户名（为空）！
+2018-01-17 13:03:08,811 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 13:03:08,812 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 3 订单步骤为：11
+2018-01-17 13:03:08,812 ERROR 6 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 13:03:08,812 INFO  6 WebPreOrderBo:SnapQRCodeTakeOrderQuery:通知IT订单：W20180117095637000000000000001 验票！
+2018-01-17 13:03:08,813 INFO  6 SLEWebService:S1_020:Resp:{respCode:0000,orderNo:W20180117095637000000000000001,pickupStationCode:0901,getOffStationCode:0902,singleTicketPrice:200,singleTicketNum:1}
+2018-01-17 13:03:23,974 INFO  5 WebPreOrderBo:WebOrderTaken:订单： W20180117095637000000000000001的订单执行步骤合法！
+2018-01-17 13:03:26,509 INFO  5 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 13:03:26,509 INFO  5 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 6 订单步骤为：15
+2018-01-17 13:03:26,509 INFO  5 WebPreOrderBo:TicketTakeNotify:取票通知中取票数量： 0取票通知中取票时间： 2018/1/17 13:03:10取票通知中的通知类型为： 
+2018-01-17 13:03:28,098 ERROR 5 OdbcAccessService:RegisterDataSource:RegisterDataSource数据库驱动ODBC连接失败,错误： ConnectionString 属性尚未初始化。
+2018-01-17 13:03:37,080 INFO  5 WebPreOrderBo:TicketTakeNotify:已通知IT，未见异常！
+2018-01-17 13:03:37,081 INFO  5 WebPreOrderBo:WebOrderTaken:通知IT订单：W20180117095637000000000000001 已经取票！
+2018-01-17 13:03:37,271 INFO  5 SLEWebService:S1_004:Resp:{respCode:0000}
+2018-01-17 13:10:21,193 INFO  5 :Application_Start:ASP.global_asax2018-01-17 13:10:21:Application Start!
+2018-01-17 13:10:44,391 DEBUG 5 WebPreOrderBo:SnapQRCodeTakeOrderQuery:Request data: 2018/1/17 13:10:41 Request operateCode: S1_020 Request cityCode: 020 Request channelType: 04 Request DeviceId: 0901020001 Request RandomFact: 20180117095658420901020001001
+2018-01-17 13:10:44,620 INFO  5 WebPreOrderBo:SnapQRCodeTakeOrderQuery:开始拼接用户名（为空）！
+2018-01-17 13:10:44,626 INFO  5 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 13:10:44,626 INFO  5 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 3 订单步骤为：11
+2018-01-17 13:10:44,627 ERROR 5 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2018-01-17 13:10:44,627 INFO  5 WebPreOrderBo:SnapQRCodeTakeOrderQuery:通知IT订单：W20180117095637000000000000001 验票！
+2018-01-17 13:10:44,628 INFO  5 SLEWebService:S1_020:Resp:{respCode:0000,orderNo:W20180117095637000000000000001,pickupStationCode:0901,getOffStationCode:0902,singleTicketPrice:200,singleTicketNum:1}
+2018-01-17 13:10:58,292 INFO  6 WebPreOrderBo:WebOrderTaken:订单： W20180117095637000000000000001的订单执行步骤合法！
+2018-01-17 13:11:00,862 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单车票数量： 0
+2018-01-17 13:11:00,863 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中订单状态为： 6 订单步骤为：15
+2018-01-17 13:11:00,863 INFO  6 WebPreOrderBo:TicketTakeNotify:取票通知中取票数量： 0取票通知中取票时间： 2018/1/17 13:10:48取票通知中的通知类型为： 
+2018-01-17 13:11:02,398 ERROR 6 OdbcAccessService:RegisterDataSource:RegisterDataSource数据库驱动ODBC连接失败,错误： ConnectionString 属性尚未初始化。
+2018-01-17 13:11:08,131 INFO  6 WebPreOrderBo:TicketTakeNotify:已通知IT，未见异常！
+2018-01-17 13:11:13,055 INFO  6 WebPreOrderBo:WebOrderTaken:通知IT订单：W20180117095637000000000000001 已经取票！

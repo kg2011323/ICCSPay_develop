@@ -1,0 +1,30 @@
+2016-11-03 16:35:23,266 INFO  4 :Application_Start:ASP.global_asax2016-11-03 16:35:23:Application Start!
+2016-11-03 16:36:55,890 INFO  4 SLEWebService:S1_001:Req:IP:[::1]:{reqSysDate:20161103110583,operationCode:S1-001,cityCode:020,deviceId:0501020004,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:,msisdn:,iccid:,serviceId:,paymentVendor:1001,pickupStationCode:0501,getOffStationCode:,singleTicketPrice:0,singleTicketNum:0,singleTicketType:}
+2016-11-03 16:36:55,914 ERROR 4 TimeHelper:GetDateTimeYyyyMMddHHmmss:日历 System.Globalization.GregorianCalendar 中不支持该字符串所表示的 DateTime。
+2016-11-03 16:36:58,635 INFO  4 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:QS2016110316365500000000000001,subject:TVM扫码支付现场购票支付,body:起始站为0501的0元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-11-03 16:36:58,636 DEBUG 4 SLEWebService:S1_001:2747.7595
+2016-11-03 16:39:16,996 INFO  10 SLEWebService:S1_018:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016110316365500000000000001}
+2016-11-03 16:39:17,000 INFO  10 SLEWebService:S1_018:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,orderNo:QS2016110316365500000000000001,deviceId:QS2016110316365500000000000001,qrCode:}
+2016-11-03 16:39:17,000 DEBUG 10 SLEWebService:S1_018:4.5669
+2016-11-03 16:39:24,468 INFO  7 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016110316365500000000000001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:,erroCode:,errorMessage:}
+2016-11-03 16:39:24,486 INFO  7 SLEWebService:S1_005:Resp:{respCode:0004,respCodeMemo:,expandAttribute:}
+2016-11-03 16:39:24,486 DEBUG 7 SLEWebService:S1_005:18.7563
+2016-11-03 16:40:00,960 INFO  10 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016110316365500000000000001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:,erroCode:,errorMessage:}
+2016-11-03 16:40:00,963 INFO  10 SLEWebService:S1_005:Resp:{respCode:0004,respCodeMemo:,expandAttribute:}
+2016-11-03 16:40:00,963 DEBUG 10 SLEWebService:S1_005:3.5278
+2016-11-03 16:40:22,195 INFO  10 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016110316365500000000000001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:,erroCode:,errorMessage:}
+2016-11-03 16:41:18,771 INFO  10 SLEWebService:S1_005:Resp:{respCode:0004,respCodeMemo:,expandAttribute:}
+2016-11-03 16:41:18,772 DEBUG 10 SLEWebService:S1_005:57575.937
+2016-11-03 16:41:50,151 INFO  7 :Application_End:ASP.global_asax2016-11-03 16:41:50:Application End!
+2016-11-03 16:43:54,210 INFO  14 :Application_End:ASP.global_asax2016-11-03 16:43:54:Application End!
+2016-11-03 16:46:04,253 INFO  4 SLEWebService:S1_001:Req:IP:[::1]:{reqSysDate:20161103110583,operationCode:S1-001,cityCode:020,deviceId:0501020004,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:,msisdn:,iccid:,serviceId:,paymentVendor:1001,pickupStationCode:0501,getOffStationCode:,singleTicketPrice:0,singleTicketNum:0,singleTicketType:}
+2016-11-03 16:46:04,259 ERROR 4 TimeHelper:GetDateTimeYyyyMMddHHmmss:日历 System.Globalization.GregorianCalendar 中不支持该字符串所表示的 DateTime。
+2016-11-03 16:46:04,294 INFO  4 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:QS2016110316460400000000000001,subject:TVM扫码支付现场购票支付,body:起始站为0501的0元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-11-03 16:46:04,294 DEBUG 4 SLEWebService:S1_001:42.2971
+2016-11-03 16:46:08,418 INFO  13 SLEWebService:S1_018:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016110316365500000000000001}
+2016-11-03 16:46:08,421 INFO  13 SLEWebService:S1_018:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,orderNo:QS2016110316365500000000000001,deviceId:QS2016110316365500000000000001,qrCode:}
+2016-11-03 16:46:08,421 DEBUG 13 SLEWebService:S1_018:3.9826
+2016-11-03 16:46:14,518 INFO  7 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016110316365500000000000001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:,erroCode:0007,errorMessage:}
+2016-11-03 16:46:14,824 INFO  7 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-11-03 16:46:14,825 DEBUG 7 SLEWebService:S1_005:306.9982
+2016-11-03 16:47:18,162 INFO  19 :Application_End:ASP.global_asax2016-11-03 16:47:18:Application End!

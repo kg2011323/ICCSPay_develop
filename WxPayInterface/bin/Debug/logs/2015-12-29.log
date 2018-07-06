@@ -1,0 +1,110 @@
+2015-12-29 17:44:23.549 INFO MicroPay: Micropay is processing...
+2015-12-29 17:44:23.599 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[130434608635060971]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[ce39f56c5c3c4f86a7ae18562f396cfe]]></nonce_str><out_trade_no><![CDATA[130036270120151229174423410]]></out_trade_no><sign><![CDATA[4839C0530AACD38736F9404A85050EE4]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 17:44:25.600 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+2015-12-29 17:44:25.660 ERROR MicroPay: Micropay API interface call failure, result : <xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[签名错误]]></return_msg></xml>
+2015-12-29 17:49:01.739 INFO MicroPay: Micropay is processing...
+2015-12-29 17:49:12.848 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[ba31cd7a8f43405ebaf81524187cd328]]></nonce_str><out_trade_no><![CDATA[130036270120151229174901847]]></out_trade_no><sign><![CDATA[26DD1D1A2802E234CDB2AA71DA6A4037]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 17:59:18.356 INFO MicroPay: Micropay is processing...
+2015-12-29 17:59:41.004 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[dd1012a13a4645998da91363ded5f90b]]></nonce_str><out_trade_no><![CDATA[130036270120151229175918465]]></out_trade_no><sign><![CDATA[E689F336DFC3B76985DF01D7F6BEBD47]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:00:19.016 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+2015-12-29 18:00:19.125 ERROR MicroPay: Micropay API interface call failure, result : <xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[签名错误]]></return_msg></xml>
+2015-12-29 18:01:56.750 INFO MicroPay: Micropay is processing...
+2015-12-29 18:02:00.441 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[1605b8ec3fa04a9a9e31def757b044cc]]></nonce_str><out_trade_no><![CDATA[130036270120151229180156898]]></out_trade_no><sign><![CDATA[B4270260847F5F1442908DE26BB651BA]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:02:01.691 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+2015-12-29 18:02:01.721 ERROR MicroPay: Micropay API interface call failure, result : <xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[签名错误]]></return_msg></xml>
+2015-12-29 18:15:55.790 INFO MicroPay: Micropay is processing...
+2015-12-29 18:16:00.300 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[853252f750894f48ac81b0099fbd22a4]]></nonce_str><out_trade_no><![CDATA[130036270120151229181555903]]></out_trade_no><sign><![CDATA[1D299C60EEFDFB4F014F6C58E418F8A3]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:16:01.881 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+2015-12-29 18:16:01.921 ERROR MicroPay: Micropay API interface call failure, result : <xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[签名错误]]></return_msg></xml>
+2015-12-29 18:24:49.760 INFO MicroPay: Micropay is processing...
+2015-12-29 18:24:59.181 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[4f9c58b65ff94bd4a3693ca6d9205df9]]></nonce_str><out_trade_no><![CDATA[130036270120151229182449233]]></out_trade_no><sign><![CDATA[15DC3B760D975DF37B231A340B190941]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:25:02.902 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+2015-12-29 18:25:02.962 ERROR MicroPay: Micropay API interface call failure, result : <xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[签名错误]]></return_msg></xml>
+2015-12-29 18:26:32.425 INFO MicroPay: Micropay is processing...
+2015-12-29 18:26:35.602 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[33a54d904e8540ffbe63d23baf30b611]]></nonce_str><out_trade_no><![CDATA[123341000220151229182632397]]></out_trade_no><sign><![CDATA[E8F81515F14647352DD070AC58BF6341]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:26:36.172 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[oRgh1Xpy8Y9HI5lH]]></nonce_str>
+<sign><![CDATA[57F430D426992493D55601AA9E6A3EA0]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[请扫描微信支付被扫条码/二维码]]></err_code_des>
+</xml>
+2015-12-29 18:26:38.352 DEBUG MicroPay: Micropay response check sign success
+2015-12-29 18:26:38.352 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[请扫描微信支付被扫条码/二维码]]></err_code_des><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[oRgh1Xpy8Y9HI5lH]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[57F430D426992493D55601AA9E6A3EA0]]></sign></xml>
+2015-12-29 18:26:38.352 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+err_code=AUTHCODEEXPIRE
+err_code_des=请扫描微信支付被扫条码/二维码
+mch_id=1233410002
+nonce_str=oRgh1Xpy8Y9HI5lH
+result_code=FAIL
+return_code=SUCCESS
+return_msg=OK
+sign=57F430D426992493D55601AA9E6A3EA0
+
+2015-12-29 18:27:46.202 INFO MicroPay: Micropay is processing...
+2015-12-29 18:27:49.207 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[342c74450ac44ddba02e6867331e8834]]></nonce_str><out_trade_no><![CDATA[130036270120151229182746280]]></out_trade_no><sign><![CDATA[3FC53295F7BA54B74C747B76DDA55C89]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:27:49.837 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+2015-12-29 18:27:49.857 ERROR MicroPay: Micropay API interface call failure, result : <xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[签名错误]]></return_msg></xml>
+2015-12-29 18:29:21.160 INFO MicroPay: Micropay is processing...
+2015-12-29 18:29:24.021 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[54d09bebfb2c46289bce8531f926a884]]></nonce_str><out_trade_no><![CDATA[123341000220151229182921742]]></out_trade_no><sign><![CDATA[6956142278D252AE030B4DCADEBC417B]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:29:24.682 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+2015-12-29 18:29:24.722 ERROR MicroPay: Micropay API interface call failure, result : <xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[签名错误]]></return_msg></xml>
+2015-12-29 18:29:45.109 INFO MicroPay: Micropay is processing...
+2015-12-29 18:29:47.889 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[9dee4f93913e46baa32da3acf0417be5]]></nonce_str><out_trade_no><![CDATA[130036270120151229182945739]]></out_trade_no><sign><![CDATA[B6F159EF2885E9162786F60DBFBEB51F]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:29:48.199 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[商户号mch_id与appid不匹配]]></return_msg>
+</xml>
+2015-12-29 18:29:48.239 ERROR MicroPay: Micropay API interface call failure, result : <xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[商户号mch_id与appid不匹配]]></return_msg></xml>
+2015-12-29 18:30:14.475 INFO MicroPay: Micropay is processing...
+2015-12-29 18:30:17.324 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[e845ba7fd340455fa191bfc4f93e022a]]></nonce_str><out_trade_no><![CDATA[130036270120151229183014624]]></out_trade_no><sign><![CDATA[ACED5D9795F965F6720ECF4FE605D98B]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:30:17.634 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[商户号和公众号没有关联关系]]></return_msg>
+</xml>
+2015-12-29 18:30:17.654 ERROR MicroPay: Micropay API interface call failure, result : <xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[商户号和公众号没有关联关系]]></return_msg></xml>
+2015-12-29 18:30:44.581 INFO MicroPay: Micropay is processing...
+2015-12-29 18:30:47.452 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[690af33226474adda4b3c932f7b82569]]></nonce_str><out_trade_no><![CDATA[130036270120151229183044164]]></out_trade_no><sign><![CDATA[0B0D07A2E77CB314DF9DCDCDE4068F87]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:30:48.073 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[签名错误]]></return_msg>
+</xml>
+2015-12-29 18:30:48.093 ERROR MicroPay: Micropay API interface call failure, result : <xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[签名错误]]></return_msg></xml>
+2015-12-29 18:31:13.930 INFO MicroPay: Micropay is processing...
+2015-12-29 18:31:16.648 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[292aeff04b4846a7b44c9819e6888ab1]]></nonce_str><out_trade_no><![CDATA[123341000220151229183113853]]></out_trade_no><sign><![CDATA[746303D91E6E606DE62E83AAEA689BD7]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-29 18:31:17.228 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[cIdAHlf4yhTEJxqd]]></nonce_str>
+<sign><![CDATA[C6E701520FCA64D2131E4303620A7D1B]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[请扫描微信支付被扫条码/二维码]]></err_code_des>
+</xml>
+2015-12-29 18:31:18.859 DEBUG MicroPay: Micropay response check sign success
+2015-12-29 18:31:18.859 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[请扫描微信支付被扫条码/二维码]]></err_code_des><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[cIdAHlf4yhTEJxqd]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[C6E701520FCA64D2131E4303620A7D1B]]></sign></xml>
+2015-12-29 18:31:18.869 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+err_code=AUTHCODEEXPIRE
+err_code_des=请扫描微信支付被扫条码/二维码
+mch_id=1233410002
+nonce_str=cIdAHlf4yhTEJxqd
+result_code=FAIL
+return_code=SUCCESS
+return_msg=OK
+sign=C6E701520FCA64D2131E4303620A7D1B
+

@@ -1,0 +1,328 @@
+2016-01-13 17:17:33.111 INFO WeixinPay_Natvie:  request: goods, total_amount, auth_code, out_trade_noTVM购票支付,1,130362866140383738,2312312312312312341a
+2016-01-13 17:17:33.145 INFO MicroPay: 开始进行刷卡支付处理
+2016-01-13 17:17:33.266 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130362866140383738]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[8f68fa26293a40d883bf097b28e39ef2]]></nonce_str><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><sign><![CDATA[832773C2E5CAE4ED3EC5AB32C2D963EE]]></sign><spbill_create_ip><![CDATA[8.8.8.8]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2016-01-13 17:17:36.119 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[IiVttcogW3XY2IHw]]></nonce_str>
+<sign><![CDATA[E119160862D6C8A9912B658BE3826F83]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1009840669201601132678154720]]></transaction_id>
+<out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20160113171735]]></time_end>
+<cash_fee>1</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2016-01-13 17:17:36.242 DEBUG MicroPay: Micropay response check sign success
+2016-01-13 17:17:36.243 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CFT]]></bank_type><cash_fee><![CDATA[1]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[N]]></is_subscribe><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[IiVttcogW3XY2IHw]]></nonce_str><openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[E119160862D6C8A9912B658BE3826F83]]></sign><time_end><![CDATA[20160113171735]]></time_end><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1009840669201601132678154720]]></transaction_id></xml>
+2016-01-13 17:17:36.244 DEBUG WxPayInterfaceLib.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CFT
+cash_fee=1
+cash_fee_type=
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=IiVttcogW3XY2IHw
+openid=oS2tJtxFGGFUCMF9Ca51_U5lDprk
+out_trade_no=2312312312312312341a
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=E119160862D6C8A9912B658BE3826F83
+time_end=20160113171735
+total_fee=1
+trade_type=MICROPAY
+transaction_id=1009840669201601132678154720
+
+2016-01-13 17:17:39.489 INFO WeixinPay_Natvie: response:System.String[]
+2016-01-13 17:26:00.596 DEBUG WxPayApi: OrderQuery request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[fd9456fc6fb447c1932e6719f5881830]]></nonce_str><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><sign><![CDATA[EF0041520A132DBFCD1301F3474AE60E]]></sign></xml>
+2016-01-13 17:26:01.206 DEBUG WxPayApi: OrderQuery response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[FvTMtcx5bfMepZoA]]></nonce_str>
+<sign><![CDATA[3CF2FE247E7D3ACBD660B0AE8894DB3E]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1009840669201601132678154720]]></transaction_id>
+<out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20160113171735]]></time_end>
+<trade_state><![CDATA[SUCCESS]]></trade_state>
+<cash_fee>1</cash_fee>
+</xml>
+2016-01-13 17:26:01.890 DEBUG WxPayInterfaceLib.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CFT
+cash_fee=1
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=FvTMtcx5bfMepZoA
+openid=oS2tJtxFGGFUCMF9Ca51_U5lDprk
+out_trade_no=2312312312312312341a
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=3CF2FE247E7D3ACBD660B0AE8894DB3E
+time_end=20160113171735
+total_fee=1
+trade_state=SUCCESS
+trade_type=MICROPAY
+transaction_id=1009840669201601132678154720
+
+2016-01-13 17:29:04.959 DEBUG WxPayApi: OrderQuery request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[6c38968ab11e47b782e70dc00d853b2a]]></nonce_str><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><sign><![CDATA[3DD809BEF79F3D7ACE0D2550A8DFA452]]></sign></xml>
+2016-01-13 17:29:05.562 DEBUG WxPayApi: OrderQuery response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[wXk69MuISlDcpaxY]]></nonce_str>
+<sign><![CDATA[1123639B2DD842D0B0929786C1C7CD48]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1009840669201601132678154720]]></transaction_id>
+<out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20160113171735]]></time_end>
+<trade_state><![CDATA[SUCCESS]]></trade_state>
+<cash_fee>1</cash_fee>
+</xml>
+2016-01-13 17:29:14.362 DEBUG WxPayInterfaceLib.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CFT
+cash_fee=1
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=wXk69MuISlDcpaxY
+openid=oS2tJtxFGGFUCMF9Ca51_U5lDprk
+out_trade_no=2312312312312312341a
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=1123639B2DD842D0B0929786C1C7CD48
+time_end=20160113171735
+total_fee=1
+trade_state=SUCCESS
+trade_type=MICROPAY
+transaction_id=1009840669201601132678154720
+
+2016-01-13 17:33:08.578 DEBUG WxPayApi: OrderQuery request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[6386734deab64a44af4c0c2e7dd736f8]]></nonce_str><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><sign><![CDATA[A2C3C1A7364636AE7A35C36BBDB933E8]]></sign></xml>
+2016-01-13 17:33:09.352 DEBUG WxPayApi: OrderQuery response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[PIMBplJ8AyOPUpVG]]></nonce_str>
+<sign><![CDATA[E520B14A3C997E856AFBA2B93E7B2B12]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1009840669201601132678154720]]></transaction_id>
+<out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20160113171735]]></time_end>
+<trade_state><![CDATA[SUCCESS]]></trade_state>
+<cash_fee>1</cash_fee>
+</xml>
+2016-01-13 17:33:09.383 DEBUG WxPayInterfaceLib.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CFT
+cash_fee=1
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=PIMBplJ8AyOPUpVG
+openid=oS2tJtxFGGFUCMF9Ca51_U5lDprk
+out_trade_no=2312312312312312341a
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=E520B14A3C997E856AFBA2B93E7B2B12
+time_end=20160113171735
+total_fee=1
+trade_state=SUCCESS
+trade_type=MICROPAY
+transaction_id=1009840669201601132678154720
+
+2016-01-13 17:36:33.115 DEBUG WxPayApi: Refund request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[b1d26847111e4686b545de2e9df19c3d]]></nonce_str><op_user_id><![CDATA[1233410002]]></op_user_id><out_refund_no><![CDATA[123341000220160113173633556]]></out_refund_no><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><refund_fee>1</refund_fee><sign><![CDATA[381094B2789EB7656D730D7A7CEF1EEA]]></sign><total_fee>1</total_fee></xml>
+2016-01-13 17:36:33.526 ERROR HttpService: System.Security.Cryptography.CryptographicException: 系统找不到指定的路径。
+
+   在 System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   在 System.Security.Cryptography.X509Certificates.X509Utils._QueryCertFileType(String fileName)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate.LoadCertificateFromFile(String fileName, Object password, X509KeyStorageFlags keyStorageFlags)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate..ctor(String fileName, String password)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate2..ctor(String fileName, String password)
+   在 WxPayInterfaceLib.HttpService.Post(String xml, String url, Boolean isUseCert, Int32 timeout) 位置 d:\工程项目\AFC系统业务流程\手机支付票\中软云TVM二维码取票\2 项目实施\清分结算平台\1 可行性研究\微信支付接口\刷卡支付\WxPayAPI_CS_v3\WxPayAPI\WxPayInterfaceLib\HttpService.cs:行号 69
+2016-01-13 17:36:33.625 ERROR WxPayException: System.Security.Cryptography.CryptographicException: 系统找不到指定的路径。
+
+   在 System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   在 System.Security.Cryptography.X509Certificates.X509Utils._QueryCertFileType(String fileName)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate.LoadCertificateFromFile(String fileName, Object password, X509KeyStorageFlags keyStorageFlags)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate..ctor(String fileName, String password)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate2..ctor(String fileName, String password)
+   在 WxPayInterfaceLib.HttpService.Post(String xml, String url, Boolean isUseCert, Int32 timeout) 位置 d:\工程项目\AFC系统业务流程\手机支付票\中软云TVM二维码取票\2 项目实施\清分结算平台\1 可行性研究\微信支付接口\刷卡支付\WxPayAPI_CS_v3\WxPayAPI\WxPayInterfaceLib\HttpService.cs:行号 69
+2016-01-13 17:36:33.626 ERROR WxPayException: WxPayInterfaceLib
+2016-01-13 17:36:33.637 ERROR WxPayException: System.String Post(System.String, System.String, Boolean, Int32)
+2016-01-13 17:36:33.638 ERROR WxPayException: 
+2016-01-13 17:38:28.624 DEBUG WxPayApi: Refund request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[bb857b14bdac498987aa4ba08583c01c]]></nonce_str><op_user_id><![CDATA[1233410002]]></op_user_id><out_refund_no><![CDATA[123341000220160113173828248]]></out_refund_no><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><refund_fee>1</refund_fee><sign><![CDATA[79909A87E879D1F519A9157A16B0185D]]></sign><total_fee>1</total_fee></xml>
+2016-01-13 17:38:43.005 ERROR HttpService: System.Security.Cryptography.CryptographicException: 系统找不到指定的路径。
+
+   在 System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   在 System.Security.Cryptography.X509Certificates.X509Utils._QueryCertFileType(String fileName)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate.LoadCertificateFromFile(String fileName, Object password, X509KeyStorageFlags keyStorageFlags)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate..ctor(String fileName, String password)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate2..ctor(String fileName, String password)
+   在 WxPayInterfaceLib.HttpService.Post(String xml, String url, Boolean isUseCert, Int32 timeout) 位置 d:\工程项目\AFC系统业务流程\手机支付票\中软云TVM二维码取票\2 项目实施\清分结算平台\1 可行性研究\微信支付接口\刷卡支付\WxPayAPI_CS_v3\WxPayAPI\WxPayInterfaceLib\HttpService.cs:行号 69
+2016-01-13 17:40:10.571 DEBUG WxPayApi: Refund request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[5db56b42135748b3adffe84e19e8f20b]]></nonce_str><op_user_id><![CDATA[1233410002]]></op_user_id><out_refund_no><![CDATA[123341000220160113174010582]]></out_refund_no><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><refund_fee>1</refund_fee><sign><![CDATA[D00F58C93E0FFEF2EC53053291BA7125]]></sign><total_fee>1</total_fee></xml>
+2016-01-13 17:40:12.487 ERROR HttpService: System.ArgumentException: 路径中具有非法字符。
+   在 System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   在 System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength)
+   在 System.IO.Path.GetFullPathInternal(String path)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate.LoadCertificateFromFile(String fileName, Object password, X509KeyStorageFlags keyStorageFlags)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate..ctor(String fileName, String password)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate2..ctor(String fileName, String password)
+   在 WxPayInterfaceLib.HttpService.Post(String xml, String url, Boolean isUseCert, Int32 timeout) 位置 d:\工程项目\AFC系统业务流程\手机支付票\中软云TVM二维码取票\2 项目实施\清分结算平台\1 可行性研究\微信支付接口\刷卡支付\WxPayAPI_CS_v3\WxPayAPI\WxPayInterfaceLib\HttpService.cs:行号 69
+2016-01-13 17:40:12.560 ERROR WxPayException: System.ArgumentException: 路径中具有非法字符。
+   在 System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   在 System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength)
+   在 System.IO.Path.GetFullPathInternal(String path)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate.LoadCertificateFromFile(String fileName, Object password, X509KeyStorageFlags keyStorageFlags)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate..ctor(String fileName, String password)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate2..ctor(String fileName, String password)
+   在 WxPayInterfaceLib.HttpService.Post(String xml, String url, Boolean isUseCert, Int32 timeout) 位置 d:\工程项目\AFC系统业务流程\手机支付票\中软云TVM二维码取票\2 项目实施\清分结算平台\1 可行性研究\微信支付接口\刷卡支付\WxPayAPI_CS_v3\WxPayAPI\WxPayInterfaceLib\HttpService.cs:行号 69
+2016-01-13 17:40:12.561 ERROR WxPayException: WxPayInterfaceLib
+2016-01-13 17:40:12.562 ERROR WxPayException: System.String Post(System.String, System.String, Boolean, Int32)
+2016-01-13 17:40:12.562 ERROR WxPayException: 
+2016-01-13 17:41:26.732 DEBUG WxPayApi: Refund request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[796f5b8a9ea74a7a8200d514c39d9882]]></nonce_str><op_user_id><![CDATA[1233410002]]></op_user_id><out_refund_no><![CDATA[123341000220160113174126331]]></out_refund_no><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><refund_fee>1</refund_fee><sign><![CDATA[FFA432BBBFB99E2CC1639B9E5AFA640A]]></sign><total_fee>1</total_fee></xml>
+2016-01-13 17:42:16.583 DEBUG WxPayApi: Refund request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[6fb23829a7014191be7c78acbd833bcc]]></nonce_str><op_user_id><![CDATA[1233410002]]></op_user_id><out_refund_no><![CDATA[123341000220160113174216770]]></out_refund_no><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><refund_fee>1</refund_fee><sign><![CDATA[099B65CD0DA0E16956D4C38C95EF01A2]]></sign><total_fee>1</total_fee></xml>
+2016-01-13 17:45:13.991 DEBUG WxPayApi: Refund request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[5bb51f76a6a34b88a28d7dd21dde681d]]></nonce_str><op_user_id><![CDATA[1300362701]]></op_user_id><out_refund_no><![CDATA[130036270120160113174513665]]></out_refund_no><out_trade_no><![CDATA[2312312312312312341a]]></out_trade_no><refund_fee>1</refund_fee><sign><![CDATA[CC629C318307FBD637AB6817670FED9E]]></sign><total_fee>1</total_fee></xml>
+2016-01-13 17:45:15.684 DEBUG WxPayApi: PostXml used cert
+2016-01-13 17:45:16.831 DEBUG WxPayApi: Refund response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx9068f3cc0220c35e]]></appid>
+<mch_id><![CDATA[1300362701]]></mch_id>
+<nonce_str><![CDATA[8s1R2P7LhJNeMlKg]]></nonce_str>
+<sign><![CDATA[052728532070493F8685DE3C93255F5F]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[ORDERNOTEXIST]]></err_code>
+<err_code_des><![CDATA[订单不存在]]></err_code_des>
+</xml>
+2016-01-13 17:45:16.864 DEBUG WxPayInterfaceLib.WxPayData: Print in Form : appid=wx9068f3cc0220c35e
+err_code=ORDERNOTEXIST
+err_code_des=订单不存在
+mch_id=1300362701
+nonce_str=8s1R2P7LhJNeMlKg
+result_code=FAIL
+return_code=SUCCESS
+return_msg=OK
+sign=052728532070493F8685DE3C93255F5F
+
+2016-01-13 17:47:33.039 INFO WeixinPay_Natvie:  request: goods, total_amount, auth_code, out_trade_noTVM购票支付,1,130360245631603397,23e298492348024
+2016-01-13 17:47:33.050 INFO MicroPay: 开始进行刷卡支付处理
+2016-01-13 17:47:33.057 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[130360245631603397]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[bff4eea711ed4d238c608d95d1712c44]]></nonce_str><out_trade_no><![CDATA[23e298492348024]]></out_trade_no><sign><![CDATA[571481B686C905350074CC735138D335]]></sign><spbill_create_ip><![CDATA[8.8.8.8]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2016-01-13 17:47:35.512 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx9068f3cc0220c35e]]></appid>
+<mch_id><![CDATA[1300362701]]></mch_id>
+<nonce_str><![CDATA[ekzzorCDskH4AXoi]]></nonce_str>
+<sign><![CDATA[354C08512EC861725CE1E59F53AE8CA3]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oPB8Xt-5wEMenMDtZRWW2LFMqDrw]]></openid>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1009840218201601132678721380]]></transaction_id>
+<out_trade_no><![CDATA[23e298492348024]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20160113174735]]></time_end>
+<cash_fee>1</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2016-01-13 17:47:35.536 DEBUG MicroPay: Micropay response check sign success
+2016-01-13 17:47:35.536 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CFT]]></bank_type><cash_fee><![CDATA[1]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[Y]]></is_subscribe><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[ekzzorCDskH4AXoi]]></nonce_str><openid><![CDATA[oPB8Xt-5wEMenMDtZRWW2LFMqDrw]]></openid><out_trade_no><![CDATA[23e298492348024]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[354C08512EC861725CE1E59F53AE8CA3]]></sign><time_end><![CDATA[20160113174735]]></time_end><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1009840218201601132678721380]]></transaction_id></xml>
+2016-01-13 17:47:35.537 DEBUG WxPayInterfaceLib.WxPayData: Print in Form : appid=wx9068f3cc0220c35e
+attach=
+bank_type=CFT
+cash_fee=1
+cash_fee_type=
+fee_type=CNY
+is_subscribe=Y
+mch_id=1300362701
+nonce_str=ekzzorCDskH4AXoi
+openid=oPB8Xt-5wEMenMDtZRWW2LFMqDrw
+out_trade_no=23e298492348024
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=354C08512EC861725CE1E59F53AE8CA3
+time_end=20160113174735
+total_fee=1
+trade_type=MICROPAY
+transaction_id=1009840218201601132678721380
+
+2016-01-13 17:47:36.583 INFO WeixinPay_Natvie: response:System.String[]
+2016-01-13 17:49:03.352 DEBUG WxPayApi: Refund request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[5e24d17bc4f74ba1b09cafbcf3720e95]]></nonce_str><op_user_id><![CDATA[1300362701]]></op_user_id><out_refund_no><![CDATA[130036270120160113174903673]]></out_refund_no><out_trade_no><![CDATA[23e298492348024]]></out_trade_no><refund_fee>1</refund_fee><sign><![CDATA[C9376BEC521419BA9E736AB0F0A09220]]></sign><total_fee>1</total_fee></xml>
+2016-01-13 17:49:05.324 DEBUG WxPayApi: PostXml used cert
+2016-01-13 17:49:06.076 DEBUG WxPayApi: Refund response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx9068f3cc0220c35e]]></appid>
+<mch_id><![CDATA[1300362701]]></mch_id>
+<nonce_str><![CDATA[anVeP8Y2m2N55bcu]]></nonce_str>
+<sign><![CDATA[B84BDED8E05D0C81C22DF9469C907615]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<transaction_id><![CDATA[1009840218201601132678721380]]></transaction_id>
+<out_trade_no><![CDATA[23e298492348024]]></out_trade_no>
+<out_refund_no><![CDATA[130036270120160113174903673]]></out_refund_no>
+<refund_id><![CDATA[2009840218201601130126525146]]></refund_id>
+<refund_channel><![CDATA[]]></refund_channel>
+<refund_fee>1</refund_fee>
+<coupon_refund_fee>0</coupon_refund_fee>
+<total_fee>1</total_fee>
+<cash_fee>1</cash_fee>
+<coupon_refund_count>0</coupon_refund_count>
+<cash_refund_fee>1</cash_refund_fee>
+</xml>
+2016-01-13 17:49:06.116 DEBUG WxPayInterfaceLib.WxPayData: Print in Form : appid=wx9068f3cc0220c35e
+cash_fee=1
+cash_refund_fee=1
+coupon_refund_count=0
+coupon_refund_fee=0
+mch_id=1300362701
+nonce_str=anVeP8Y2m2N55bcu
+out_refund_no=130036270120160113174903673
+out_trade_no=23e298492348024
+refund_channel=
+refund_fee=1
+refund_id=2009840218201601130126525146
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=B84BDED8E05D0C81C22DF9469C907615
+total_fee=1
+transaction_id=1009840218201601132678721380
+

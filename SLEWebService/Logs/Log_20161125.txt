@@ -1,0 +1,12 @@
+2016-11-25 09:35:22,001 INFO  203 :Application_End:ASP.global_asax2016-11-25 09:35:22:Application End!
+2016-11-25 14:16:08,177 INFO  5 :Application_Start:ASP.global_asax2016-11-25 14:16:08:Application Start!
+2016-11-25 14:17:37,756 INFO  10 SLEWebService:S1_020:Req:IP:[::1]:{reqSysDate:20161125102401,operationCode:S1-020,cityCode:020,deviceId:0501020002,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],randomFact:20161125140245680501020002002,orderNo:}
+2016-11-25 14:17:39,216 INFO  10 SLEWebService:S1_020:Resp:{respCode:0004,respCodeMemo:,expandAttribute:,paymentAccount:,orderNo:,pickupStationCode:,getOffStationCode:,singleTicketPrice:,singleTicketNum:,singleTicketType:,deviceId:,userName:}
+2016-11-25 14:17:39,217 DEBUG 10 SLEWebService:S1_020:1461.1423
+2016-11-25 14:19:22,660 INFO  10 SLEWebService:S1_020:Req:IP:[::1]:{reqSysDate:20161125102401,operationCode:S1-020,cityCode:020,deviceId:0501020002,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],randomFact:20161125140245680501020002002,orderNo:}
+2016-11-25 14:20:44,168 INFO  10 SLEWebService:S1_020:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,paymentAccount:,orderNo:,pickupStationCode:6804,getOffStationCode:6804,singleTicketPrice:200,singleTicketNum:1,singleTicketType:0,deviceId:0501020002,userName:UserAccount}
+2016-11-25 14:20:44,169 DEBUG 10 SLEWebService:S1_020:82138.4613
+2016-11-25 14:21:38,324 INFO  10 SLEWebService:S1_020:Req:IP:[::1]:{reqSysDate:20161125102401,operationCode:S1-020,cityCode:020,deviceId:0501020002,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],randomFact:20161125140245680501020002002,orderNo:}
+2016-11-25 14:21:57,626 INFO  10 SLEWebService:S1_020:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,paymentAccount:,orderNo:,pickupStationCode:6804,getOffStationCode:6804,singleTicketPrice:200,singleTicketNum:1,singleTicketType:0,deviceId:0501020002,userName:UserAccount}
+2016-11-25 14:21:57,627 DEBUG 10 SLEWebService:S1_020:19302.0571
+2016-11-25 14:26:23,873 INFO  10 :Application_End:ASP.global_asax2016-11-25 14:26:23:Application End!

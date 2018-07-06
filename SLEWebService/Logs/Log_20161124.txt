@@ -1,0 +1,40 @@
+2016-11-24 15:39:18,701 INFO  4 :Application_Start:ASP.global_asax2016-11-24 15:39:18:Application Start!
+2016-11-24 16:11:04,969 INFO  22 :Application_End:ASP.global_asax2016-11-24 16:11:04:Application End!
+2016-11-24 16:11:08,534 INFO  5 :Application_Start:ASP.global_asax2016-11-24 16:11:08:Application Start!
+2016-11-24 16:12:30,514 INFO  14 :Application_End:ASP.global_asax2016-11-24 16:12:30:Application End!
+2016-11-24 16:14:00,219 INFO  5 :Application_Start:ASP.global_asax2016-11-24 16:14:00:Application Start!
+2016-11-24 16:15:54,898 INFO  6 :Application_End:ASP.global_asax2016-11-24 16:15:54:Application End!
+2016-11-24 16:49:44,512 INFO  4 :Application_Start:ASP.global_asax2016-11-24 16:49:44:Application Start!
+2016-11-24 16:51:31,574 INFO  6 SLEWebService:S1_020:Req:IP:[::1]:{reqSysDate:20161124162401,operationCode:S1-002,cityCode:020,deviceId:0109020031,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],randomFact:11111111111111111111,orderNo:}
+2016-11-24 16:52:06,811 ERROR 6 SLEWebService:S1_020:未将对象引用设置到对象的实例。
+2016-11-24 16:52:06,812 INFO  6 SLEWebService:S1_020:Resp:{respCode:0004,respCodeMemo:,expandAttribute:,paymentAccount:,orderNo:,pickupStationCode:,getOffStationCode:,singleTicketPrice:,singleTicketNum:,singleTicketType:,deviceId:,userName:}
+2016-11-24 16:52:06,813 DEBUG 6 SLEWebService:S1_020:36220.5557
+2016-11-24 16:59:11,675 INFO  4 :Application_End:ASP.global_asax2016-11-24 16:59:11:Application End!
+2016-11-24 17:02:21,284 INFO  24 SLEWebService:S1_020:Req:IP:[::1]:{reqSysDate:20161124162401,operationCode:S1-002,cityCode:020,deviceId:0109020031,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],randomFact:11111111111111111111,orderNo:}
+2016-11-24 17:03:10,386 INFO  24 SLEWebService:S1_020:Resp:{respCode:0004,respCodeMemo:,expandAttribute:,paymentAccount:,orderNo:,pickupStationCode:,getOffStationCode:,singleTicketPrice:,singleTicketNum:,singleTicketType:,deviceId:,userName:}
+2016-11-24 17:03:10,386 DEBUG 24 SLEWebService:S1_020:57281.169
+2016-11-24 17:03:18,191 INFO  22 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161124162440,operationCode:S1-005,cityCode:020,deviceId:0109020031,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:W20161010093540000000000000001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:,erroCode:0008,errorMessage:}
+2016-11-24 17:04:14,156 INFO  22 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-11-24 17:04:14,156 DEBUG 22 SLEWebService:S1_005:56688.5709
+2016-11-24 17:09:22,926 INFO  24 SLEWebService:S1_020:Req:IP:[::1]:{reqSysDate:20161124162401,operationCode:S1-002,cityCode:020,deviceId:0111020031,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],randomFact:11111111111111111111,orderNo:}
+2016-11-24 17:09:45,429 INFO  24 SLEWebService:S1_020:Resp:{respCode:0004,respCodeMemo:,expandAttribute:,paymentAccount:,orderNo:,pickupStationCode:,getOffStationCode:,singleTicketPrice:,singleTicketNum:,singleTicketType:,deviceId:,userName:}
+2016-11-24 17:09:45,429 DEBUG 24 SLEWebService:S1_020:22502.6413
+2016-11-24 17:09:55,902 INFO  25 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161124162440,operationCode:S1-005,cityCode:020,deviceId:0111020031,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:W20160927173452000000000000001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:,erroCode:0008,errorMessage:}
+2016-11-24 17:10:41,325 ERROR 25 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-11-24 17:11:43,070 ERROR 25 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-11-24 17:11:43,072 ERROR 25 WebPreOrderBo:TicketTakeNotify:ResultNofity Exception:
+2016-11-24 17:11:43,228 INFO  25 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-11-24 17:11:43,228 DEBUG 25 SLEWebService:S1_005:107317.1729
+2016-11-24 17:12:42,258 INFO  12 :Application_End:ASP.global_asax2016-11-24 17:12:42:Application End!
+2016-11-24 17:15:37,658 INFO  26 :Application_End:ASP.global_asax2016-11-24 17:15:37:Application End!
+2016-11-24 17:17:58,723 INFO  26 SLEWebService:S1_020:Req:IP:[::1]:{reqSysDate:20161124162401,operationCode:S1-002,cityCode:020,deviceId:0101020031,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],randomFact:11111111111111111111,orderNo:}
+2016-11-24 17:17:58,729 INFO  26 SLEWebService:S1_020:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,paymentAccount:,orderNo:,pickupStationCode:6804,getOffStationCode:6804,singleTicketPrice:200,singleTicketNum:1,singleTicketType:0,deviceId:0101020031,userName:UserAccount}
+2016-11-24 17:17:58,729 DEBUG 26 SLEWebService:S1_020:6.353
+2016-11-24 17:18:05,550 INFO  19 SLEWebService:S1_019:Req:IP:[::1]:{reqSysDate:20161124162430,operationCode:S1-004,cityCode:020,deviceId:0101020031,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:W20160927162223000000000000001,qrCode:}
+2016-11-24 17:18:05,551 INFO  19 SLEWebService:S1_019:Resp:{respCode:0004,respCodeMemo:,expandAttribute:,orderNo:,paymentDate:,amount:,paymentAccount:,paymentResult:,paymentDesc:,userName:}
+2016-11-24 17:18:05,551 DEBUG 19 SLEWebService:S1_019:1.7074
+2016-11-24 17:18:56,082 INFO  26 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161124162440,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:W20160927162223000000000000001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:,erroCode:0008,errorMessage:}
+2016-11-24 17:18:56,085 INFO  26 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-11-24 17:18:56,085 DEBUG 26 SLEWebService:S1_005:3.3027

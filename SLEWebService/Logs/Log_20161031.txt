@@ -1,0 +1,13 @@
+2016-10-31 09:39:24,090 INFO  5 :Application_Start:ASP.global_asax2016-10-31 09:39:24:Application Start!
+2016-10-31 09:39:59,568 INFO  5 :Application_End:ASP.global_asax2016-10-31 09:39:59:Application End!
+2016-10-31 12:49:35,963 INFO  5 :Application_Start:ASP.global_asax2016-10-31 12:49:35:Application Start!
+2016-10-31 12:53:46,174 INFO  12 SLEWebService:S1_001:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:0101020013,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0101,getOffStationCode:0102,singleTicketPrice:0,singleTicketNum:1,singleTicketType:0}
+2016-10-31 12:54:17,986 ERROR 12 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-10-31 12:54:21,251 INFO  12 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:QS2016103112541700000000000001,subject:TVM扫码支付现场购票支付,body:0101到0102的0元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-10-31 12:54:21,252 DEBUG 12 SLEWebService:S1_001:35078.2501
+2016-10-31 13:09:30,010 INFO  19 SLEWebService:S1_001:Req:IP:[::1]:{reqSysDate:201610311105839,operationCode:S1-001,cityCode:020,deviceId:0501020004,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:,msisdn:,iccid:,serviceId:,paymentVendor:1001,pickupStationCode:0501,getOffStationCode:,singleTicketPrice:0,singleTicketNum:0,singleTicketType:}
+2016-10-31 13:09:35,938 ERROR 19 TimeHelper:GetDateTimeYyyyMMddHHmmss:该字符串未被识别为有效的 DateTime。
+2016-10-31 13:09:35,965 INFO  19 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:QS2016103113093500000000000001,subject:TVM扫码支付现场购票支付,body:起始站为0501的0元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-10-31 13:09:35,966 DEBUG 19 SLEWebService:S1_001:5957.026
+2016-10-31 13:48:19,989 INFO  11 :Application_End:ASP.global_asax2016-10-31 13:48:19:Application End!

@@ -1,0 +1,16 @@
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\log4net.config
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\InfoWebInterface.dll
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\InfoWebInterface.pdb
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\PlatformLib.dll
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\log4net.dll
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\ResultNofity.dll
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\ICCSPayAPI.dll
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\LitJson.dll
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\WxPayInterfaceLib.dll
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\AlipayInterfaceLib.dll
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\AopSdk.dll
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\PlatformLib.pdb
+E:\项目\移动支付\ICCSPay\InfoWebInterface\obj\Release\ResolveAssemblyReference.cache
+E:\项目\移动支付\ICCSPay\InfoWebInterface\obj\Release\InfoWebInterface.dll
+E:\项目\移动支付\ICCSPay\InfoWebInterface\obj\Release\InfoWebInterface.pdb
+E:\项目\移动支付\ICCSPay\InfoWebInterface\bin\ThoughtWorks.QRCode.dll

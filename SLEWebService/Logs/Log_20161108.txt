@@ -1,0 +1,17 @@
+2016-11-08 16:14:33,501 INFO  5 :Application_Start:ASP.global_asax2016-11-08 16:14:33:Application Start!
+2016-11-08 16:25:04,704 INFO  10 SLEWebService:S1_001:Req:IP:[::1]:{reqSysDate:20161108160152,operationCode:S1-001,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0211,getOffStationCode:,singleTicketPrice:300,singleTicketNum:1,singleTicketType:1}
+2016-11-08 16:25:07,449 INFO  10 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:QS2016110816250400000000000001,subject:TVM扫码支付现场购票支付,body:起始站为0211的3元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-11-08 16:25:07,450 DEBUG 10 SLEWebService:S1_001:2747.2708
+2016-11-08 16:27:42,955 INFO  14 SLEWebService:S1_018:Req:IP:[::1]:{reqSysDate:20161108160153,operationCode:S1-018,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016110816250400000000000001}
+2016-11-08 16:27:42,971 INFO  14 SLEWebService:S1_018:Resp:{respCode:0000,respCodeMemo:,expandAttribute:,orderNo:QS2016110816250400000000000001,deviceId:QS2016110816250400000000000001,qrCode:}
+2016-11-08 16:27:42,971 DEBUG 14 SLEWebService:S1_018:16.9978
+2016-11-08 16:27:46,950 INFO  7 SLEWebService:S1_019:Req:IP:[::1]:{reqSysDate:20161108160205,operationCode:S1-019,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016110816250400000000000001,qrCode:weixin://wxpay/bizpayurl?pr=uO4B8OB}
+2016-11-08 16:27:46,954 INFO  7 SLEWebService:S1_019:Resp:{respCode:0002,respCodeMemo:,expandAttribute:,orderNo:QS2016110816250400000000000001,paymentDate:,amount:,paymentAccount:,paymentResult:PROCEDING,paymentDesc:,userName:}
+2016-11-08 16:27:46,954 DEBUG 7 SLEWebService:S1_019:4.5413
+2016-11-08 16:28:04,225 INFO  7 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161108160205,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016110816250400000000000001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:,erroCode:0007,errorMessage:}
+2016-11-08 16:28:54,879 INFO  7 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-11-08 16:28:54,879 DEBUG 7 SLEWebService:S1_005:50651.4025
+2016-11-08 16:29:45,111 INFO  12 SLEWebService:S1_001:Req:IP:[::1]:{reqSysDate:20161108160152,operationCode:S1-001,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0211,getOffStationCode:,singleTicketPrice:300,singleTicketNum:1,singleTicketType:1}
+2016-11-08 16:30:39,048 INFO  12 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:QS2016110816295000000000000001,subject:TVM扫码支付现场购票支付,body:起始站为0211的3元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-11-08 16:30:39,049 DEBUG 12 SLEWebService:S1_001:53934.4958
+2016-11-08 16:32:31,127 INFO  7 :Application_End:ASP.global_asax2016-11-08 16:32:31:Application End!

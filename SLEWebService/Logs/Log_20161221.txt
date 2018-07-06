@@ -1,0 +1,130 @@
+2016-12-21 10:18:04,621 INFO  5 :Application_Start:ASP.global_asax2016-12-21 10:18:04:Application Start!
+2016-12-21 10:24:34,789 INFO  11 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 10:24:35,034 INFO  11 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 10:24:35,493 INFO  11 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 10:24:36,529 INFO  11 WebPreOrderBo:WebOrderTakenErr:已将随机因子20161221101305180211020001002作为无效随机因子！
+2016-12-21 10:24:37,256 ERROR 11 WebPreOrderBo:WebOrderTakenErr:无法更新 EntitySet“InvalidRandomFact”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2016-12-21 10:24:37,257 INFO  11 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2016-12-21 10:24:37,257 DEBUG 11 SLEWebService:S1_005:2469.2676
+2016-12-21 10:25:13,958 INFO  9 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 10:25:47,960 INFO  9 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 10:25:59,641 INFO  9 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 10:26:41,347 INFO  9 WebPreOrderBo:WebOrderTakenErr:已将随机因子20161221101305180211020001002作为无效随机因子！
+2016-12-21 10:26:50,096 ERROR 9 WebPreOrderBo:WebOrderTakenErr:无法更新 EntitySet“InvalidRandomFact”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2016-12-21 10:26:50,096 INFO  9 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2016-12-21 10:26:50,096 DEBUG 9 SLEWebService:S1_005:97041.0988
+2016-12-21 10:28:54,894 INFO  9 :Application_End:ASP.global_asax2016-12-21 10:28:54:Application End!
+2016-12-21 10:29:02,138 INFO  5 :Application_Start:ASP.global_asax2016-12-21 10:29:02:Application Start!
+2016-12-21 10:29:33,050 INFO  5 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 10:29:45,046 INFO  5 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 10:29:45,138 INFO  5 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 10:29:45,311 INFO  5 WebPreOrderBo:WebOrderTakenErr:已将随机因子20161221101305180211020001002作为无效随机因子！
+2016-12-21 10:29:48,859 INFO  5 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-12-21 10:29:48,859 DEBUG 5 SLEWebService:S1_005:15814.7128
+2016-12-21 10:31:46,864 INFO  10 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 10:32:01,806 INFO  10 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 10:32:05,027 INFO  10 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 10:32:17,030 INFO  10 WebPreOrderBo:WebOrderTakenErr:已将随机因子20161221101305180211020001002作为无效随机因子！
+2016-12-21 10:33:06,833 INFO  10 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-12-21 10:33:06,834 DEBUG 10 SLEWebService:S1_005:79964.0075
+2016-12-21 10:33:55,906 INFO  12 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 10:33:55,906 INFO  12 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 10:33:55,907 INFO  12 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 10:33:55,908 INFO  12 WebPreOrderBo:WebOrderTakenErr:已将随机因子20161221101305180211020001002作为无效随机因子！
+2016-12-21 10:33:55,908 INFO  12 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-12-21 10:33:55,908 DEBUG 12 SLEWebService:S1_005:3.2356
+2016-12-21 10:35:06,983 INFO  12 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 10:35:28,238 INFO  12 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 10:35:31,234 INFO  12 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 10:35:55,750 INFO  12 WebPreOrderBo:WebOrderTakenErr:已将随机因子20161221101305180211020001002作为无效随机因子！
+2016-12-21 10:36:24,138 INFO  12 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-12-21 10:36:24,139 DEBUG 12 SLEWebService:S1_005:77150.5561
+2016-12-21 10:46:15,406 INFO  30 :Application_End:ASP.global_asax2016-12-21 10:46:15:Application End!
+2016-12-21 10:46:21,684 INFO  5 :Application_Start:ASP.global_asax2016-12-21 10:46:21:Application Start!
+2016-12-21 10:51:07,661 INFO  12 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 10:51:07,666 INFO  12 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 10:51:07,711 INFO  12 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 10:51:07,953 ERROR 12 WebPreOrderBo:WebOrderTakenErr:无法更新 EntitySet“InvalidRandomFact”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2016-12-21 10:51:07,954 INFO  12 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2016-12-21 10:51:07,954 DEBUG 12 SLEWebService:S1_005:294.7102
+2016-12-21 10:52:23,338 INFO  12 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 10:52:38,034 INFO  12 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 10:52:42,815 INFO  12 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 10:54:04,051 ERROR 12 WebPreOrderBo:WebOrderTakenErr:无法更新 EntitySet“InvalidRandomFact”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2016-12-21 10:54:04,052 INFO  12 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2016-12-21 10:54:04,052 DEBUG 12 SLEWebService:S1_005:100706.4039
+2016-12-21 10:55:27,065 INFO  10 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 10:55:39,071 INFO  10 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 10:55:41,612 INFO  10 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 10:58:45,630 ERROR 10 WebPreOrderBo:WebOrderTakenErr:无法更新 EntitySet“InvalidRandomFact”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2016-12-21 10:58:45,631 INFO  10 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2016-12-21 10:58:45,631 DEBUG 10 SLEWebService:S1_005:198550.0053
+2016-12-21 10:59:21,728 INFO  6 :Application_End:ASP.global_asax2016-12-21 10:59:21:Application End!
+2016-12-21 10:59:25,284 INFO  4 :Application_Start:ASP.global_asax2016-12-21 10:59:25:Application Start!
+2016-12-21 11:00:03,007 INFO  12 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 11:00:14,018 INFO  12 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 11:00:17,850 INFO  12 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 11:00:29,265 ERROR 12 WebPreOrderBo:WebOrderTakenErr:无法更新 EntitySet“InvalidRandomFact”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2016-12-21 11:00:29,266 INFO  12 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2016-12-21 11:00:29,266 DEBUG 12 SLEWebService:S1_005:26259.6276
+2016-12-21 11:01:12,304 INFO  10 :Application_End:ASP.global_asax2016-12-21 11:01:12:Application End!
+2016-12-21 11:01:19,498 INFO  5 :Application_Start:ASP.global_asax2016-12-21 11:01:19:Application Start!
+2016-12-21 11:02:05,617 INFO  6 :Application_End:ASP.global_asax2016-12-21 11:02:05:Application End!
+2016-12-21 11:02:07,674 INFO  5 :Application_Start:ASP.global_asax2016-12-21 11:02:07:Application Start!
+2016-12-21 11:02:40,445 INFO  6 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 11:02:51,641 INFO  6 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 11:02:52,052 INFO  6 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 11:02:57,864 ERROR 6 WebPreOrderBo:WebOrderTakenErr:无法更新 EntitySet“InvalidRandomFact”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2016-12-21 11:02:57,865 INFO  6 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2016-12-21 11:02:57,865 DEBUG 6 SLEWebService:S1_005:17422.0229
+2016-12-21 11:08:49,511 INFO  5 :Application_End:ASP.global_asax2016-12-21 11:08:49:Application End!
+2016-12-21 11:08:58,234 INFO  5 :Application_Start:ASP.global_asax2016-12-21 11:08:58:Application Start!
+2016-12-21 11:09:33,666 INFO  6 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 11:09:44,960 INFO  6 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 11:09:45,049 INFO  6 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 11:10:07,362 ERROR 6 WebPreOrderBo:WebOrderTakenErr:无法更新 EntitySet“InvalidRandomFact”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2016-12-21 11:10:07,363 INFO  6 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2016-12-21 11:10:07,364 DEBUG 6 SLEWebService:S1_005:33699.1901
+2016-12-21 11:11:13,411 INFO  5 :Application_End:ASP.global_asax2016-12-21 11:11:13:Application End!
+2016-12-21 11:11:25,712 INFO  5 :Application_Start:ASP.global_asax2016-12-21 11:11:25:Application Start!
+2016-12-21 11:15:13,993 INFO  6 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 11:15:13,998 INFO  6 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 11:15:14,194 INFO  6 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 11:15:14,551 ERROR 6 WebPreOrderBo:WebOrderTakenErr:无法更新 EntitySet“InvalidRandomFact”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2016-12-21 11:15:14,552 INFO  6 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2016-12-21 11:15:14,552 DEBUG 6 SLEWebService:S1_005:561.3502
+2016-12-21 11:15:38,381 INFO  6 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 11:15:46,853 INFO  6 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 11:15:46,854 INFO  6 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 11:16:20,929 ERROR 6 WebPreOrderBo:WebOrderTakenErr:无法更新 EntitySet“InvalidRandomFact”，因为它有一个 DefiningQuery，而 <ModificationFunctionMapping> 元素中没有支持当前操作的 <InsertFunction> 元素。
+2016-12-21 11:16:23,735 INFO  6 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2016-12-21 11:16:23,736 DEBUG 6 SLEWebService:S1_005:45352.4515
+2016-12-21 11:23:21,961 INFO  13 :Application_End:ASP.global_asax2016-12-21 11:23:21:Application End!
+2016-12-21 11:25:56,060 INFO  5 :Application_Start:ASP.global_asax2016-12-21 11:25:56:Application Start!
+2016-12-21 11:27:34,353 INFO  5 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 11:27:44,856 INFO  5 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 11:27:44,943 INFO  5 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 11:27:49,878 INFO  5 WebPreOrderBo:WebOrderTakenErr:已将随机因子20161221101305180211020001002作为无效随机因子！
+2016-12-21 11:27:49,880 INFO  5 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-12-21 11:27:49,881 DEBUG 5 SLEWebService:S1_005:15529.5062
+2016-12-21 11:33:32,883 INFO  11 :Application_End:ASP.global_asax2016-12-21 11:33:32:Application End!
+2016-12-21 11:33:43,551 INFO  5 :Application_Start:ASP.global_asax2016-12-21 11:33:43:Application Start!
+2016-12-21 11:34:23,742 INFO  5 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 11:34:56,636 INFO  5 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 11:35:06,645 INFO  5 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 11:35:34,256 INFO  5 SLEWebService:S1_005:Resp:{respCode:0004,respCodeMemo:,expandAttribute:}
+2016-12-21 11:35:34,256 DEBUG 5 SLEWebService:S1_005:70524.4492
+2016-12-21 11:35:54,673 INFO  6 :Application_End:ASP.global_asax2016-12-21 11:35:54:Application End!
+2016-12-21 11:36:21,181 INFO  5 :Application_Start:ASP.global_asax2016-12-21 11:36:21:Application Start!
+2016-12-21 11:37:09,411 INFO  5 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001002,erroCode:0008,errorMessage:}
+2016-12-21 11:37:09,416 INFO  5 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 11:37:09,455 INFO  5 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 11:37:09,702 INFO  5 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-12-21 11:37:09,702 DEBUG 5 SLEWebService:S1_005:299.1889
+2016-12-21 11:37:46,859 INFO  13 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20161221101305,operationCode:S1-005,cityCode:020,deviceId:0211020001,channelType:01,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:0211020001,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:20161221101305180211020001001,erroCode:0008,errorMessage:}
+2016-12-21 11:37:46,859 INFO  13 WebPreOrderBo:WebOrderTakenErr:网络订单异常处理！
+2016-12-21 11:37:46,859 INFO  13 WebPreOrderBo:WebOrderTakenErr:将设备号当做订单号进行撤销关联！
+2016-12-21 11:37:46,908 INFO  13 WebPreOrderBo:WebOrderTakenErr:已将随机因子20161221101305180211020001001作为无效随机因子！
+2016-12-21 11:37:46,909 INFO  13 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2016-12-21 11:37:46,909 DEBUG 13 SLEWebService:S1_005:50.7984
+2016-12-21 14:55:30,995 INFO  53 :Application_End:ASP.global_asax2016-12-21 14:55:30:Application End!

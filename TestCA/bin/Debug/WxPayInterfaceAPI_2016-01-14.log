@@ -1,0 +1,15 @@
+2016-01-14 21:10:45.495 INFO WeixinPay_Natvie:  request: goods, total_amount, auth_code, out_trade_noTVM购票支付,200,1111,201601142110130000000000000001
+2016-01-14 21:10:45.515 INFO MicroPay: 开始进行刷卡支付处理
+2016-01-14 21:10:45.605 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[1111]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[1933c6f3937449aea0bfe0140d3bc5ab]]></nonce_str><out_trade_no><![CDATA[201601142110130000000000000001]]></out_trade_no><sign><![CDATA[AF0C41A3A9EFAB0A58AA86F430A762AE]]></sign><spbill_create_ip><![CDATA[8.8.8.8]]></spbill_create_ip><total_fee>20000</total_fee></xml>
+2016-01-14 21:10:46.704 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx9068f3cc0220c35e]]></appid>
+<mch_id><![CDATA[1300362701]]></mch_id>
+<nonce_str><![CDATA[G1q47rHlTI8TwZlS]]></nonce_str>
+<sign><![CDATA[4B8C23CCE3163BAF524F1BF0CA72099A]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[请扫描微信支付被扫条码/二维码]]></err_code_des>
+</xml>
+2016-01-14 21:10:46.706 DEBUG MicroPay: Micropay response check sign success
+2016-01-14 21:10:46.707 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[请扫描微信支付被扫条码/二维码]]></err_code_des><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[G1q47rHlTI8TwZlS]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[4B8C23CCE3163BAF524F1BF0CA72099A]]></sign></xml>

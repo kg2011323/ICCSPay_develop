@@ -1,0 +1,5 @@
+2016-09-27 16:53:37,883 INFO  5 :Application_Start:ASP.global_asax2016-09-27 16:53:37:Application Start!
+2016-09-27 16:59:25,293 INFO  7 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:14456464645646464,takeSingleTicketNum:0,faultOccurDate:,faultSlipSeq:,erroCode:,errorMessage:}
+2016-09-27 17:00:30,098 INFO  7 SLEWebService:S1_005:Resp:{respCode:0004,respCodeMemo:,expandAttribute:}
+2016-09-27 17:00:30,099 DEBUG 7 SLEWebService:S1_005:66056.1797
+2016-09-27 17:01:53,606 INFO  14 :Application_End:ASP.global_asax2016-09-27 17:01:53:Application End!

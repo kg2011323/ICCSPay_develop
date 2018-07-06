@@ -1,0 +1,14 @@
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\bin\Release\log4net.config
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\bin\Release\SLEWebServiceTest.exe.config
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\bin\Release\SLEWebServiceTest.exe
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\bin\Release\SLEWebServiceTest.pdb
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\bin\Release\log4net.dll
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Release\ResolveAssemblyReference.cache
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Release\SLEWebServiceTest.Form1.resources
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Release\SLEWebServiceTest.Properties.Resources.resources
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Release\SLEWebServiceTest.View.StationOrderForm.resources
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Release\SLEWebServiceTest.WebOrderTestForm.resources
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Release\GenerateResource.read.1.tlog
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Release\GenerateResource.write.1.tlog
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Release\SLEWebServiceTest.exe
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Release\SLEWebServiceTest.pdb

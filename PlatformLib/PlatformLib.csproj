@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AFAB6726-1941-419C-B964-FA7978BB7B17}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PlatformLib</RootNamespace>
+    <AssemblyName>PlatformLib</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AlipayInterfaceLib, Version=1.0.6445.28716, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\AlipayInterfaceLib.dll</HintPath>
+    </Reference>
+    <Reference Include="AopSdk, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\AopSdk.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto">
+      <HintPath>..\Dll\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="CCBPayInterfaceLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\CCBPayInterfaceLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ICCSPayAPI, Version=1.0.6445.28716, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\ICCSPayAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="LitJson, Version=0.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\LitJson.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\Dll\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ResultNofity, Version=1.0.6208.26389, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\ResultNofity.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ThoughtWorks.QRCode, Version=1.0.3990.25764, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\ThoughtWorks.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnionPayInterfaceLib, Version=1.0.6445.28714, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\UnionPayInterfaceLib.dll</HintPath>
+    </Reference>
+    <Reference Include="WxPayInterfaceLib, Version=1.0.6445.28714, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\WxPayInterfaceLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\CommonOrderBo.cs" />
+    <Compile Include="BLL\StationOrderBo.cs" />
+    <Compile Include="Util\StressTestHelper.cs" />
+    <Compile Include="Util\TicketPriceHepler.cs" />
+    <Compile Include="BLL\VoucherBo.cs" />
+    <Compile Include="BLL\WebPreOrderBo.cs" />
+    <Compile Include="DB\MobilePayDB.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MobilePayDB.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\Constants.cs" />
+    <Compile Include="Util\StationInfoHelper.cs" />
+    <Compile Include="Util\EnumHelper.cs" />
+    <Compile Include="Util\TimeHelper.cs" />
+    <Compile Include="Util\TradeNoHelper.cs" />
+    <Compile Include="Util\TradeNoTest.cs" />
+    <Compile Include="Util\VoucherHelper.cs" />
+    <Compile Include="Vo\ApplePayDealInsertRequestVo.cs" />
+    <Compile Include="Vo\ApplePayDealInsertRespondVo.cs" />
+    <Compile Include="Vo\CommonOrderVo.cs" />
+    <Compile Include="Vo\OrderQueryRequestVo.cs" />
+    <Compile Include="Vo\OrderQueryRespondVo.cs" />
+    <Compile Include="Vo\OrderRefundRequestVo.cs" />
+    <Compile Include="Vo\OrderRefundRespondVo.cs" />
+    <Compile Include="Vo\OrderStatusUpdateRequestVo.cs" />
+    <Compile Include="Vo\OrderStatusUpdateRespondVo.cs" />
+    <Compile Include="Vo\OrderType.cs" />
+    <Compile Include="Vo\PassengerAffairDealRequestVo.cs" />
+    <Compile Include="Vo\PassengerAffairDealRespondVo.cs" />
+    <Compile Include="Vo\PassengerAffairDealStatusQueryRequestVo.cs" />
+    <Compile Include="Vo\PassengerAffairDealStatusQueryRespondVo.cs" />
+    <Compile Include="Vo\PaymentVendorType.cs" />
+    <Compile Include="Vo\WebOrderRefundUpdateRequestVo.cs" />
+    <Compile Include="Vo\WebOrderRefundUpdateRespondVo.cs" />
+    <Compile Include="Vo\WebOrderRefundResultRespondVo.cs" />
+    <Compile Include="Vo\WebOrderRefundResultRequestVo.cs" />
+    <Compile Include="Vo\WebOrderRefundRecordRespondVo.cs" />
+    <Compile Include="Vo\WebOrderRefundRecordRequestVo.cs" />
+    <Compile Include="Vo\OrderStatusType.cs" />
+    <Compile Include="Vo\StationOrderTakenRequestVo.cs" />
+    <Compile Include="Vo\OrderTakenRequestBaseVo.cs" />
+    <Compile Include="Vo\StationOrderTakenRespondVo.cs" />
+    <Compile Include="Vo\StationOrderTakenErrRequestVo.cs" />
+    <Compile Include="Vo\OrderTakenErrRequestBaseVo.cs" />
+    <Compile Include="Vo\StationOrderTakenErrRespondVo.cs" />
+    <Compile Include="Vo\StationOrderProcessRequestVo.cs" />
+    <Compile Include="Vo\StationOrderProcessRespondVo.cs" />
+    <Compile Include="Vo\StationOrderStep.cs" />
+    <Compile Include="Vo\StationOrderPayResultRequestVo.cs" />
+    <Compile Include="Vo\StationOrderPayResultRespondVo.cs" />
+    <Compile Include="Vo\StationOrderPayRequestVo.cs" />
+    <Compile Include="Vo\StationOrderPayRespondVo.cs" />
+    <Compile Include="Vo\WebOrderTakenErrRequestVo.cs" />
+    <Compile Include="Vo\WebOrderTakenErrRespondVo.cs" />
+    <Compile Include="Vo\WebOrderTakenRespondVo.cs" />
+    <Compile Include="Vo\WebOrderTakenRequestVo.cs" />
+    <Compile Include="Vo\WebOrderProcessRespondVo.cs" />
+    <Compile Include="Vo\WebOrderProcessRequestVo.cs" />
+    <Compile Include="Vo\WebOrderVerifyRespondVo.cs" />
+    <Compile Include="Vo\DeviceCommRespondBaseVo.cs" />
+    <Compile Include="Vo\DeviceCommRequestBaseVo.cs" />
+    <Compile Include="Vo\WebOrderVerifyRequestVo.cs" />
+    <Compile Include="Vo\DeviceCommRespondCode.cs" />
+    <Compile Include="Vo\WebPaySyncResultRespondVo.cs" />
+    <Compile Include="Vo\WebPaySyncResultRequestVo.cs" />
+    <Compile Include="Vo\ITPayResultRespondVo.cs" />
+    <Compile Include="Vo\ITPayResultRequestVo.cs" />
+    <Compile Include="Vo\ODTicketPriceVo.cs" />
+    <Compile Include="Vo\WebOrderStep.cs" />
+    <Compile Include="Vo\TicketTargetType.cs" />
+    <Compile Include="Vo\WebTradeNoRequestVo.cs" />
+    <Compile Include="Vo\WebOrderRequestVo.cs" />
+    <Compile Include="Vo\WebTradeNoRespondVo.cs" />
+    <Compile Include="Vo\WebPrePayRequestVo.cs" />
+    <Compile Include="Vo\WebPrePayRespondVo.cs" />
+    <Compile Include="Vo\WebPayResultRequestVo.cs" />
+    <Compile Include="Vo\WebOrderRespondVo.cs" />
+    <Compile Include="Vo\WebPayResultRespondVo.cs" />
+    <Compile Include="Vo\StationSnapQRCodePrePayURLQueryRequestVo.cs" />
+    <Compile Include="Vo\StationSnapQRCodePrePayURLQueryRespondVo.cs" />
+    <Compile Include="Vo\StationSnapQRCodePayResultQueryRequestVo.cs" />
+    <Compile Include="Vo\StationSnapQRCodePayResultQueryRespondVo.cs" />
+    <Compile Include="Vo\WebSnapQRCodeTakeOrderQueryRequestVo.cs" />
+    <Compile Include="Vo\WebSnapQRCodeTakeOrderQueryRespondVo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <EntityDeploy Include="DB\MobilePayDB.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>MobilePayDB.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

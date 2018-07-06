@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MobilePayDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="MobilePayDBModelStoreContainer">
+    <EntitySet Name="AFCStationCode" EntityType="MobilePayDBModel.Store.AFCStationCode" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BOMOrder" EntityType="MobilePayDBModel.Store.BOMOrder" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="InvalidRandomFact" EntityType="MobilePayDBModel.Store.InvalidRandomFact" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="QRCStationOrder" EntityType="MobilePayDBModel.Store.QRCStationOrder" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="QRCWebOrder" EntityType="MobilePayDBModel.Store.QRCWebOrder" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="StationOrder" EntityType="MobilePayDBModel.Store.StationOrder" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TicketPrice" EntityType="MobilePayDBModel.Store.TicketPrice" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="VoucherList" EntityType="MobilePayDBModel.Store.VoucherList" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="WebOrder" EntityType="MobilePayDBModel.Store.WebOrder" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="WebOrderRefund" EntityType="MobilePayDBModel.Store.WebOrderRefund" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="WebOrderVoucher" EntityType="MobilePayDBModel.Store.WebOrderVoucher" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="WTOrder" EntityType="MobilePayDBModel.Store.WTOrder" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="AFCStationCode">
+    <Key>
+      <PropertyRef Name="AFCStationCodeId" />
+    </Key>
+    <Property Name="AFCStationCodeId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="LineId" Type="varchar" Nullable="false" MaxLength="4" />
+    <Property Name="StationId" Type="varchar" Nullable="false" MaxLength="4" />
+    <Property Name="StationChaineseName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="StationEnglishName" Type="varchar" Nullable="false" MaxLength="200" />
+    <Property Name="VersionNo" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="RecordFlag" Type="char" Nullable="false" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="BOMOrder">
+    <Key>
+      <PropertyRef Name="BOMOrderId" />
+    </Key>
+    <Property Name="BOMOrderId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="OrderNo" Type="varchar" Nullable="false" MaxLength="32" />
+    <Property Name="PaymentCode" Type="varchar" MaxLength="100" />
+    <Property Name="TicketType" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="TicketId" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="BuyTime" Type="datetime" Nullable="false" />
+    <Property Name="OperationCode" Type="varchar" MaxLength="10" />
+    <Property Name="CityCode" Type="varchar" MaxLength="10" />
+    <Property Name="DeviceId" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="ChannelType" Type="varchar" MaxLength="10" />
+    <Property Name="PaymentVendor" Type="varchar" MaxLength="10" />
+    <Property Name="PassengerAffairType" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="PickupStationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="PickupStationTime" Type="datetime" Nullable="false" />
+    <Property Name="GetOffStationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="GetOffStationTime" Type="datetime" Nullable="false" />
+    <Property Name="TransactionId" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTimeRaw" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTime" Type="datetime" />
+    <Property Name="PassengerAffairPrice" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="BankType" Type="varchar" MaxLength="50" />
+    <Property Name="UserAccount" Type="nvarchar" MaxLength="200" />
+    <Property Name="UserOpenId" Type="varchar" MaxLength="200" />
+    <Property Name="PayErrCodeDes" Type="nvarchar" MaxLength="300" />
+    <Property Name="OrderStatus" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="Step" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="StepStatus" Type="nvarchar" MaxLength="500" />
+    <Property Name="IsValid" Type="bit" Nullable="false" />
+    <Property Name="TicketTakeNum" Type="int" />
+    <Property Name="TicketTakeTime" Type="datetime" />
+    <Property Name="DeviceErrTime" Type="datetime" />
+    <Property Name="DeviceErrCode" Type="varchar" MaxLength="20" />
+    <Property Name="DeviceErrMessage" Type="nvarchar" MaxLength="500" />
+    <Property Name="DeviceErrSlipSeq" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="InvalidRandomFact">
+    <Key>
+      <PropertyRef Name="RandomFactId" />
+    </Key>
+    <Property Name="RandomFactId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="RandomFact" Type="varchar" MaxLength="100" />
+    <Property Name="DeviceId" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="QRCStationOrder">
+    <Key>
+      <PropertyRef Name="QRCStationOrderId" />
+    </Key>
+    <Property Name="QRCStationOrderId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TradeNo" Type="varchar" Nullable="false" MaxLength="32" />
+    <Property Name="BuyTime" Type="datetime" Nullable="false" />
+    <Property Name="OperationCode" Type="varchar" MaxLength="10" />
+    <Property Name="CityCode" Type="varchar" MaxLength="10" />
+    <Property Name="DeviceId" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="ChannelType" Type="varchar" MaxLength="10" />
+    <Property Name="PaymentVendor" Type="varchar" MaxLength="10" />
+    <Property Name="PaymentCode" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="OriAFCStationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="DesAFCStationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="TicketPrice" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="TicketNum" Type="int" Nullable="false" />
+    <Property Name="SingleTicketType" Type="varchar" MaxLength="20" />
+    <Property Name="Discount" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="Amount" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="TransactionId" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTimeRaw" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTime" Type="datetime" />
+    <Property Name="ActualFee" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="BankType" Type="varchar" MaxLength="50" />
+    <Property Name="UserAccount" Type="nvarchar" MaxLength="200" />
+    <Property Name="UserOpenId" Type="varchar" MaxLength="200" />
+    <Property Name="PayErrCodeDes" Type="nvarchar" MaxLength="300" />
+    <Property Name="OrderStatus" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="Step" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="StepStatus" Type="nvarchar" MaxLength="500" />
+    <Property Name="IsValid" Type="bit" Nullable="false" />
+    <Property Name="TicketTakeNum" Type="int" />
+    <Property Name="TicketTakeTime" Type="datetime" />
+    <Property Name="DeviceErrTime" Type="datetime" />
+    <Property Name="DeviceErrCode" Type="varchar" MaxLength="20" />
+    <Property Name="DeviceErrMessage" Type="nvarchar" MaxLength="500" />
+    <Property Name="DeviceErrSlipSeq" Type="varchar" MaxLength="50" />
+    <Property Name="QRCode" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="QRCWebOrder">
+    <Key>
+      <PropertyRef Name="QRCWebOrderId" />
+    </Key>
+    <Property Name="QRCWebOrderId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TradeNo" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="ExternalTradeNo" Type="varchar" Nullable="false" MaxLength="64" />
+    <Property Name="BuyTime" Type="datetime" Nullable="false" />
+    <Property Name="PrepayId" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="OperationCode" Type="varchar" MaxLength="10" />
+    <Property Name="CityCode" Type="varchar" MaxLength="10" />
+    <Property Name="DeviceId" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="ChannelType" Type="varchar" MaxLength="10" />
+    <Property Name="PaymentVendor" Type="varchar" MaxLength="10" />
+    <Property Name="OriAFCStationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="DesAFCStationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="TicketPrice" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="TicketNum" Type="int" Nullable="false" />
+    <Property Name="Discount" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="Amount" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="TicketTarget" Type="varchar" MaxLength="20" />
+    <Property Name="TransactionId" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTimeRaw" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTime" Type="datetime" />
+    <Property Name="ActualFee" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="BankType" Type="varchar" MaxLength="50" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="200" />
+    <Property Name="UserOpenId" Type="varchar" MaxLength="200" />
+    <Property Name="PayErrCodeDes" Type="nvarchar" MaxLength="300" />
+    <Property Name="OrderStatus" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="Step" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="StepStatus" Type="nvarchar" MaxLength="500" />
+    <Property Name="IsValid" Type="bit" Nullable="false" />
+    <Property Name="TicketTakeNum" Type="int" />
+    <Property Name="TicketTakeTime" Type="datetime" />
+    <Property Name="DeviceErrTime" Type="datetime" />
+    <Property Name="DeviceErrCode" Type="varchar" MaxLength="20" />
+    <Property Name="DeviceErrMessage" Type="nvarchar" MaxLength="500" />
+    <Property Name="DeviceErrSlipSeq" Type="varchar" MaxLength="50" />
+    <Property Name="ExitDeviceId" Type="varchar" MaxLength="20" />
+    <Property Name="ExitTime" Type="datetime" />
+    <Property Name="RandomFact" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="StationOrder">
+    <Key>
+      <PropertyRef Name="StationOrderId" />
+    </Key>
+    <Property Name="StationOrderId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TradeNo" Type="varchar" Nullable="false" MaxLength="32" />
+    <Property Name="BuyTime" Type="datetime" Nullable="false" />
+    <Property Name="OperationCode" Type="varchar" MaxLength="10" />
+    <Property Name="CityCode" Type="varchar" MaxLength="10" />
+    <Property Name="DeviceId" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="ChannelType" Type="varchar" MaxLength="10" />
+    <Property Name="PaymentVendor" Type="varchar" MaxLength="10" />
+    <Property Name="PaymentCode" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="OriAFCStationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="DesAFCStationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="TicketPrice" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="TicketNum" Type="int" Nullable="false" />
+    <Property Name="SingleTicketType" Type="varchar" MaxLength="20" />
+    <Property Name="Discount" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="Amount" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="TransactionId" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTimeRaw" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTime" Type="datetime" />
+    <Property Name="ActualFee" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="BankType" Type="varchar" MaxLength="50" />
+    <Property Name="UserAccount" Type="nvarchar" MaxLength="200" />
+    <Property Name="UserOpenId" Type="varchar" MaxLength="200" />
+    <Property Name="PayErrCodeDes" Type="nvarchar" MaxLength="300" />
+    <Property Name="OrderStatus" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="Step" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="StepStatus" Type="nvarchar" MaxLength="500" />
+    <Property Name="IsValid" Type="bit" Nullable="false" />
+    <Property Name="TicketTakeNum" Type="int" />
+    <Property Name="TicketTakeTime" Type="datetime" />
+    <Property Name="DeviceErrTime" Type="datetime" />
+    <Property Name="DeviceErrCode" Type="varchar" MaxLength="20" />
+    <Property Name="DeviceErrMessage" Type="nvarchar" MaxLength="500" />
+    <Property Name="DeviceErrSlipSeq" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TicketPrice">
+    <Key>
+      <PropertyRef Name="TicketPriceId" />
+    </Key>
+    <Property Name="TicketPriceId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="BeginLineId" Type="varchar" MaxLength="10" />
+    <Property Name="EndLineId" Type="varchar" MaxLength="10" />
+    <Property Name="BeginLineChineseName" Type="nvarchar" MaxLength="50" />
+    <Property Name="EndLineChineseName" Type="nvarchar" MaxLength="50" />
+    <Property Name="BeginLineEnglishName" Type="nvarchar" MaxLength="50" />
+    <Property Name="EndLineEnglishName" Type="nvarchar" MaxLength="50" />
+    <Property Name="BeginStationCode" Type="varchar" MaxLength="10" />
+    <Property Name="EndStationCode" Type="varchar" MaxLength="10" />
+    <Property Name="BeginStationChineseName" Type="nvarchar" MaxLength="100" />
+    <Property Name="EndStationChineseName" Type="nvarchar" MaxLength="100" />
+    <Property Name="BeginStationEnglishName" Type="nvarchar" MaxLength="100" />
+    <Property Name="EndStationEnglishName" Type="nvarchar" MaxLength="100" />
+    <Property Name="FareCent" Type="int" />
+    <Property Name="VersionNo" Type="varchar" MaxLength="10" />
+    <Property Name="RecordFlag" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="VoucherList">
+    <Key>
+      <PropertyRef Name="VoucherId" />
+    </Key>
+    <Property Name="VoucherId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="VoucherCode" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="EffectiveTime" Type="datetime" Nullable="false" />
+    <Property Name="ExpiredTime" Type="datetime" Nullable="false" />
+    <Property Name="GenerateTime" Type="datetime" Nullable="false" />
+    <Property Name="IsValid" Type="bit" Nullable="false" />
+    <Property Name="IsUsed" Type="bit" Nullable="false" />
+    <Property Name="IsLocked" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="WebOrder">
+    <Key>
+      <PropertyRef Name="WebOrderId" />
+    </Key>
+    <Property Name="WebOrderId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TradeNo" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="ExternalTradeNo" Type="varchar" Nullable="false" MaxLength="64" />
+    <Property Name="BuyTime" Type="datetime" Nullable="false" />
+    <Property Name="PrepayId" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="OperationCode" Type="varchar" MaxLength="10" />
+    <Property Name="CityCode" Type="varchar" MaxLength="10" />
+    <Property Name="DeviceId" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="ChannelType" Type="varchar" MaxLength="10" />
+    <Property Name="PaymentVendor" Type="varchar" MaxLength="10" />
+    <Property Name="OriAFCStationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="DesAFCStationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="TicketPrice" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="TicketNum" Type="int" Nullable="false" />
+    <Property Name="Discount" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="Amount" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="TicketTarget" Type="varchar" MaxLength="20" />
+    <Property Name="TransactionId" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTimeRaw" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTime" Type="datetime" />
+    <Property Name="ActualFee" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="BankType" Type="varchar" MaxLength="50" />
+    <Property Name="UserAccount" Type="nvarchar" MaxLength="200" />
+    <Property Name="UserOpenId" Type="varchar" MaxLength="200" />
+    <Property Name="PayErrCodeDes" Type="nvarchar" MaxLength="300" />
+    <Property Name="OrderStatus" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="Step" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="StepStatus" Type="nvarchar" MaxLength="500" />
+    <Property Name="IsValid" Type="bit" Nullable="false" />
+    <Property Name="TicketTakeNum" Type="int" />
+    <Property Name="TicketTakeTime" Type="datetime" />
+    <Property Name="DeviceErrTime" Type="datetime" />
+    <Property Name="DeviceErrCode" Type="varchar" MaxLength="20" />
+    <Property Name="DeviceErrMessage" Type="nvarchar" MaxLength="500" />
+    <Property Name="DeviceErrSlipSeq" Type="varchar" MaxLength="50" />
+    <Property Name="ExitDeviceId" Type="varchar" MaxLength="20" />
+    <Property Name="ExitTime" Type="datetime" />
+    <Property Name="RandomFact" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="WebOrderRefund">
+    <Key>
+      <PropertyRef Name="WebOrderRefundId" />
+    </Key>
+    <Property Name="WebOrderRefundId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="WebOrderId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TradeNo" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="ExternalTradeNo" Type="varchar" Nullable="false" MaxLength="64" />
+    <Property Name="RefundTradeNo" Type="varchar" Nullable="false" MaxLength="32" />
+    <Property Name="RefundReason" Type="nvarchar" MaxLength="500" />
+    <Property Name="PaymentVendor" Type="varchar" MaxLength="10" />
+    <Property Name="RefundFee" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="TotalFee" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="BankType" Type="varchar" MaxLength="50" />
+    <Property Name="RequestTime" Type="datetime" Nullable="false" />
+    <Property Name="IsRequestSuccess" Type="bit" Nullable="false" />
+    <Property Name="RequestErrCodeDes" Type="nvarchar" MaxLength="300" />
+    <Property Name="IsRespondSuccess" Type="bit" Nullable="false" />
+    <Property Name="RespondTime" Type="datetime" />
+    <Property Name="RespondErrCodeDes" Type="nvarchar" MaxLength="300" />
+    <Property Name="OrderStatus" Type="varchar" Nullable="false" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="WebOrderVoucher">
+    <Key>
+      <PropertyRef Name="WebOrderVoucherId" />
+    </Key>
+    <Property Name="WebOrderVoucherId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="WebOrderId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TradeNo" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="VoucherId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="VoucherCode" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="OrderVoucherCode" Type="varchar" Nullable="false" MaxLength="300" />
+    <Property Name="OrderVoucherCodeEncrypted" Type="varchar" MaxLength="300" />
+    <Property Name="IsValid" Type="bit" Nullable="false" />
+    <Property Name="IsUsed" Type="bit" Nullable="false" />
+    <Property Name="UsedTime" Type="datetime" />
+    <Property Name="CreateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="WTOrder">
+    <Key>
+      <PropertyRef Name="WTOrderId" />
+    </Key>
+    <Property Name="WTOrderId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TradeNo" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="ExternalTradeNo" Type="varchar" Nullable="false" MaxLength="64" />
+    <Property Name="BuyTime" Type="datetime" Nullable="false" />
+    <Property Name="PrepayId" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="OperationCode" Type="varchar" MaxLength="10" />
+    <Property Name="CityCode" Type="varchar" MaxLength="10" />
+    <Property Name="DeviceId" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="ChannelType" Type="varchar" MaxLength="10" />
+    <Property Name="PaymentVendor" Type="varchar" MaxLength="10" />
+    <Property Name="StationCode" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="ProductCode" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="Price" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="Num" Type="int" Nullable="false" />
+    <Property Name="Discount" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="Amount" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="TransactionId" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTimeRaw" Type="varchar" MaxLength="50" />
+    <Property Name="PayEndTime" Type="datetime" />
+    <Property Name="ActualFee" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="BankType" Type="varchar" MaxLength="50" />
+    <Property Name="UserAccount" Type="nvarchar" MaxLength="200" />
+    <Property Name="UserOpenId" Type="varchar" MaxLength="200" />
+    <Property Name="PayErrCodeDes" Type="nvarchar" MaxLength="300" />
+    <Property Name="OrderStatus" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="Step" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="StepStatus" Type="nvarchar" MaxLength="500" />
+    <Property Name="IsValid" Type="bit" Nullable="false" />
+    <Property Name="TicketTakeNum" Type="int" />
+    <Property Name="TicketTakeTime" Type="datetime" />
+    <Property Name="DeviceErrTime" Type="datetime" />
+    <Property Name="DeviceErrCode" Type="varchar" MaxLength="20" />
+    <Property Name="DeviceErrMessage" Type="nvarchar" MaxLength="500" />
+    <Property Name="DeviceErrSlipSeq" Type="varchar" MaxLength="50" />
+    <Property Name="ExitDeviceId" Type="varchar" MaxLength="20" />
+    <Property Name="ExitTime" Type="datetime" />
+  </EntityType>
+</Schema>

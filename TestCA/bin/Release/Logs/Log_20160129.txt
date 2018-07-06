@@ -1,0 +1,4 @@
+2016-01-29 16:57:10,195 INFO  1 VoucherBo:FillNewVoucher:Generate new voucher:100000, from 20160129000000 to 20170129000000
+2016-01-29 16:59:35,662 INFO  1 VoucherBo:FillNewVoucher:145259.6921
+2016-01-29 17:09:48,195 ERROR 1 StressTestHelper:FillCompleteedStationOrder:Exception of type 'System.OutOfMemoryException' was thrown.
+2016-01-29 17:11:11,780 ERROR 1 StressTestHelper:FillCompleteedStationOrder:Exception of type 'System.OutOfMemoryException' was thrown.

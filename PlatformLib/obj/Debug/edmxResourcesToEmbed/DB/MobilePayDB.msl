@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MobilePayDBModelStoreContainer" CdmEntityContainer="MobilePayDBEntities">
+    <EntitySetMapping Name="VoucherLists">
+      <EntityTypeMapping TypeName="MobilePayDBModel.VoucherList">
+        <MappingFragment StoreEntitySet="VoucherList">
+          <ScalarProperty Name="IsLocked" ColumnName="IsLocked" />
+          <ScalarProperty Name="IsUsed" ColumnName="IsUsed" />
+          <ScalarProperty Name="IsValid" ColumnName="IsValid" />
+          <ScalarProperty Name="GenerateTime" ColumnName="GenerateTime" />
+          <ScalarProperty Name="ExpiredTime" ColumnName="ExpiredTime" />
+          <ScalarProperty Name="EffectiveTime" ColumnName="EffectiveTime" />
+          <ScalarProperty Name="VoucherCode" ColumnName="VoucherCode" />
+          <ScalarProperty Name="VoucherId" ColumnName="VoucherId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WebOrderVouchers">
+      <EntityTypeMapping TypeName="MobilePayDBModel.WebOrderVoucher">
+        <MappingFragment StoreEntitySet="WebOrderVoucher">
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="UsedTime" ColumnName="UsedTime" />
+          <ScalarProperty Name="IsUsed" ColumnName="IsUsed" />
+          <ScalarProperty Name="IsValid" ColumnName="IsValid" />
+          <ScalarProperty Name="OrderVoucherCodeEncrypted" ColumnName="OrderVoucherCodeEncrypted" />
+          <ScalarProperty Name="OrderVoucherCode" ColumnName="OrderVoucherCode" />
+          <ScalarProperty Name="VoucherCode" ColumnName="VoucherCode" />
+          <ScalarProperty Name="VoucherId" ColumnName="VoucherId" />
+          <ScalarProperty Name="TradeNo" ColumnName="TradeNo" />
+          <ScalarProperty Name="WebOrderId" ColumnName="WebOrderId" />
+          <ScalarProperty Name="WebOrderVoucherId" ColumnName="WebOrderVoucherId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TicketPrices">
+      <EntityTypeMapping TypeName="MobilePayDBModel.TicketPrice">
+        <MappingFragment StoreEntitySet="TicketPrice">
+          <ScalarProperty Name="RecordFlag" ColumnName="RecordFlag" />
+          <ScalarProperty Name="VersionNo" ColumnName="VersionNo" />
+          <ScalarProperty Name="FareCent" ColumnName="FareCent" />
+          <ScalarProperty Name="EndStationEnglishName" ColumnName="EndStationEnglishName" />
+          <ScalarProperty Name="BeginStationEnglishName" ColumnName="BeginStationEnglishName" />
+          <ScalarProperty Name="EndStationChineseName" ColumnName="EndStationChineseName" />
+          <ScalarProperty Name="BeginStationChineseName" ColumnName="BeginStationChineseName" />
+          <ScalarProperty Name="EndStationCode" ColumnName="EndStationCode" />
+          <ScalarProperty Name="BeginStationCode" ColumnName="BeginStationCode" />
+          <ScalarProperty Name="EndLineEnglishName" ColumnName="EndLineEnglishName" />
+          <ScalarProperty Name="BeginLineEnglishName" ColumnName="BeginLineEnglishName" />
+          <ScalarProperty Name="EndLineChineseName" ColumnName="EndLineChineseName" />
+          <ScalarProperty Name="BeginLineChineseName" ColumnName="BeginLineChineseName" />
+          <ScalarProperty Name="EndLineId" ColumnName="EndLineId" />
+          <ScalarProperty Name="BeginLineId" ColumnName="BeginLineId" />
+          <ScalarProperty Name="TicketPriceId" ColumnName="TicketPriceId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AFCStationCodes">
+      <EntityTypeMapping TypeName="MobilePayDBModel.AFCStationCode">
+        <MappingFragment StoreEntitySet="AFCStationCode">
+          <ScalarProperty Name="RecordFlag" ColumnName="RecordFlag" />
+          <ScalarProperty Name="VersionNo" ColumnName="VersionNo" />
+          <ScalarProperty Name="StationEnglishName" ColumnName="StationEnglishName" />
+          <ScalarProperty Name="StationChaineseName" ColumnName="StationChaineseName" />
+          <ScalarProperty Name="StationId" ColumnName="StationId" />
+          <ScalarProperty Name="LineId" ColumnName="LineId" />
+          <ScalarProperty Name="AFCStationCodeId" ColumnName="AFCStationCodeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WebOrderRefunds">
+      <EntityTypeMapping TypeName="MobilePayDBModel.WebOrderRefund">
+        <MappingFragment StoreEntitySet="WebOrderRefund">
+          <ScalarProperty Name="OrderStatus" ColumnName="OrderStatus" />
+          <ScalarProperty Name="RespondErrCodeDes" ColumnName="RespondErrCodeDes" />
+          <ScalarProperty Name="RespondTime" ColumnName="RespondTime" />
+          <ScalarProperty Name="IsRespondSuccess" ColumnName="IsRespondSuccess" />
+          <ScalarProperty Name="RequestErrCodeDes" ColumnName="RequestErrCodeDes" />
+          <ScalarProperty Name="IsRequestSuccess" ColumnName="IsRequestSuccess" />
+          <ScalarProperty Name="RequestTime" ColumnName="RequestTime" />
+          <ScalarProperty Name="BankType" ColumnName="BankType" />
+          <ScalarProperty Name="TotalFee" ColumnName="TotalFee" />
+          <ScalarProperty Name="RefundFee" ColumnName="RefundFee" />
+          <ScalarProperty Name="PaymentVendor" ColumnName="PaymentVendor" />
+          <ScalarProperty Name="RefundReason" ColumnName="RefundReason" />
+          <ScalarProperty Name="RefundTradeNo" ColumnName="RefundTradeNo" />
+          <ScalarProperty Name="ExternalTradeNo" ColumnName="ExternalTradeNo" />
+          <ScalarProperty Name="TradeNo" ColumnName="TradeNo" />
+          <ScalarProperty Name="WebOrderId" ColumnName="WebOrderId" />
+          <ScalarProperty Name="WebOrderRefundId" ColumnName="WebOrderRefundId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StationOrders">
+      <EntityTypeMapping TypeName="MobilePayDBModel.StationOrder">
+        <MappingFragment StoreEntitySet="StationOrder">
+          <ScalarProperty Name="DeviceErrSlipSeq" ColumnName="DeviceErrSlipSeq" />
+          <ScalarProperty Name="DeviceErrMessage" ColumnName="DeviceErrMessage" />
+          <ScalarProperty Name="DeviceErrCode" ColumnName="DeviceErrCode" />
+          <ScalarProperty Name="DeviceErrTime" ColumnName="DeviceErrTime" />
+          <ScalarProperty Name="TicketTakeTime" ColumnName="TicketTakeTime" />
+          <ScalarProperty Name="TicketTakeNum" ColumnName="TicketTakeNum" />
+          <ScalarProperty Name="IsValid" ColumnName="IsValid" />
+          <ScalarProperty Name="StepStatus" ColumnName="StepStatus" />
+          <ScalarProperty Name="Step" ColumnName="Step" />
+          <ScalarProperty Name="OrderStatus" ColumnName="OrderStatus" />
+          <ScalarProperty Name="PayErrCodeDes" ColumnName="PayErrCodeDes" />
+          <ScalarProperty Name="UserOpenId" ColumnName="UserOpenId" />
+          <ScalarProperty Name="UserAccount" ColumnName="UserAccount" />
+          <ScalarProperty Name="BankType" ColumnName="BankType" />
+          <ScalarProperty Name="ActualFee" ColumnName="ActualFee" />
+          <ScalarProperty Name="PayEndTime" ColumnName="PayEndTime" />
+          <ScalarProperty Name="PayEndTimeRaw" ColumnName="PayEndTimeRaw" />
+          <ScalarProperty Name="TransactionId" ColumnName="TransactionId" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="SingleTicketType" ColumnName="SingleTicketType" />
+          <ScalarProperty Name="TicketNum" ColumnName="TicketNum" />
+          <ScalarProperty Name="TicketPrice" ColumnName="TicketPrice" />
+          <ScalarProperty Name="DesAFCStationCode" ColumnName="DesAFCStationCode" />
+          <ScalarProperty Name="OriAFCStationCode" ColumnName="OriAFCStationCode" />
+          <ScalarProperty Name="PaymentCode" ColumnName="PaymentCode" />
+          <ScalarProperty Name="PaymentVendor" ColumnName="PaymentVendor" />
+          <ScalarProperty Name="ChannelType" ColumnName="ChannelType" />
+          <ScalarProperty Name="DeviceId" ColumnName="DeviceId" />
+          <ScalarProperty Name="CityCode" ColumnName="CityCode" />
+          <ScalarProperty Name="OperationCode" ColumnName="OperationCode" />
+          <ScalarProperty Name="BuyTime" ColumnName="BuyTime" />
+          <ScalarProperty Name="TradeNo" ColumnName="TradeNo" />
+          <ScalarProperty Name="StationOrderId" ColumnName="StationOrderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BOMOrders">
+      <EntityTypeMapping TypeName="MobilePayDBModel.BOMOrder">
+        <MappingFragment StoreEntitySet="BOMOrder">
+          <ScalarProperty Name="DeviceErrSlipSeq" ColumnName="DeviceErrSlipSeq" />
+          <ScalarProperty Name="DeviceErrMessage" ColumnName="DeviceErrMessage" />
+          <ScalarProperty Name="DeviceErrCode" ColumnName="DeviceErrCode" />
+          <ScalarProperty Name="DeviceErrTime" ColumnName="DeviceErrTime" />
+          <ScalarProperty Name="TicketTakeTime" ColumnName="TicketTakeTime" />
+          <ScalarProperty Name="TicketTakeNum" ColumnName="TicketTakeNum" />
+          <ScalarProperty Name="IsValid" ColumnName="IsValid" />
+          <ScalarProperty Name="StepStatus" ColumnName="StepStatus" />
+          <ScalarProperty Name="Step" ColumnName="Step" />
+          <ScalarProperty Name="OrderStatus" ColumnName="OrderStatus" />
+          <ScalarProperty Name="PayErrCodeDes" ColumnName="PayErrCodeDes" />
+          <ScalarProperty Name="UserOpenId" ColumnName="UserOpenId" />
+          <ScalarProperty Name="UserAccount" ColumnName="UserAccount" />
+          <ScalarProperty Name="BankType" ColumnName="BankType" />
+          <ScalarProperty Name="PassengerAffairPrice" ColumnName="PassengerAffairPrice" />
+          <ScalarProperty Name="PayEndTime" ColumnName="PayEndTime" />
+          <ScalarProperty Name="PayEndTimeRaw" ColumnName="PayEndTimeRaw" />
+          <ScalarProperty Name="TransactionId" ColumnName="TransactionId" />
+          <ScalarProperty Name="GetOffStationTime" ColumnName="GetOffStationTime" />
+          <ScalarProperty Name="GetOffStationCode" ColumnName="GetOffStationCode" />
+          <ScalarProperty Name="PickupStationTime" ColumnName="PickupStationTime" />
+          <ScalarProperty Name="PickupStationCode" ColumnName="PickupStationCode" />
+          <ScalarProperty Name="PassengerAffairType" ColumnName="PassengerAffairType" />
+          <ScalarProperty Name="PaymentVendor" ColumnName="PaymentVendor" />
+          <ScalarProperty Name="ChannelType" ColumnName="ChannelType" />
+          <ScalarProperty Name="DeviceId" ColumnName="DeviceId" />
+          <ScalarProperty Name="CityCode" ColumnName="CityCode" />
+          <ScalarProperty Name="OperationCode" ColumnName="OperationCode" />
+          <ScalarProperty Name="BuyTime" ColumnName="BuyTime" />
+          <ScalarProperty Name="TicketId" ColumnName="TicketId" />
+          <ScalarProperty Name="TicketType" ColumnName="TicketType" />
+          <ScalarProperty Name="PaymentCode" ColumnName="PaymentCode" />
+          <ScalarProperty Name="OrderNo" ColumnName="OrderNo" />
+          <ScalarProperty Name="BOMOrderId" ColumnName="BOMOrderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WTOrders">
+      <EntityTypeMapping TypeName="MobilePayDBModel.WTOrder">
+        <MappingFragment StoreEntitySet="WTOrder">
+          <ScalarProperty Name="ExitTime" ColumnName="ExitTime" />
+          <ScalarProperty Name="ExitDeviceId" ColumnName="ExitDeviceId" />
+          <ScalarProperty Name="DeviceErrSlipSeq" ColumnName="DeviceErrSlipSeq" />
+          <ScalarProperty Name="DeviceErrMessage" ColumnName="DeviceErrMessage" />
+          <ScalarProperty Name="DeviceErrCode" ColumnName="DeviceErrCode" />
+          <ScalarProperty Name="DeviceErrTime" ColumnName="DeviceErrTime" />
+          <ScalarProperty Name="TicketTakeTime" ColumnName="TicketTakeTime" />
+          <ScalarProperty Name="TicketTakeNum" ColumnName="TicketTakeNum" />
+          <ScalarProperty Name="IsValid" ColumnName="IsValid" />
+          <ScalarProperty Name="StepStatus" ColumnName="StepStatus" />
+          <ScalarProperty Name="Step" ColumnName="Step" />
+          <ScalarProperty Name="OrderStatus" ColumnName="OrderStatus" />
+          <ScalarProperty Name="PayErrCodeDes" ColumnName="PayErrCodeDes" />
+          <ScalarProperty Name="UserOpenId" ColumnName="UserOpenId" />
+          <ScalarProperty Name="UserAccount" ColumnName="UserAccount" />
+          <ScalarProperty Name="BankType" ColumnName="BankType" />
+          <ScalarProperty Name="ActualFee" ColumnName="ActualFee" />
+          <ScalarProperty Name="PayEndTime" ColumnName="PayEndTime" />
+          <ScalarProperty Name="PayEndTimeRaw" ColumnName="PayEndTimeRaw" />
+          <ScalarProperty Name="TransactionId" ColumnName="TransactionId" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="Num" ColumnName="Num" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="ProductCode" ColumnName="ProductCode" />
+          <ScalarProperty Name="StationCode" ColumnName="StationCode" />
+          <ScalarProperty Name="PaymentVendor" ColumnName="PaymentVendor" />
+          <ScalarProperty Name="ChannelType" ColumnName="ChannelType" />
+          <ScalarProperty Name="DeviceId" ColumnName="DeviceId" />
+          <ScalarProperty Name="CityCode" ColumnName="CityCode" />
+          <ScalarProperty Name="OperationCode" ColumnName="OperationCode" />
+          <ScalarProperty Name="PrepayId" ColumnName="PrepayId" />
+          <ScalarProperty Name="BuyTime" ColumnName="BuyTime" />
+          <ScalarProperty Name="ExternalTradeNo" ColumnName="ExternalTradeNo" />
+          <ScalarProperty Name="TradeNo" ColumnName="TradeNo" />
+          <ScalarProperty Name="WTOrderId" ColumnName="WTOrderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QRCStationOrders">
+      <EntityTypeMapping TypeName="MobilePayDBModel.QRCStationOrder">
+        <MappingFragment StoreEntitySet="QRCStationOrder">
+          <ScalarProperty Name="QRCode" ColumnName="QRCode" />
+          <ScalarProperty Name="DeviceErrSlipSeq" ColumnName="DeviceErrSlipSeq" />
+          <ScalarProperty Name="DeviceErrMessage" ColumnName="DeviceErrMessage" />
+          <ScalarProperty Name="DeviceErrCode" ColumnName="DeviceErrCode" />
+          <ScalarProperty Name="DeviceErrTime" ColumnName="DeviceErrTime" />
+          <ScalarProperty Name="TicketTakeTime" ColumnName="TicketTakeTime" />
+          <ScalarProperty Name="TicketTakeNum" ColumnName="TicketTakeNum" />
+          <ScalarProperty Name="IsValid" ColumnName="IsValid" />
+          <ScalarProperty Name="StepStatus" ColumnName="StepStatus" />
+          <ScalarProperty Name="Step" ColumnName="Step" />
+          <ScalarProperty Name="OrderStatus" ColumnName="OrderStatus" />
+          <ScalarProperty Name="PayErrCodeDes" ColumnName="PayErrCodeDes" />
+          <ScalarProperty Name="UserOpenId" ColumnName="UserOpenId" />
+          <ScalarProperty Name="UserAccount" ColumnName="UserAccount" />
+          <ScalarProperty Name="BankType" ColumnName="BankType" />
+          <ScalarProperty Name="ActualFee" ColumnName="ActualFee" />
+          <ScalarProperty Name="PayEndTime" ColumnName="PayEndTime" />
+          <ScalarProperty Name="PayEndTimeRaw" ColumnName="PayEndTimeRaw" />
+          <ScalarProperty Name="TransactionId" ColumnName="TransactionId" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="SingleTicketType" ColumnName="SingleTicketType" />
+          <ScalarProperty Name="TicketNum" ColumnName="TicketNum" />
+          <ScalarProperty Name="TicketPrice" ColumnName="TicketPrice" />
+          <ScalarProperty Name="DesAFCStationCode" ColumnName="DesAFCStationCode" />
+          <ScalarProperty Name="OriAFCStationCode" ColumnName="OriAFCStationCode" />
+          <ScalarProperty Name="PaymentCode" ColumnName="PaymentCode" />
+          <ScalarProperty Name="PaymentVendor" ColumnName="PaymentVendor" />
+          <ScalarProperty Name="ChannelType" ColumnName="ChannelType" />
+          <ScalarProperty Name="DeviceId" ColumnName="DeviceId" />
+          <ScalarProperty Name="CityCode" ColumnName="CityCode" />
+          <ScalarProperty Name="OperationCode" ColumnName="OperationCode" />
+          <ScalarProperty Name="BuyTime" ColumnName="BuyTime" />
+          <ScalarProperty Name="TradeNo" ColumnName="TradeNo" />
+          <ScalarProperty Name="QRCStationOrderId" ColumnName="QRCStationOrderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QRCWebOrders">
+      <EntityTypeMapping TypeName="MobilePayDBModel.QRCWebOrder">
+        <MappingFragment StoreEntitySet="QRCWebOrder">
+          <ScalarProperty Name="RandomFact" ColumnName="RandomFact" />
+          <ScalarProperty Name="ExitTime" ColumnName="ExitTime" />
+          <ScalarProperty Name="ExitDeviceId" ColumnName="ExitDeviceId" />
+          <ScalarProperty Name="DeviceErrSlipSeq" ColumnName="DeviceErrSlipSeq" />
+          <ScalarProperty Name="DeviceErrMessage" ColumnName="DeviceErrMessage" />
+          <ScalarProperty Name="DeviceErrCode" ColumnName="DeviceErrCode" />
+          <ScalarProperty Name="DeviceErrTime" ColumnName="DeviceErrTime" />
+          <ScalarProperty Name="TicketTakeTime" ColumnName="TicketTakeTime" />
+          <ScalarProperty Name="TicketTakeNum" ColumnName="TicketTakeNum" />
+          <ScalarProperty Name="IsValid" ColumnName="IsValid" />
+          <ScalarProperty Name="StepStatus" ColumnName="StepStatus" />
+          <ScalarProperty Name="Step" ColumnName="Step" />
+          <ScalarProperty Name="OrderStatus" ColumnName="OrderStatus" />
+          <ScalarProperty Name="PayErrCodeDes" ColumnName="PayErrCodeDes" />
+          <ScalarProperty Name="UserOpenId" ColumnName="UserOpenId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="BankType" ColumnName="BankType" />
+          <ScalarProperty Name="ActualFee" ColumnName="ActualFee" />
+          <ScalarProperty Name="PayEndTime" ColumnName="PayEndTime" />
+          <ScalarProperty Name="PayEndTimeRaw" ColumnName="PayEndTimeRaw" />
+          <ScalarProperty Name="TransactionId" ColumnName="TransactionId" />
+          <ScalarProperty Name="TicketTarget" ColumnName="TicketTarget" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="TicketNum" ColumnName="TicketNum" />
+          <ScalarProperty Name="TicketPrice" ColumnName="TicketPrice" />
+          <ScalarProperty Name="DesAFCStationCode" ColumnName="DesAFCStationCode" />
+          <ScalarProperty Name="OriAFCStationCode" ColumnName="OriAFCStationCode" />
+          <ScalarProperty Name="PaymentVendor" ColumnName="PaymentVendor" />
+          <ScalarProperty Name="ChannelType" ColumnName="ChannelType" />
+          <ScalarProperty Name="DeviceId" ColumnName="DeviceId" />
+          <ScalarProperty Name="CityCode" ColumnName="CityCode" />
+          <ScalarProperty Name="OperationCode" ColumnName="OperationCode" />
+          <ScalarProperty Name="PrepayId" ColumnName="PrepayId" />
+          <ScalarProperty Name="BuyTime" ColumnName="BuyTime" />
+          <ScalarProperty Name="ExternalTradeNo" ColumnName="ExternalTradeNo" />
+          <ScalarProperty Name="TradeNo" ColumnName="TradeNo" />
+          <ScalarProperty Name="QRCWebOrderId" ColumnName="QRCWebOrderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WebOrders">
+      <EntityTypeMapping TypeName="MobilePayDBModel.WebOrder">
+        <MappingFragment StoreEntitySet="WebOrder">
+          <ScalarProperty Name="RandomFact" ColumnName="RandomFact" />
+          <ScalarProperty Name="ExitTime" ColumnName="ExitTime" />
+          <ScalarProperty Name="ExitDeviceId" ColumnName="ExitDeviceId" />
+          <ScalarProperty Name="DeviceErrSlipSeq" ColumnName="DeviceErrSlipSeq" />
+          <ScalarProperty Name="DeviceErrMessage" ColumnName="DeviceErrMessage" />
+          <ScalarProperty Name="DeviceErrCode" ColumnName="DeviceErrCode" />
+          <ScalarProperty Name="DeviceErrTime" ColumnName="DeviceErrTime" />
+          <ScalarProperty Name="TicketTakeTime" ColumnName="TicketTakeTime" />
+          <ScalarProperty Name="TicketTakeNum" ColumnName="TicketTakeNum" />
+          <ScalarProperty Name="IsValid" ColumnName="IsValid" />
+          <ScalarProperty Name="StepStatus" ColumnName="StepStatus" />
+          <ScalarProperty Name="Step" ColumnName="Step" />
+          <ScalarProperty Name="OrderStatus" ColumnName="OrderStatus" />
+          <ScalarProperty Name="PayErrCodeDes" ColumnName="PayErrCodeDes" />
+          <ScalarProperty Name="UserOpenId" ColumnName="UserOpenId" />
+          <ScalarProperty Name="UserAccount" ColumnName="UserAccount" />
+          <ScalarProperty Name="BankType" ColumnName="BankType" />
+          <ScalarProperty Name="ActualFee" ColumnName="ActualFee" />
+          <ScalarProperty Name="PayEndTime" ColumnName="PayEndTime" />
+          <ScalarProperty Name="PayEndTimeRaw" ColumnName="PayEndTimeRaw" />
+          <ScalarProperty Name="TransactionId" ColumnName="TransactionId" />
+          <ScalarProperty Name="TicketTarget" ColumnName="TicketTarget" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="TicketNum" ColumnName="TicketNum" />
+          <ScalarProperty Name="TicketPrice" ColumnName="TicketPrice" />
+          <ScalarProperty Name="DesAFCStationCode" ColumnName="DesAFCStationCode" />
+          <ScalarProperty Name="OriAFCStationCode" ColumnName="OriAFCStationCode" />
+          <ScalarProperty Name="PaymentVendor" ColumnName="PaymentVendor" />
+          <ScalarProperty Name="ChannelType" ColumnName="ChannelType" />
+          <ScalarProperty Name="DeviceId" ColumnName="DeviceId" />
+          <ScalarProperty Name="CityCode" ColumnName="CityCode" />
+          <ScalarProperty Name="OperationCode" ColumnName="OperationCode" />
+          <ScalarProperty Name="PrepayId" ColumnName="PrepayId" />
+          <ScalarProperty Name="BuyTime" ColumnName="BuyTime" />
+          <ScalarProperty Name="ExternalTradeNo" ColumnName="ExternalTradeNo" />
+          <ScalarProperty Name="TradeNo" ColumnName="TradeNo" />
+          <ScalarProperty Name="WebOrderId" ColumnName="WebOrderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InvalidRandomFacts">
+      <EntityTypeMapping TypeName="MobilePayDBModel.InvalidRandomFact">
+        <MappingFragment StoreEntitySet="InvalidRandomFact">
+          <ScalarProperty Name="DeviceId" ColumnName="DeviceId" />
+          <ScalarProperty Name="RandomFact" ColumnName="RandomFact" />
+          <ScalarProperty Name="RandomFactId" ColumnName="RandomFactId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

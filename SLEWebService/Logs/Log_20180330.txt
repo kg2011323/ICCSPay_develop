@@ -1,0 +1,2 @@
+2018-03-30 14:18:16,815 INFO  5 :Application_Start:ASP.global_asax2018-03-30 14:18:16:Application Start!
+2018-03-30 14:19:28,957 INFO  5 :Application_End:ASP.global_asax2018-03-30 14:19:28:Application End!

@@ -1,0 +1,384 @@
+2015-12-16 10:51:18.024 INFO MicroPay: Micropay is processing...
+2015-12-16 10:51:47.492 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[9f4c09b4e19d45e4accdc0e9c724b4a0]]></nonce_str><out_trade_no><![CDATA[123341000220151216105137239]]></out_trade_no><sign><![CDATA[56BC1A98FE9296AF0F1F7F6B1C618F8E]]></sign><spbill_create_ip><![CDATA[8.8.8.8]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-16 10:51:51.168 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[QOMfmyG3tjCQT3Ro]]></nonce_str>
+<sign><![CDATA[48EB5ACC73F2F91216FFCA1651528524]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des>
+</xml>
+2015-12-16 10:51:51.218 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 10:51:53.422 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[QOMfmyG3tjCQT3Ro]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[48EB5ACC73F2F91216FFCA1651528524]]></sign></xml>
+2015-12-16 10:51:53.423 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Web Page : appid=wx2428e34e0e7dc6ef<br>err_code=AUTHCODEEXPIRE<br>err_code_des=每个二维码仅限使用一次，请刷新再试<br>mch_id=1233410002<br>nonce_str=QOMfmyG3tjCQT3Ro<br>result_code=FAIL<br>return_code=SUCCESS<br>return_msg=OK<br>sign=48EB5ACC73F2F91216FFCA1651528524<br>
+2015-12-16 10:54:09.671 INFO MicroPay: Micropay is processing...
+2015-12-16 10:54:11.199 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130299611551503140]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[278479fde456482e8b4a75f6916d85d5]]></nonce_str><out_trade_no><![CDATA[12334100022015121610540966]]></out_trade_no><sign><![CDATA[96280A41138E964BD36EAF7CCA3A9C93]]></sign><spbill_create_ip><![CDATA[8.8.8.8]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-16 10:54:13.380 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[Ps0EjWSKIeh4s8Vw]]></nonce_str>
+<sign><![CDATA[3002E74640DBA4C939C847F64B836A7A]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1009840669201512162111798493]]></transaction_id>
+<out_trade_no><![CDATA[12334100022015121610540966]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20151216105412]]></time_end>
+<cash_fee>1</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2015-12-16 10:54:13.400 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 10:54:14.884 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CFT]]></bank_type><cash_fee><![CDATA[1]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[N]]></is_subscribe><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[Ps0EjWSKIeh4s8Vw]]></nonce_str><openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid><out_trade_no><![CDATA[12334100022015121610540966]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[3002E74640DBA4C939C847F64B836A7A]]></sign><time_end><![CDATA[20151216105412]]></time_end><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1009840669201512162111798493]]></transaction_id></xml>
+2015-12-16 10:54:14.885 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Web Page : appid=wx2428e34e0e7dc6ef<br>attach=<br>bank_type=CFT<br>cash_fee=1<br>cash_fee_type=<br>fee_type=CNY<br>is_subscribe=N<br>mch_id=1233410002<br>nonce_str=Ps0EjWSKIeh4s8Vw<br>openid=oS2tJtxFGGFUCMF9Ca51_U5lDprk<br>out_trade_no=12334100022015121610540966<br>result_code=SUCCESS<br>return_code=SUCCESS<br>return_msg=OK<br>sign=3002E74640DBA4C939C847F64B836A7A<br>time_end=20151216105412<br>total_fee=1<br>trade_type=MICROPAY<br>transaction_id=1009840669201512162111798493<br>
+2015-12-16 11:16:51.174 INFO MicroPay: Micropay is processing...
+2015-12-16 11:16:53.336 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[16b1a142ade74f3782a01ac34a260312]]></nonce_str><out_trade_no><![CDATA[123341000220151216111651553]]></out_trade_no><sign><![CDATA[1338E0A465ED354EE6C698A8F145DB54]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-16 11:16:54.606 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[9xC5Ne9REGR5yW52]]></nonce_str>
+<sign><![CDATA[A3440EF639288A16FE3D60DC10DD5AD6]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des>
+</xml>
+2015-12-16 11:16:54.686 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 11:16:56.321 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[9xC5Ne9REGR5yW52]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[A3440EF639288A16FE3D60DC10DD5AD6]]></sign></xml>
+2015-12-16 11:17:00.594 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+err_code=AUTHCODEEXPIRE
+err_code_des=每个二维码仅限使用一次，请刷新再试
+mch_id=1233410002
+nonce_str=9xC5Ne9REGR5yW52
+result_code=FAIL
+return_code=SUCCESS
+return_msg=OK
+sign=A3440EF639288A16FE3D60DC10DD5AD6
+
+2015-12-16 11:19:42.797 INFO MicroPay: Micropay is processing...
+2015-12-16 11:19:44.591 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130503458221665715]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[b28a692f1c1a4181a74e195e078bf34e]]></nonce_str><out_trade_no><![CDATA[123341000220151216111942792]]></out_trade_no><sign><![CDATA[765B70DAC291E0189078DF84E4728669]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-16 11:19:45.681 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[PYO11bsYag8cd0R4]]></nonce_str>
+<sign><![CDATA[8C7D675A60027171CF64251C3A625D0A]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJt5eyBBIwJfaUc9pGtA2jOHg]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1002480669201512162112519134]]></transaction_id>
+<out_trade_no><![CDATA[123341000220151216111942792]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20151216111945]]></time_end>
+<cash_fee>1</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2015-12-16 11:19:45.691 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 11:19:47.011 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CFT]]></bank_type><cash_fee><![CDATA[1]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[N]]></is_subscribe><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[PYO11bsYag8cd0R4]]></nonce_str><openid><![CDATA[oS2tJt5eyBBIwJfaUc9pGtA2jOHg]]></openid><out_trade_no><![CDATA[123341000220151216111942792]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[8C7D675A60027171CF64251C3A625D0A]]></sign><time_end><![CDATA[20151216111945]]></time_end><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1002480669201512162112519134]]></transaction_id></xml>
+2015-12-16 11:19:54.082 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CFT
+cash_fee=1
+cash_fee_type=
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=PYO11bsYag8cd0R4
+openid=oS2tJt5eyBBIwJfaUc9pGtA2jOHg
+out_trade_no=123341000220151216111942792
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=8C7D675A60027171CF64251C3A625D0A
+time_end=20151216111945
+total_fee=1
+trade_type=MICROPAY
+transaction_id=1002480669201512162112519134
+
+2015-12-16 11:20:44.581 INFO MicroPay: Micropay is processing...
+2015-12-16 11:20:45.691 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130299563284918165]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[7ae26d18e8c746948d958411ee8366c2]]></nonce_str><out_trade_no><![CDATA[123341000220151216112044303]]></out_trade_no><sign><![CDATA[5ED769F75F066833987E080E4DE5DFF5]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>2</total_fee></xml>
+2015-12-16 11:20:46.972 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[so662KWYul5YIeWM]]></nonce_str>
+<sign><![CDATA[F6C3AFA57FD12C5DB43D1B5B7B64CCB9]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJt5eyBBIwJfaUc9pGtA2jOHg]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>2</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1002480669201512162112553149]]></transaction_id>
+<out_trade_no><![CDATA[123341000220151216112044303]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20151216112046]]></time_end>
+<cash_fee>2</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2015-12-16 11:20:47.012 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 11:20:47.773 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CFT]]></bank_type><cash_fee><![CDATA[2]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[N]]></is_subscribe><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[so662KWYul5YIeWM]]></nonce_str><openid><![CDATA[oS2tJt5eyBBIwJfaUc9pGtA2jOHg]]></openid><out_trade_no><![CDATA[123341000220151216112044303]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[F6C3AFA57FD12C5DB43D1B5B7B64CCB9]]></sign><time_end><![CDATA[20151216112046]]></time_end><total_fee><![CDATA[2]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1002480669201512162112553149]]></transaction_id></xml>
+2015-12-16 11:20:51.213 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CFT
+cash_fee=2
+cash_fee_type=
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=so662KWYul5YIeWM
+openid=oS2tJt5eyBBIwJfaUc9pGtA2jOHg
+out_trade_no=123341000220151216112044303
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=F6C3AFA57FD12C5DB43D1B5B7B64CCB9
+time_end=20151216112046
+total_fee=2
+trade_type=MICROPAY
+transaction_id=1002480669201512162112553149
+
+2015-12-16 11:46:32.951 INFO MicroPay: Micropay is processing...
+2015-12-16 11:46:39.224 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[31f170cb1137469e95e267872d1db092]]></nonce_str><out_trade_no><![CDATA[123341000220151216114633442]]></out_trade_no><sign><![CDATA[48ACCBE16ABD6013B8741B4E96277E7E]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-16 11:46:41.469 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[0LAjphb3RIljTmah]]></nonce_str>
+<sign><![CDATA[B50B14E318C473B61FBBA0AEFBE6B1C0]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des>
+</xml>
+2015-12-16 11:46:41.552 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 11:46:41.552 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[0LAjphb3RIljTmah]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[B50B14E318C473B61FBBA0AEFBE6B1C0]]></sign></xml>
+2015-12-16 11:46:45.005 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+err_code=AUTHCODEEXPIRE
+err_code_des=每个二维码仅限使用一次，请刷新再试
+mch_id=1233410002
+nonce_str=0LAjphb3RIljTmah
+result_code=FAIL
+return_code=SUCCESS
+return_msg=OK
+sign=B50B14E318C473B61FBBA0AEFBE6B1C0
+
+2015-12-16 11:54:44.277 INFO MicroPay: Micropay is processing...
+2015-12-16 11:54:44.324 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[55bac859167545c5bfe46659df0e0443]]></nonce_str><out_trade_no><![CDATA[1233410002201512161154448]]></out_trade_no><sign><![CDATA[EF486B671E7ED5A824A3CE85ABBE5BE9]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-16 11:54:45.327 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[SGAg6lWrhLP0nkmB]]></nonce_str>
+<sign><![CDATA[BB5A9387F23A8AA0C06985179389DB67]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des>
+</xml>
+2015-12-16 11:54:45.390 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 11:54:45.390 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[SGAg6lWrhLP0nkmB]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[BB5A9387F23A8AA0C06985179389DB67]]></sign></xml>
+2015-12-16 11:54:45.392 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+err_code=AUTHCODEEXPIRE
+err_code_des=每个二维码仅限使用一次，请刷新再试
+mch_id=1233410002
+nonce_str=SGAg6lWrhLP0nkmB
+result_code=FAIL
+return_code=SUCCESS
+return_msg=OK
+sign=BB5A9387F23A8AA0C06985179389DB67
+
+2015-12-16 11:58:00.036 INFO MicroPay: Micropay is processing...
+2015-12-16 11:58:00.191 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[cef6e6666874471191a3c9a74719daf5]]></nonce_str><out_trade_no><![CDATA[12334100022015121611580066]]></out_trade_no><sign><![CDATA[FB8BDB7F85B2DAF85FE044DA6B0A3DF9]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-16 11:58:00.926 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[tq2yKzuTbGoYugyX]]></nonce_str>
+<sign><![CDATA[4A3B4733B3F4832147F8A42EAF071284]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des>
+</xml>
+2015-12-16 11:58:00.994 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 11:58:00.994 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[tq2yKzuTbGoYugyX]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[4A3B4733B3F4832147F8A42EAF071284]]></sign></xml>
+2015-12-16 11:58:00.994 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+err_code=AUTHCODEEXPIRE
+err_code_des=每个二维码仅限使用一次，请刷新再试
+mch_id=1233410002
+nonce_str=tq2yKzuTbGoYugyX
+result_code=FAIL
+return_code=SUCCESS
+return_msg=OK
+sign=4A3B4733B3F4832147F8A42EAF071284
+
+2015-12-16 12:10:40.264 INFO MicroPay: Micropay is processing...
+2015-12-16 12:10:40.671 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[9dd759388d3d4277b6115cc171f4ed2c]]></nonce_str><out_trade_no><![CDATA[123341000220151216121040826]]></out_trade_no><sign><![CDATA[F6EDEEBA42F9FEAC96CBAEEC48F355DF]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-16 12:10:41.519 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[UGBLyJLXfoRIrPlI]]></nonce_str>
+<sign><![CDATA[F78F6D98768EB99074F0C24F7A3D1E16]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des>
+</xml>
+2015-12-16 12:10:41.589 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 12:10:41.591 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[UGBLyJLXfoRIrPlI]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[F78F6D98768EB99074F0C24F7A3D1E16]]></sign></xml>
+2015-12-16 12:10:41.591 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+err_code=AUTHCODEEXPIRE
+err_code_des=每个二维码仅限使用一次，请刷新再试
+mch_id=1233410002
+nonce_str=UGBLyJLXfoRIrPlI
+result_code=FAIL
+return_code=SUCCESS
+return_msg=OK
+sign=F78F6D98768EB99074F0C24F7A3D1E16
+
+2015-12-16 12:19:26.533 INFO MicroPay: Micropay is processing...
+2015-12-16 12:19:26.533 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130463874100278552]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[154b681ad9ae4e69b7c7a346a099aa68]]></nonce_str><out_trade_no><![CDATA[123341000220151216121926881]]></out_trade_no><sign><![CDATA[CB71EF6FA813FFEF618EAB6E706BE63C]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-16 12:19:28.119 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[FgGqDFPBBJvEXnb5]]></nonce_str>
+<sign><![CDATA[DFB48BED56C25C854B588F9EEA8085D6]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des>
+</xml>
+2015-12-16 12:19:28.141 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 12:19:28.141 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[FgGqDFPBBJvEXnb5]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[DFB48BED56C25C854B588F9EEA8085D6]]></sign></xml>
+2015-12-16 12:19:28.141 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+err_code=AUTHCODEEXPIRE
+err_code_des=每个二维码仅限使用一次，请刷新再试
+mch_id=1233410002
+nonce_str=FgGqDFPBBJvEXnb5
+result_code=FAIL
+return_code=SUCCESS
+return_msg=OK
+sign=DFB48BED56C25C854B588F9EEA8085D6
+
+2015-12-16 12:20:08.945 INFO MicroPay: Micropay is processing...
+2015-12-16 12:20:08.945 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130267575149586981]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[23225d000d3c4782a669f2cc513be127]]></nonce_str><out_trade_no><![CDATA[123341000220151216122008596]]></out_trade_no><sign><![CDATA[454FB8C655A44B31A418B0789FA11256]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2015-12-16 12:20:10.216 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[BkyjU01mcKTMMx1k]]></nonce_str>
+<sign><![CDATA[1BD58926C98D0F549079A1109D962A61]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJt2N7DlewUymVTYd48Yziluk]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1002750669201512162114243314]]></transaction_id>
+<out_trade_no><![CDATA[123341000220151216122008596]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20151216122009]]></time_end>
+<cash_fee>1</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2015-12-16 12:20:10.238 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 12:20:10.241 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CCB_DEBIT]]></bank_type><cash_fee><![CDATA[1]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[N]]></is_subscribe><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[BkyjU01mcKTMMx1k]]></nonce_str><openid><![CDATA[oS2tJt2N7DlewUymVTYd48Yziluk]]></openid><out_trade_no><![CDATA[123341000220151216122008596]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[1BD58926C98D0F549079A1109D962A61]]></sign><time_end><![CDATA[20151216122009]]></time_end><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1002750669201512162114243314]]></transaction_id></xml>
+2015-12-16 12:20:10.241 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CCB_DEBIT
+cash_fee=1
+cash_fee_type=
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=BkyjU01mcKTMMx1k
+openid=oS2tJt2N7DlewUymVTYd48Yziluk
+out_trade_no=123341000220151216122008596
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=1BD58926C98D0F549079A1109D962A61
+time_end=20151216122009
+total_fee=1
+trade_type=MICROPAY
+transaction_id=1002750669201512162114243314
+
+2015-12-16 14:13:23.527 INFO MicroPay: Micropay is processing...
+2015-12-16 14:13:23.837 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130019989454937644]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[50c427238a0d4883b61be2b9d5d722d7]]></nonce_str><out_trade_no><![CDATA[123341000220151216141323955]]></out_trade_no><sign><![CDATA[DED820307E143FA469D461E64E3F639E]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>2</total_fee></xml>
+2015-12-16 14:13:25.557 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[yzpVr5ax9M2PPEa9]]></nonce_str>
+<sign><![CDATA[9B3C7504427D1D3DC29442635C413A95]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJt1VKi6BMXBXC3nHIPuEDHE4]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<total_fee>2</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1009320669201512162116560961]]></transaction_id>
+<out_trade_no><![CDATA[123341000220151216141323955]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20151216141325]]></time_end>
+<cash_fee>2</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2015-12-16 14:13:25.617 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 14:13:25.617 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CCB_DEBIT]]></bank_type><cash_fee><![CDATA[2]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[N]]></is_subscribe><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[yzpVr5ax9M2PPEa9]]></nonce_str><openid><![CDATA[oS2tJt1VKi6BMXBXC3nHIPuEDHE4]]></openid><out_trade_no><![CDATA[123341000220151216141323955]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[9B3C7504427D1D3DC29442635C413A95]]></sign><time_end><![CDATA[20151216141325]]></time_end><total_fee><![CDATA[2]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1009320669201512162116560961]]></transaction_id></xml>
+2015-12-16 14:13:25.617 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CCB_DEBIT
+cash_fee=2
+cash_fee_type=
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=yzpVr5ax9M2PPEa9
+openid=oS2tJt1VKi6BMXBXC3nHIPuEDHE4
+out_trade_no=123341000220151216141323955
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=9B3C7504427D1D3DC29442635C413A95
+time_end=20151216141325
+total_fee=2
+trade_type=MICROPAY
+transaction_id=1009320669201512162116560961
+
+2015-12-16 14:16:29.991 INFO MicroPay: Micropay is processing...
+2015-12-16 14:16:29.991 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130019989454937644]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[ce195168b3bf4d4aa77fce02c34cb110]]></nonce_str><out_trade_no><![CDATA[123341000220151216141629865]]></out_trade_no><sign><![CDATA[83C1E5D73AA155508F20C7358C94B81F]]></sign><spbill_create_ip><![CDATA[192.168.131.1]]></spbill_create_ip><total_fee>2</total_fee></xml>
+2015-12-16 14:16:30.511 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[jClHPpqI59UzP48b]]></nonce_str>
+<sign><![CDATA[780F326077808E3DE75AD85084BDAEA9]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des>
+</xml>
+2015-12-16 14:16:30.531 DEBUG MicroPay: Micropay response check sign success
+2015-12-16 14:16:30.531 ERROR MicroPay: micropay API interface call success, business failure, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><err_code><![CDATA[AUTHCODEEXPIRE]]></err_code><err_code_des><![CDATA[每个二维码仅限使用一次，请刷新再试]]></err_code_des><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[jClHPpqI59UzP48b]]></nonce_str><result_code><![CDATA[FAIL]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[780F326077808E3DE75AD85084BDAEA9]]></sign></xml>
+2015-12-16 14:16:30.531 DEBUG WxPayInterface.WxAPI.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+err_code=AUTHCODEEXPIRE
+err_code_des=每个二维码仅限使用一次，请刷新再试
+mch_id=1233410002
+nonce_str=jClHPpqI59UzP48b
+result_code=FAIL
+return_code=SUCCESS
+return_msg=OK
+sign=780F326077808E3DE75AD85084BDAEA9
+

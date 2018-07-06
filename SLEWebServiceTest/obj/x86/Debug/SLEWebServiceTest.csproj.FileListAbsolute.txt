@@ -1,0 +1,277 @@
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\bin\Debug\log4net.config
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\项目\移动支付\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\bin\Debug\log4net.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\bin\Debug\log4net.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\bin\Debug\log4net.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\bin\Debug\log4net.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\bin\Debug\log4net.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\bin\Debug\log4net.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Form1.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.Properties.Resources.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.View.StationOrderForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.WebOrderTestForm.resources
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csproj.GenerateResource.Cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.exe
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\SLEWebServiceTest\obj\x86\Debug\SLEWebServiceTest.csprojResolveAssemblyReference.cache

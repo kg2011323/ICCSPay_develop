@@ -1,0 +1,141 @@
+2016-01-13 13:10:28.379 INFO MicroPay: 开始进行刷卡支付处理
+2016-01-13 13:10:28.629 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130523624278531743]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[8549c3c6ae364a90b94f8c4316edc1c2]]></nonce_str><out_trade_no><![CDATA[22222222222]]></out_trade_no><sign><![CDATA[CAC8AD314DB8D6511241C6FFFDE81B76]]></sign><spbill_create_ip><![CDATA[8.8.8.8]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2016-01-13 13:10:32.389 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[GOXx7sYYGmuoC7uC]]></nonce_str>
+<sign><![CDATA[50181237AC61714C360E8185ED184EEC]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1009840669201601132674187034]]></transaction_id>
+<out_trade_no><![CDATA[22222222222]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20160113131031]]></time_end>
+<cash_fee>1</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2016-01-13 13:10:32.489 DEBUG MicroPay: Micropay response check sign success
+2016-01-13 13:10:32.489 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CFT]]></bank_type><cash_fee><![CDATA[1]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[N]]></is_subscribe><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[GOXx7sYYGmuoC7uC]]></nonce_str><openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid><out_trade_no><![CDATA[22222222222]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[50181237AC61714C360E8185ED184EEC]]></sign><time_end><![CDATA[20160113131031]]></time_end><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1009840669201601132674187034]]></transaction_id></xml>
+2016-01-13 13:10:32.489 DEBUG WxPayInterfaceLib.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CFT
+cash_fee=1
+cash_fee_type=
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=GOXx7sYYGmuoC7uC
+openid=oS2tJtxFGGFUCMF9Ca51_U5lDprk
+out_trade_no=22222222222
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=50181237AC61714C360E8185ED184EEC
+time_end=20160113131031
+total_fee=1
+trade_type=MICROPAY
+transaction_id=1009840669201601132674187034
+
+2016-01-13 13:28:47.132 INFO MicroPay: 开始进行刷卡支付处理
+2016-01-13 13:28:47.352 ERROR WxPayException: 输入字符串的格式不正确。
+2016-01-13 13:28:47.402 ERROR WxPayException: mscorlib
+2016-01-13 13:28:47.412 ERROR WxPayException: Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+2016-01-13 13:29:25.029 ERROR WxPayException: 
+2016-01-13 13:31:27.214 INFO MicroPay: 开始进行刷卡支付处理
+2016-01-13 13:31:27.294 ERROR WxPayException: 输入字符串的格式不正确。
+2016-01-13 13:31:27.304 ERROR WxPayException: mscorlib
+2016-01-13 13:31:27.304 ERROR WxPayException: 
+2016-01-13 13:33:31.090 INFO MicroPay: 开始进行刷卡支付处理
+2016-01-13 13:33:35.880 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130425258119817374]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[d87778e094b248e8a588d8fecab52eef]]></nonce_str><out_trade_no><![CDATA[23333-03942-30492]]></out_trade_no><sign><![CDATA[4A83D2B3F9146F4BC8F33B5881D33315]]></sign><spbill_create_ip><![CDATA[8.8.8.8]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2016-01-13 13:33:37.981 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[TzphK3wOw9PHQY3I]]></nonce_str>
+<sign><![CDATA[E2EA170462D77BBCD877A831EDB1F4E5]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1009840669201601132674590370]]></transaction_id>
+<out_trade_no><![CDATA[23333-03942-30492]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20160113133337]]></time_end>
+<cash_fee>1</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2016-01-13 13:33:43.031 DEBUG MicroPay: Micropay response check sign success
+2016-01-13 13:33:44.342 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CFT]]></bank_type><cash_fee><![CDATA[1]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[N]]></is_subscribe><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[TzphK3wOw9PHQY3I]]></nonce_str><openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid><out_trade_no><![CDATA[23333-03942-30492]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[E2EA170462D77BBCD877A831EDB1F4E5]]></sign><time_end><![CDATA[20160113133337]]></time_end><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1009840669201601132674590370]]></transaction_id></xml>
+2016-01-13 13:33:44.652 DEBUG WxPayInterfaceLib.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CFT
+cash_fee=1
+cash_fee_type=
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=TzphK3wOw9PHQY3I
+openid=oS2tJtxFGGFUCMF9Ca51_U5lDprk
+out_trade_no=23333-03942-30492
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=E2EA170462D77BBCD877A831EDB1F4E5
+time_end=20160113133337
+total_fee=1
+trade_type=MICROPAY
+transaction_id=1009840669201601132674590370
+
+2016-01-13 13:41:36.824 INFO MicroPay: 开始进行刷卡支付处理
+2016-01-13 13:41:37.128 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><auth_code><![CDATA[130491865232767881]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[35a47b65889d49748812d4341d22fe13]]></nonce_str><out_trade_no><![CDATA[2312-30902349-324--7657]]></out_trade_no><sign><![CDATA[213C25B88977A07CAA6CC709663863EA]]></sign><spbill_create_ip><![CDATA[8.8.8.8]]></spbill_create_ip><total_fee>1</total_fee></xml>
+2016-01-13 13:41:38.929 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx2428e34e0e7dc6ef]]></appid>
+<mch_id><![CDATA[1233410002]]></mch_id>
+<nonce_str><![CDATA[HkedkuiwuRF5Nbm9]]></nonce_str>
+<sign><![CDATA[30A218982324661EAA7E867B1B035494]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CFT]]></bank_type>
+<total_fee>1</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1009840669201601132674734431]]></transaction_id>
+<out_trade_no><![CDATA[2312-30902349-324--7657]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20160113134138]]></time_end>
+<cash_fee>1</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2016-01-13 13:41:38.981 DEBUG MicroPay: Micropay response check sign success
+2016-01-13 13:41:38.982 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CFT]]></bank_type><cash_fee><![CDATA[1]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[N]]></is_subscribe><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[HkedkuiwuRF5Nbm9]]></nonce_str><openid><![CDATA[oS2tJtxFGGFUCMF9Ca51_U5lDprk]]></openid><out_trade_no><![CDATA[2312-30902349-324--7657]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[30A218982324661EAA7E867B1B035494]]></sign><time_end><![CDATA[20160113134138]]></time_end><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1009840669201601132674734431]]></transaction_id></xml>
+2016-01-13 13:41:38.982 DEBUG WxPayInterfaceLib.WxPayData: Print in Form : appid=wx2428e34e0e7dc6ef
+attach=
+bank_type=CFT
+cash_fee=1
+cash_fee_type=
+fee_type=CNY
+is_subscribe=N
+mch_id=1233410002
+nonce_str=HkedkuiwuRF5Nbm9
+openid=oS2tJtxFGGFUCMF9Ca51_U5lDprk
+out_trade_no=2312-30902349-324--7657
+result_code=SUCCESS
+return_code=SUCCESS
+return_msg=OK
+sign=30A218982324661EAA7E867B1B035494
+time_end=20160113134138
+total_fee=1
+trade_type=MICROPAY
+transaction_id=1009840669201601132674734431
+

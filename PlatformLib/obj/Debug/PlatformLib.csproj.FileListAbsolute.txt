@@ -1,0 +1,302 @@
+D:\AFC业务系统\清分移动支付\ICCSPay\PlatformLib\bin\Debug\PlatformLib.dll.config
+D:\AFC业务系统\清分移动支付\ICCSPay\PlatformLib\bin\Debug\PlatformLib.dll
+D:\AFC业务系统\清分移动支付\ICCSPay\PlatformLib\bin\Debug\PlatformLib.pdb
+D:\AFC业务系统\清分移动支付\ICCSPay\PlatformLib\obj\Debug\PlatformLib.dll
+D:\AFC业务系统\清分移动支付\ICCSPay\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\log4net.config
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\PlatformLib.dll
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\log4net.dll
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\ResultNofity.dll
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\LitJson.dll
+E:\项目\移动支付\ICCSPay\PlatformLib\bin\Debug\AopSdk.dll
+E:\项目\移动支付\ICCSPay\PlatformLib\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\移动支付\ICCSPay\PlatformLib\obj\Debug\PlatformLib.dll
+E:\项目\移动支付\ICCSPay\PlatformLib\obj\Debug\PlatformLib.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\log4net.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\PlatformLib.dll.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\PlatformLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\PlatformLib.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\ICCSPayAPI.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\log4net.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\ResultNofity.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\LitJson.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\bin\Debug\AopSdk.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\obj\Debug\PlatformLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay\PlatformLib\obj\Debug\PlatformLib.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\log4net.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\PlatformLib.dll.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\PlatformLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\PlatformLib.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\ICCSPayAPI.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\log4net.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\ResultNofity.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\LitJson.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\bin\Debug\AopSdk.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\obj\Debug\PlatformLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（云BOM）\PlatformLib\obj\Debug\PlatformLib.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\log4net.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\PlatformLib.dll.config
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\PlatformLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\PlatformLib.pdb
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\ICCSPayAPI.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\log4net.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\ResultNofity.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\LitJson.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\AopSdk.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\obj\Debug\PlatformLib.dll
+C:\Users\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay（优化）\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-1025\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1026\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ResultNofity.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-1219(增加无效随机因子标示)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170519(日志精简版)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170607(增加撤销支付退款异常处理)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170713(处理多并发情况)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170821(处理Dictionary异常)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\C\gaoke\Desktop\云购票\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20170826(界面优化)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能)\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20171213(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180311(具备银联扫码功能_仅限143or152服务器) - 副本\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll.config
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ICCSPayAPI.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\log4net.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\WxPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AlipayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\UnionPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\CCBPayInterfaceLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\LitJson.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ThoughtWorks.QRCode.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\AopSdk.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.pdb
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\obj\Debug\PlatformLib.csprojResolveAssemblyReference.cache
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\BouncyCastle.Crypto.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\Newtonsoft.Json.dll
+E:\办公电脑\D\2017年工作\开发室\多元化支付\平台建设\后台源代码\部署版源代码\ICCSPay(TVM拍码支付)-20180330(具备银联扫码功能_仅限143or152服务器) - 添加145\ICCSPay(TVM拍码支付)-public\PlatformLib\bin\Debug\ResultNofity.dll

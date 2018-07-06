@@ -1,0 +1,25 @@
+2016-01-15 12:39:56.620 INFO WeixinPay_Natvie:  request: goods, total_amount, auth_code, out_trade_noTVM购票支付,1,130410045293197428,201601151239510000000000000001
+2016-01-15 12:39:56.643 INFO MicroPay: 开始进行刷卡支付处理
+2016-01-15 12:39:56.738 DEBUG WxPayApi: MicroPay request : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><auth_code><![CDATA[130410045293197428]]></auth_code><body><![CDATA[TVM购票支付]]></body><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[166dd8ef1c334b3ba7fa54b3365e3980]]></nonce_str><out_trade_no><![CDATA[201601151239510000000000000001]]></out_trade_no><sign><![CDATA[651E47EEAF3E178D444CBC35D524F464]]></sign><spbill_create_ip><![CDATA[8.8.8.8]]></spbill_create_ip><total_fee>100</total_fee></xml>
+2016-01-15 12:39:58.745 DEBUG WxPayApi: MicroPay response : <xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx9068f3cc0220c35e]]></appid>
+<mch_id><![CDATA[1300362701]]></mch_id>
+<nonce_str><![CDATA[VLHF00S0rJ1ogShK]]></nonce_str>
+<sign><![CDATA[ECF0D9FDB75AA6B215770D6F79810C34]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<openid><![CDATA[oPB8XtzyV5diNjrx9nBOrMMFNFy0]]></openid>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<trade_type><![CDATA[MICROPAY]]></trade_type>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<total_fee>100</total_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<transaction_id><![CDATA[1007130218201601152709363813]]></transaction_id>
+<out_trade_no><![CDATA[201601151239510000000000000001]]></out_trade_no>
+<attach><![CDATA[]]></attach>
+<time_end><![CDATA[20160115123958]]></time_end>
+<cash_fee>100</cash_fee>
+<cash_fee_type><![CDATA[]]></cash_fee_type>
+</xml>
+2016-01-15 12:39:58.767 DEBUG MicroPay: Micropay response check sign success
+2016-01-15 12:39:58.767 DEBUG MicroPay: Micropay business success, result : <xml><appid><![CDATA[wx9068f3cc0220c35e]]></appid><attach><![CDATA[]]></attach><bank_type><![CDATA[CCB_DEBIT]]></bank_type><cash_fee><![CDATA[100]]></cash_fee><cash_fee_type><![CDATA[]]></cash_fee_type><fee_type><![CDATA[CNY]]></fee_type><is_subscribe><![CDATA[N]]></is_subscribe><mch_id><![CDATA[1300362701]]></mch_id><nonce_str><![CDATA[VLHF00S0rJ1ogShK]]></nonce_str><openid><![CDATA[oPB8XtzyV5diNjrx9nBOrMMFNFy0]]></openid><out_trade_no><![CDATA[201601151239510000000000000001]]></out_trade_no><result_code><![CDATA[SUCCESS]]></result_code><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg><sign><![CDATA[ECF0D9FDB75AA6B215770D6F79810C34]]></sign><time_end><![CDATA[20160115123958]]></time_end><total_fee><![CDATA[100]]></total_fee><trade_type><![CDATA[MICROPAY]]></trade_type><transaction_id><![CDATA[1007130218201601152709363813]]></transaction_id></xml>

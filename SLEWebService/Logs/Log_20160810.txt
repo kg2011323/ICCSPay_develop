@@ -1,0 +1,2 @@
+2016-08-10 10:26:32,815 INFO  6 :Application_Start:ASP.global_asax2016-08-10 10:26:32:Application Start!
+2016-08-10 10:27:04,648 INFO  10 :Application_End:ASP.global_asax2016-08-10 10:27:04:Application End!

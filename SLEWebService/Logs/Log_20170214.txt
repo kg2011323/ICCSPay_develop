@@ -1,0 +1,44 @@
+2017-02-14 14:18:16,232 INFO  5 :Application_Start:ASP.global_asax2017-02-14 14:18:16:Application Start!
+2017-02-14 14:25:12,564 INFO  15 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20170214142512,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:04,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016102614113200000000000001,takeSingleTicketNum:1,faultOccurDate:,faultSlipSeq:,erroCode:,errorMessage:}
+2017-02-14 14:25:14,277 INFO  15 SLEWebService:S1_005:Resp:{respCode:0009,respCodeMemo:,expandAttribute:}
+2017-02-14 14:25:14,278 DEBUG 15 SLEWebService:S1_005:1715.3348
+2017-02-14 14:26:09,054 INFO  14 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20170214142546,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:04,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016102614113200000000000001,takeSingleTicketNum:1,faultOccurDate:,faultSlipSeq:,erroCode:,errorMessage:}
+2017-02-14 14:27:08,994 INFO  14 SLEWebService:S1_005:Resp:{respCode:0009,respCodeMemo:,expandAttribute:}
+2017-02-14 14:27:08,994 DEBUG 14 SLEWebService:S1_005:59937.3684
+2017-02-14 14:27:43,023 INFO  14 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20170214142734,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:04,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016102614113200000000000001,takeSingleTicketNum:1,faultOccurDate:,faultSlipSeq:,erroCode:0007,errorMessage:}
+2017-02-14 14:27:56,134 ERROR 14 StationOrderBo:QRCStationOrderTakenErr:更新条目时出错。有关详细信息，请参见内部异常。
+2017-02-14 14:27:56,137 ERROR 14 StationOrderBo:QRCStationOrderTakenErr:不能将值 NULL 插入列 'RefundTradeNo'，表 'Cloud_BOM.dbo.WebOrderRefund'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+2017-02-14 14:27:56,138 INFO  14 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2017-02-14 14:27:56,138 DEBUG 14 SLEWebService:S1_005:13113.8883
+2017-02-14 14:28:13,240 INFO  20 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20170214142808,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:04,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016102614113200000000000001,takeSingleTicketNum:1,faultOccurDate:,faultSlipSeq:,erroCode:0007,errorMessage:}
+2017-02-14 14:30:12,863 ERROR 20 StationOrderBo:QRCStationOrderTakenErr:更新条目时出错。有关详细信息，请参见内部异常。
+2017-02-14 14:30:12,864 ERROR 20 StationOrderBo:QRCStationOrderTakenErr:不能将值 NULL 插入列 'RefundTradeNo'，表 'Cloud_BOM.dbo.WebOrderRefund'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+2017-02-14 14:30:12,864 INFO  20 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2017-02-14 14:30:12,864 DEBUG 20 SLEWebService:S1_005:119614.4675
+2017-02-14 14:30:56,939 INFO  19 :Application_End:ASP.global_asax2017-02-14 14:30:56:Application End!
+2017-02-14 14:31:03,760 INFO  5 :Application_Start:ASP.global_asax2017-02-14 14:31:03:Application Start!
+2017-02-14 14:31:21,354 INFO  11 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20170214143119,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:04,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016102614113200000000000001,takeSingleTicketNum:1,faultOccurDate:,faultSlipSeq:,erroCode:0007,errorMessage:}
+2017-02-14 14:31:24,857 ERROR 11 StationOrderBo:QRCStationOrderTakenErr:该属性不能设置为 null 值。
+2017-02-14 14:31:24,866 INFO  11 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2017-02-14 14:31:24,867 DEBUG 11 SLEWebService:S1_005:3514.6271
+2017-02-14 14:31:33,609 INFO  6 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20170214143128,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:04,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016102614113200000000000001,takeSingleTicketNum:1,faultOccurDate:,faultSlipSeq:,erroCode:0007,errorMessage:}
+2017-02-14 14:31:47,119 ERROR 6 StationOrderBo:QRCStationOrderTakenErr:该属性不能设置为 null 值。
+2017-02-14 14:31:47,120 INFO  6 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2017-02-14 14:31:47,121 DEBUG 6 SLEWebService:S1_005:13511.0864
+2017-02-14 14:32:03,571 INFO  6 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20170214143156,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:04,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016102614113200000000000001,takeSingleTicketNum:1,faultOccurDate:,faultSlipSeq:,erroCode:0007,errorMessage:}
+2017-02-14 14:32:46,741 ERROR 6 StationOrderBo:QRCStationOrderTakenErr:该属性不能设置为 null 值。
+2017-02-14 14:32:46,741 INFO  6 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2017-02-14 14:32:46,742 DEBUG 6 SLEWebService:S1_005:43167.3073
+2017-02-14 14:33:13,058 INFO  5 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20170214143305,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:04,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016102614113200000000000001,takeSingleTicketNum:1,faultOccurDate:,faultSlipSeq:,erroCode:0007,errorMessage:}
+2017-02-14 14:34:42,098 ERROR 5 StationOrderBo:QRCStationOrderTakenErr:该属性不能设置为 null 值。
+2017-02-14 14:34:42,100 INFO  5 SLEWebService:S1_005:Resp:{respCode:9999,respCodeMemo:,expandAttribute:}
+2017-02-14 14:34:42,100 DEBUG 5 SLEWebService:S1_005:89035.3663
+2017-02-14 14:34:46,335 INFO  6 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20170214143446,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:04,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016102614113200000000000001,takeSingleTicketNum:1,faultOccurDate:,faultSlipSeq:,erroCode:0007,errorMessage:}
+2017-02-14 14:34:48,962 INFO  6 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2017-02-14 14:34:48,962 DEBUG 6 SLEWebService:S1_005:2628.1882
+2017-02-14 14:35:16,048 INFO  5 SLEWebService:S1_005:Req:IP:[::1]:{reqSysDate:20170214143504,operationCode:S1-005,cityCode:020,deviceId:0101020031,channelType:04,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS2016102614113200000000000001,takeSingleTicketNum:1,faultOccurDate:,faultSlipSeq:,erroCode:0007,errorMessage:}
+2017-02-14 14:35:18,268 INFO  5 SLEWebService:S1_005:Resp:{respCode:0000,respCodeMemo:,expandAttribute:}
+2017-02-14 14:35:18,268 DEBUG 5 SLEWebService:S1_005:2220.8646
+2017-02-14 14:37:29,521 INFO  5 :Application_End:ASP.global_asax2017-02-14 14:37:29:Application End!

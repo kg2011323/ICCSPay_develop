@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\TVM_develop" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="SLEWebService_depoly" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="08/17/2016 14:52:06" />
+    <file relUrl="bin/SLEWebService.pdb" publishTime="08/17/2016 14:52:04" />
+    <file relUrl="bin/WxPayInterfaceLib.dll" publishTime="06/07/2016 14:40:41" />
+    <file relUrl="bin/PlatformLib.dll" publishTime="08/17/2016 14:52:03" />
+    <file relUrl="bin/ICCSPayAPI.dll" publishTime="06/07/2016 14:49:14" />
+    <file relUrl="bin/PlatformLib.pdb" publishTime="08/17/2016 14:52:03" />
+    <file relUrl="bin/ResultNofity.dll" publishTime="03/10/2016 09:31:19" />
+    <file relUrl="bin/log4net.dll" publishTime="11/18/2013 05:51:44" />
+    <file relUrl="bin/log4net.config" publishTime="01/26/2016 18:05:14" />
+    <file relUrl="SLEWebService.asmx" publishTime="02/02/2016 10:41:58" />
+    <file relUrl="bin/AlipayInterfaceLib.dll" publishTime="06/07/2016 14:49:12" />
+    <file relUrl="Global.asax" publishTime="07/19/2016 13:31:51" />
+    <file relUrl="bin/LitJson.dll" publishTime="05/19/2014 21:40:52" />
+    <file relUrl="StressTestWebService.asmx" publishTime="01/26/2016 14:43:26" />
+    <file relUrl="bin/SLEWebService.dll" publishTime="08/17/2016 14:52:04" />
+    <file relUrl="bin/ThoughtWorks.QRCode.dll" publishTime="10/12/2013 10:34:22" />
+    <file relUrl="bin/AopSdk.dll" publishTime="12/17/2015 15:18:27" />
+  </publishProfile>
+</publishData>

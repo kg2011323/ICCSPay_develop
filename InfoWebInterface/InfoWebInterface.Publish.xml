@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\项目\移动支付\ICCSPay\InfoWebInterface_deploy" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/PlatformLib.pdb" publishTime="01/07/2016 14:58:05" />
+    <file relUrl="Web.config" publishTime="01/07/2016 15:29:43" />
+    <file relUrl="bin/InfoWebInterface.dll" publishTime="01/07/2016 15:29:41" />
+    <file relUrl="bin/PlatformLib.dll" publishTime="01/07/2016 14:58:05" />
+    <file relUrl="InfoWebInterface.aspx" publishTime="01/07/2016 12:47:58" />
+    <file relUrl="bin/InfoWebInterface.pdb" publishTime="01/07/2016 15:29:40" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,29 @@
+2016-10-25 13:23:10,076 INFO  5 :Application_Start:ASP.global_asax2016-10-25 13:23:10:Application Start!
+2016-10-25 13:33:43,425 INFO  16 SLEWebService:S1_001:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0101,getOffStationCode:0102,singleTicketPrice:1,singleTicketNum:2,singleTicketType:0}
+2016-10-25 13:33:43,502 ERROR 16 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-10-25 13:33:44,914 INFO  16 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:S20161025133343000000000000001,subject:TVM扫码支付现场购票支付,body:0101到0102的0.02元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-10-25 13:33:44,915 DEBUG 16 SLEWebService:S1_001:1494.2608
+2016-10-25 13:45:29,002 INFO  22 :Application_End:ASP.global_asax2016-10-25 13:45:29:Application End!
+2016-10-25 13:47:12,992 INFO  14 :Application_Start:ASP.global_asax2016-10-25 13:47:12:Application Start!
+2016-10-25 13:47:25,553 INFO  16 SLEWebService:S1_001:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0101,getOffStationCode:0102,singleTicketPrice:1,singleTicketNum:2,singleTicketType:0}
+2016-10-25 13:47:25,559 ERROR 16 TimeHelper:GetDateTimeYyyyMMddHHmmss:String 引用没有设置为 String 的实例。
+参数名: s
+2016-10-25 13:47:25,762 INFO  16 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:QS20161025134725000000000000001,subject:TVM扫码支付现场购票支付,body:0101到0102的0.02元单程票,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-10-25 13:47:25,762 DEBUG 16 SLEWebService:S1_001:210.5395
+2016-10-25 13:49:23,841 INFO  10 SLEWebService:S1_001:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0101,getOffStationCode:0102,singleTicketPrice:1,singleTicketNum:2,singleTicketType:0}
+2016-10-25 13:49:23,841 INFO  10 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:QS20161025134725000000000000001,subject:,body:,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-10-25 13:49:23,841 DEBUG 10 SLEWebService:S1_001:1.5137
+2016-10-25 13:49:42,542 INFO  22 SLEWebService:S1_001:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],paymentCode:,msisdn:,iccid:,serviceId:,paymentVendor:1002,pickupStationCode:0101,getOffStationCode:0102,singleTicketPrice:1,singleTicketNum:2,singleTicketType:0}
+2016-10-25 13:49:42,543 INFO  22 SLEWebService:S1_001:Resp:{respCode:0000,respCodeMemo:,expandAttribute:System.Collections.Generic.List`1[System.String],partnerNo:,orderNo:QS20161025134725000000000000001,subject:,body:,payType:,amount:,account:,notifyUrl:,merchantCert:,timeout:1}
+2016-10-25 13:49:42,543 DEBUG 22 SLEWebService:S1_001:0.9246
+2016-10-25 13:50:01,388 INFO  20 :Application_End:ASP.global_asax2016-10-25 13:50:01:Application End!
+2016-10-25 13:52:38,378 INFO  11 SLEWebService:S1_004:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS20161025135017000000000000001,takeSingleTicketNum:0,takeSingleTicketDate:}
+2016-10-25 13:52:38,382 INFO  11 SLEWebService:S1_004:Resp:{respCode:0004,respCodeMemo:,expandAttribute:}
+2016-10-25 13:52:38,382 DEBUG 11 SLEWebService:S1_004:4.6885
+2016-10-25 13:53:13,404 INFO  17 SLEWebService:S1_004:Req:IP:[::1]:{reqSysDate:,operationCode:,cityCode:,deviceId:,channelType:,expandAttribute:System.Collections.Generic.List`1[System.String],orderNo:QS20161025135017000000000000001,takeSingleTicketNum:0,takeSingleTicketDate:}
+2016-10-25 13:53:39,588 INFO  17 SLEWebService:S1_004:Resp:{respCode:0004,respCodeMemo:,expandAttribute:}
+2016-10-25 13:53:39,589 DEBUG 17 SLEWebService:S1_004:26892.0198
+2016-10-25 13:53:59,154 INFO  11 :Application_End:ASP.global_asax2016-10-25 13:53:59:Application End!
+2016-10-25 14:19:01,069 INFO  6 :Application_End:ASP.global_asax2016-10-25 14:19:01:Application End!
+2016-10-25 14:21:23,548 INFO  16 :Application_End:ASP.global_asax2016-10-25 14:21:23:Application End!

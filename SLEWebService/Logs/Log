@@ -1,0 +1,29 @@
+2018-05-14 00:21:13,325 INFO  87 ExceptionHelper:ClearDict:字典S1记录条数：3
+2018-05-14 00:21:13,418 INFO  87 ExceptionHelper:ClearDict:当前时间为： 2018/5/14 0:21:13 上次终止时间： 2018-05-14 00:00:00
+2018-05-14 00:21:13,418 INFO  87 ExceptionHelper:ClearDict:S1_Clear
+2018-05-14 00:21:13,419 INFO  87 ExceptionHelper:ClearDict:字典S6记录条数：2
+2018-05-14 00:21:13,419 INFO  87 ExceptionHelper:ClearDict:S6_Clear
+2018-05-14 01:21:13,392 INFO  109 ExceptionHelper:ClearDict:字典S1记录条数：2
+2018-05-14 01:21:13,392 INFO  109 ExceptionHelper:ClearDict:当前时间为： 2018/5/14 1:21:13 上次终止时间： 2018-05-15 00:00:00
+2018-05-14 01:21:13,393 INFO  109 ExceptionHelper:ClearDict:字典S6记录条数：2
+2018-05-14 02:21:13,550 INFO  127 ExceptionHelper:ClearDict:字典S1记录条数：2
+2018-05-14 02:21:13,584 INFO  127 ExceptionHelper:ClearDict:当前时间为： 2018/5/14 2:21:13 上次终止时间： 2018-05-15 00:00:00
+2018-05-14 02:21:13,592 INFO  127 ExceptionHelper:ClearDict:字典S6记录条数：2
+2018-05-14 03:21:13,708 INFO  145 ExceptionHelper:ClearDict:字典S1记录条数：2
+2018-05-14 03:21:13,726 INFO  145 ExceptionHelper:ClearDict:当前时间为： 2018/5/14 3:21:13 上次终止时间： 2018-05-15 00:00:00
+2018-05-14 03:21:13,727 INFO  145 ExceptionHelper:ClearDict:字典S6记录条数：2
+2018-05-14 04:21:13,867 INFO  10 ExceptionHelper:ClearDict:字典S1记录条数：2
+2018-05-14 04:21:13,890 INFO  10 ExceptionHelper:ClearDict:当前时间为： 2018/5/14 4:21:13 上次终止时间： 2018-05-15 00:00:00
+2018-05-14 04:21:13,890 INFO  10 ExceptionHelper:ClearDict:字典S6记录条数：2
+2018-05-14 05:21:14,024 INFO  56 ExceptionHelper:ClearDict:字典S1记录条数：2
+2018-05-14 05:21:14,062 INFO  56 ExceptionHelper:ClearDict:当前时间为： 2018/5/14 5:21:14 上次终止时间： 2018-05-15 00:00:00
+2018-05-14 05:21:14,063 INFO  56 ExceptionHelper:ClearDict:字典S6记录条数：2
+2018-05-14 06:21:14,181 INFO  45 ExceptionHelper:ClearDict:字典S1记录条数：2
+2018-05-14 06:21:14,208 INFO  45 ExceptionHelper:ClearDict:当前时间为： 2018/5/14 6:21:14 上次终止时间： 2018-05-15 00:00:00
+2018-05-14 06:21:14,242 INFO  45 ExceptionHelper:ClearDict:字典S6记录条数：2
+2018-05-14 07:21:14,354 INFO  10 ExceptionHelper:ClearDict:字典S1记录条数：2
+2018-05-14 07:21:14,405 INFO  10 ExceptionHelper:ClearDict:当前时间为： 2018/5/14 7:21:14 上次终止时间： 2018-05-15 00:00:00
+2018-05-14 07:21:14,424 INFO  10 ExceptionHelper:ClearDict:字典S6记录条数：2
+2018-05-14 08:21:14,497 INFO  142 ExceptionHelper:ClearDict:字典S1记录条数：2
+2018-05-14 08:21:14,536 INFO  142 ExceptionHelper:ClearDict:当前时间为： 2018/5/14 8:21:14 上次终止时间： 2018-05-15 00:00:00
+2018-05-14 08:21:14,536 INFO  142 ExceptionHelper:ClearDict:字典S6记录条数：2

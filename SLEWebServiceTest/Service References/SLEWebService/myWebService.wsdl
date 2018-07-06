@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="S1_001">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="orderCommitReq" type="tns:OrderCommitReq" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="OrderCommitReq">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Request">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="reqSysDate" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="operationCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="cityCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="deviceId" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="channelType" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="paymentCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="msisdn" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="iccid" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="serviceId" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="paymentVendor" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="pickupStationCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="getOffStationCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="singleTicketPrice" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="singleTicketNum" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="singleTicketType" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="Request" />
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="S1_001Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="S1_001Result" type="tns:OrderCommitResp" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="OrderCommitResp">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Responce">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="respCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="respCodeMemo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="partnerNo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="orderNo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="subject" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="body" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="payType" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="amount" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="account" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="notifyUrl" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="merchantCert" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="timeout" type="s:int" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="Responce" />
+      <s:element name="S1_002">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="queryPaymentResultReq" type="tns:QueryPaymentResultReq" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="QueryPaymentResultReq">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Request">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="reqSysDate" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="operationCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="cityCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="deviceId" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="channelType" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="orderNo" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="S1_002Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="S1_002Result" type="tns:QueryPaymentResultResp" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="QueryPaymentResultResp">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Responce">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="respCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="respCodeMemo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="paymentDate" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="amount" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="paymentAccount" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="paymentResult" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="paymentDesc" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="S1_006">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ticketVerificationReq" type="tns:TicketVerificationReq" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="TicketVerificationReq">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Request">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="reqSysDate" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="operationCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="cityCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="deviceId" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="channelType" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="orderNo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="orderToken" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="S1_006Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="S1_006Result" type="tns:TicketVerificationResp" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="TicketVerificationResp">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Responce">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="respCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="respCodeMemo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="orderNo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="userMsisdn" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="pickupStationCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="getOffStationCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="singleTicketPrice" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="singleTicketNum" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="singleTicketType" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="S1_003">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="orderExecuteBeginReq" type="tns:OrderExecuteBeginReq" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="OrderExecuteBeginReq">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Request">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="reqSysDate" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="operationCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="cityCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="deviceId" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="channelType" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="orderNo" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="S1_003Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="S1_003Result" type="tns:OrderExecuteBeginResp" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="OrderExecuteBeginResp">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Responce">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="respCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="respCodeMemo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="S1_004">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="orderExecuteResultReq" type="tns:OrderExecuteResultReq" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="OrderExecuteResultReq">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Request">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="reqSysDate" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="operationCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="cityCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="deviceId" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="channelType" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="orderNo" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="takeSingleTicketNum" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="takeSingleTicketDate" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="S1_004Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="S1_004Result" type="tns:OrderExecuteResultResp" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="OrderExecuteResultResp">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Responce">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="respCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="respCodeMemo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="S1_005">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="orderExecuteFaultReq" type="tns:OrderExecuteFaultReq" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="OrderExecuteFaultReq">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Request">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="reqSysDate" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="operationCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="cityCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="deviceId" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="channelType" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="orderNo" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="takeSingleTicketNum" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="faultOccurDate" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="faultSlipSeq" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="erroCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="errorMessage" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="S1_005Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="S1_005Result" type="tns:OrderExecuteFaultResp" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="OrderExecuteFaultResp">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Responce">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="respCode" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="respCodeMemo" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="expandAttribute" type="tns:ArrayOfString" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="S1_001SoapIn">
+    <wsdl:part name="parameters" element="tns:S1_001" />
+  </wsdl:message>
+  <wsdl:message name="S1_001SoapOut">
+    <wsdl:part name="parameters" element="tns:S1_001Response" />
+  </wsdl:message>
+  <wsdl:message name="S1_002SoapIn">
+    <wsdl:part name="parameters" element="tns:S1_002" />
+  </wsdl:message>
+  <wsdl:message name="S1_002SoapOut">
+    <wsdl:part name="parameters" element="tns:S1_002Response" />
+  </wsdl:message>
+  <wsdl:message name="S1_006SoapIn">
+    <wsdl:part name="parameters" element="tns:S1_006" />
+  </wsdl:message>
+  <wsdl:message name="S1_006SoapOut">
+    <wsdl:part name="parameters" element="tns:S1_006Response" />
+  </wsdl:message>
+  <wsdl:message name="S1_003SoapIn">
+    <wsdl:part name="parameters" element="tns:S1_003" />
+  </wsdl:message>
+  <wsdl:message name="S1_003SoapOut">
+    <wsdl:part name="parameters" element="tns:S1_003Response" />
+  </wsdl:message>
+  <wsdl:message name="S1_004SoapIn">
+    <wsdl:part name="parameters" element="tns:S1_004" />
+  </wsdl:message>
+  <wsdl:message name="S1_004SoapOut">
+    <wsdl:part name="parameters" element="tns:S1_004Response" />
+  </wsdl:message>
+  <wsdl:message name="S1_005SoapIn">
+    <wsdl:part name="parameters" element="tns:S1_005" />
+  </wsdl:message>
+  <wsdl:message name="S1_005SoapOut">
+    <wsdl:part name="parameters" element="tns:S1_005Response" />
+  </wsdl:message>
+  <wsdl:portType name="myWebService1Soap">
+    <wsdl:operation name="S1_001">
+      <wsdl:input message="tns:S1_001SoapIn" />
+      <wsdl:output message="tns:S1_001SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="S1_002">
+      <wsdl:input message="tns:S1_002SoapIn" />
+      <wsdl:output message="tns:S1_002SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="S1_006">
+      <wsdl:input message="tns:S1_006SoapIn" />
+      <wsdl:output message="tns:S1_006SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="S1_003">
+      <wsdl:input message="tns:S1_003SoapIn" />
+      <wsdl:output message="tns:S1_003SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="S1_004">
+      <wsdl:input message="tns:S1_004SoapIn" />
+      <wsdl:output message="tns:S1_004SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="S1_005">
+      <wsdl:input message="tns:S1_005SoapIn" />
+      <wsdl:output message="tns:S1_005SoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="myWebService1HttpGet" />
+  <wsdl:portType name="myWebService1HttpPost" />
+  <wsdl:binding name="myWebService1Soap" type="tns:myWebService1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="S1_001">
+      <soap:operation soapAction="http://tempuri.org/S1_001" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="S1_002">
+      <soap:operation soapAction="http://tempuri.org/S1_002" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="S1_006">
+      <soap:operation soapAction="http://tempuri.org/S1_006" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="S1_003">
+      <soap:operation soapAction="http://tempuri.org/S1_003" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="S1_004">
+      <soap:operation soapAction="http://tempuri.org/S1_004" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="S1_005">
+      <soap:operation soapAction="http://tempuri.org/S1_005" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="myWebService1Soap12" type="tns:myWebService1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="S1_001">
+      <soap12:operation soapAction="http://tempuri.org/S1_001" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="S1_002">
+      <soap12:operation soapAction="http://tempuri.org/S1_002" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="S1_006">
+      <soap12:operation soapAction="http://tempuri.org/S1_006" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="S1_003">
+      <soap12:operation soapAction="http://tempuri.org/S1_003" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="S1_004">
+      <soap12:operation soapAction="http://tempuri.org/S1_004" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="S1_005">
+      <soap12:operation soapAction="http://tempuri.org/S1_005" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="myWebService1HttpGet" type="tns:myWebService1HttpGet">
+    <http:binding verb="GET" />
+  </wsdl:binding>
+  <wsdl:binding name="myWebService1HttpPost" type="tns:myWebService1HttpPost">
+    <http:binding verb="POST" />
+  </wsdl:binding>
+  <wsdl:service name="myWebService1">
+    <wsdl:port name="myWebService1Soap" binding="tns:myWebService1Soap">
+      <soap:address location="http://58.63.71.41:9090/myWebService/myWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="myWebService1Soap12" binding="tns:myWebService1Soap12">
+      <soap12:address location="http://58.63.71.41:9090/myWebService/myWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="myWebService1HttpGet" binding="tns:myWebService1HttpGet">
+      <http:address location="http://58.63.71.41:9090/myWebService/myWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="myWebService1HttpPost" binding="tns:myWebService1HttpPost">
+      <http:address location="http://58.63.71.41:9090/myWebService/myWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
